@@ -1,3 +1,4 @@
+``` mermaid
 mindmap
   root((Digital Community Zine))
     Zine Culture
@@ -15,3 +16,4 @@ mindmap
     Tools
       Pen and paper
       Mermaid
+```
