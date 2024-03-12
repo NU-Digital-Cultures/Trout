@@ -1,5 +1,5 @@
 ### About this project
-This is the beginning of our project. We will be populating this read.me file as we go along.
+_This is the beginning of our project. We will be populating this read.me file as we go along._
 
 Ethical questions surrounding the legal frameworks of using data:
 
