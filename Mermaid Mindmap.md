@@ -4,7 +4,10 @@ mindmap
     Historic signficance of zine culture
       Incorporate elements of zine culture in developing our Digital Community Zine app
       Adopt an advocacy/ community-led approach
-    Using interactive Literature to truly empower tenants
+    Using interactive literature to truly empower tenants
       Research traditional conventions- will we do something that subverts this/ does something different?
-     
+    Digital Storytelling
+    Means of collecting any data that we need
+      How we would get submissions
+      How we process submissions
 ```
