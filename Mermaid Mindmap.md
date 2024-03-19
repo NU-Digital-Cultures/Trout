@@ -1,19 +1,10 @@
 ``` mermaid
 mindmap
-  root((Digital Community Zine))
-    Zine Culture
-      Long history
-      ::icon(fa fa-book)
-      Popularisation
-        British popular psychology author Tony Buzan
-    Interactive Literature
-      On effectivness<br/>and features
-      On Automatic creation
-        Uses
-            Creative techniques
-            Strategic planning
-            Argument mapping
-    Tools
-      Pen and paper
-      Mermaid
+  root((Existing project solutions fall short of humanising the client's problems and fail to convey the full extent of emotional tolls and experiences of tenants))
+    Historic signficance of zine culture
+      Incorporate elements of zine culture in developing our Digital Community Zine app
+      Adopt an advocacy/ community-led approach
+    Using interactive Literature to truly empower tenants
+      Research traditional conventions- will we do something that subverts this/ does something different?
+     
 ```
