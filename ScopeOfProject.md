@@ -1,6 +1,6 @@
-mermaid
+``` mermaid
 flowchart TD
-    B('Tenant Talk' app fa:fa-handshake : our campaign developed for HtN)
+    B(The 'Tenant Talk' app fa:fa-handshake: our campaign developed for HtN)
     B --> C{Data-based advocacy approach}
     C -->|Quantitative data| D[fa:fa-map Interactive map using Leaflet, using data sourced from: ?]
     C -->|Qualitative data| E[fa:fa-paintbrush Tenants' real-life stories and experiences of renting]
