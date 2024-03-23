@@ -14,5 +14,5 @@ mindmap
       Zines offer "inclusive" and a "firmly emancipatory approach" to activism by historically providing an "intellectual space outside of the mainstream." Brown et al., 2021, p.1-2
       Zines can provide almost limitless creative possibilities when it comes to addressing the social side of the topic, creative process, and the hysical construction of the zine itself.
       Creating a zine could invoke passionate responses from respondents, as it has worked traditionally as a means of creative self expression of niche communities/ independent publishing
-   See 'Mermaid Maps' Bibiliography' for references for the works cited in this mindmap.
+   See 'BibiliographyForMermaidMaps.md' for references for the works cited in this mindmap.
 ```
