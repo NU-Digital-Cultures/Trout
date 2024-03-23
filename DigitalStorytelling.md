@@ -34,5 +34,5 @@ mindmap
       It requires the participants and sponsoring organisations to "make complicated ethical judgements and recruiting storytellers", "the role of storytellers in the process", and how those stories are represented on their own and/ or in relation to others. Dush, 2012, p.627
         To overcome this, we would need to think critically about how we select tenants as storytellers and how we intend to represent their stories
           We also need to consider how we represent data on the interactive map- how will we meaningfully organise geographical space to best convey our agenda?
-    See 'Mermaid Maps' Bibiliography' for references for the works cited in this mindmap.
+    See 'BibiliographyForMermaidMaps.md' for references for the works cited in this mindmap.
 ```
