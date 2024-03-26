@@ -4,7 +4,7 @@ flowchart TD
     B --> C{Elements to consider}
     C -->|Data| D[- What quantitative data will we display on the map and why
 - We need to consider why we are using a map in the first place- how does using a map further our agenda/ why is it the best suited approach to making our project?
-- How to best display the quantitative data on the map- eg. potenetially a Heat Map?]
+- How to best display the quantitative data on the map- eg. potenetially a Heat Map? Where it goes red to green based on a certain criteria of rating]
     D--->|Organisation of geographic space| E[- How will we geographically distinguish the different areas of Newcastle
 - Electoral ward boundaries? Or a more arbritary approach where we decide the mapping of areas
 - Include points-based data on top of area data
