@@ -2,13 +2,15 @@
 
  **What contribution will tenants make?**
  - Tenants will upload personal submissions to TenantTalk via our app
- - Submissions can include written extracts, images, artwork, poetry etc. As - points, within digital storytelling
+ - Submissions can include written extracts, images, videos, artwork, poetry etc. As - points, within digital storytelling
  - For photos/ artwork, our app will allow users to upload photos from their camera roll/ take pictures of their artwork
- - Perhaps we could even allow uploads from to showcase 3D perspectives of tenants' artwork
+ - Perhaps we could even allow uploads from Polycam or of 360 photos to showcase 3D perspectives of tenants' artwork/ photographic and videographic experiences. Almost like a 'visual diary' can be uploaded
 
 **How will tenants submissions be represented?**
-  - TenantTalk allows for tenants to represent their submissions in various ways
-  - 
+  - As our app provides a digital storytelling feature for users to utilse, our app also consequently dictates the means by which tenants' stories are told. As Dush highlights, being a 'sponsor' to the storytelling of someone else's experience can lead to "appropriating someone else's story if they are not given creative control at all moments." Dush, 2012, p.631
+  - Therefore, TenantTalk allows for tenants to represent their submissions in various ways/ utilise different mediums of conveying their personal realities, which permits self-dictation over how their stories are told and by what means
+  - We will also think critically and evaluate throughout the process our role as storyteller facilitators 
+
   **How will tenants' submissions to the app be presented on our interactive map and on our app interface?**
   - As a pop-up when the user hovers over/ clicks upon a property or area
   - Idea that responses will be tied/ geographically linked to the area they were submitted from/ perhaps even property that they were submitted about
