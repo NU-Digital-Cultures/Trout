@@ -65,6 +65,7 @@ Definitional way of lookng at gentrification
 - Those partial to market solutions use neutral terms- neighbourhood revitalisation/ renaissance
 - Realtors/ those wanting to boost the city- choice portrayed aa s between growth in declining city or continued social and physical decline p.2344
   <br>
+  <br>
 
 Political way of looking at gentrification (who it affects and what should be done about it) 
 - Whether it represents a problem at all has been debated p.2344
@@ -76,3 +77,19 @@ Political way of looking at gentrification (who it affects and what should be do
 - Leads to question of whether these benefits are justified given the social costs involved
 - But it is often not a net gain of population as gentrifiers tend to come from the same city- so it is not a fiscal gift as some see it
 - "A review of all the English-language empirical research from 1964 to 2001 (Atkinson, 2002) revealed that gentrification has largely negaative impacts on neighbourhoods p.2345
+<br>
+
+### Newcastle: Ltd (2023) *The Gentrification And Urban Development Of Newcastle Upon Tyne*. Available at: https://newcastle.ltd/the-gentrification-and-urban-development-of-newcastle-upon-tyne/ (Accessed: 31 March 2024).
+- 
+
+<br>
+
+### Cool Geography (2024) *Newcastle-upon-Tyne case study*. Available at: https://www.coolgeography.co.uk/A-level/AQA/Year%2013/World%20Cities/Newcastle/Newcastle.htm (Accessed: 31 March 2024).
+- Not an academic source but clearly showcases the impacts of gentrification on the Newcastle area specific buldings/ architecture
+- A more modern take on this would be for us to look at NE1 developments and regeneration initiatives
+
+### Medium (2018) *Student Gentrification*. Available at: https://medium.com/@3pointohnine/student-gentrification-fc5e316e3280 (Accessed: 31 March 2024).
+- Ouseburn is a major victim of gentrification and has seen a huge influx of new student accomodation being built
+- The poem cited in this could be used as an example of one of the tenants' submissions
+- There are various of protests and petitions aimed at preventing the gentrification of Newcastle (can just search and many come up eg. on Change.org)
+- Byker is also a victm: https://newcastleareas.wordpress.com/byker/byker-a-way-forward/ 
