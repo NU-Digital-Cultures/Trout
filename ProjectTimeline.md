@@ -8,6 +8,7 @@ gantt
     Research digital storytelling:2024-03-18, 7d
     Set out scope of project:2024-03-14, 7d
     Create app intro page:2024-03-26, 7d
+    Consider logistics of tenant contributions:2024-03-18, 10d
     Optimal Workshop Survey:2024-03-26, 7d
     section Charlotte
     Task in sec      :2024-03-12  , 12d
