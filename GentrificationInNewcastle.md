@@ -58,7 +58,7 @@
 <br>
 
 Definitional way of lookng at gentrification
-- Sees gentrification comprised of two processes: 1. "the class based colonisation of cheaper residential neighbourhoods" 2. "a reinvestment in the physical housing stock" p.2343-2344
+- Sees gentrification comprised of two processes: 1. "the class based colonisation of cheaper residential neighbourhoods" 2. "a reinvestment in the physical housing stock" pp.2343-2344
 - This is the most agreed definition- some argue displacement is a necessary factor, others not. Some have debated whether the habitation of vacant/ derelict property included in the term
 - This author argues that the "fundamental stamp of gentrification is the tracking of new settlement patterns of the middle classes. Detailing where members of this group move, conveyed by outward-looking social networks and financial resources, and the differential effectsthis has" - so a targetted analysis of middle-class resettlement p. 2344
 - For lose on the political left- "insidious vanguard", dislocatng social problems and problem people
