@@ -40,7 +40,7 @@
  <br>
 <br>
 
-  Newcastle's wider context/ population type at the time:
+  Newcastle's wider context/ population type at the time and why gentrification occured (theoretical):
 - Small city, about a quarter of a million people p.2368
 - Newcastle has "long been a paradigm of deindustrialisation and economic and population decline"
 - It is a post-industrial city
@@ -53,5 +53,26 @@
 - So, what all of this shows is that Newcastle has historically been a city of economic polarisation and thus a well-set hotbed for gentrification to occur p.2368
 <br>
 
-### Atkinson, R. (2003) 'Introduction: Misunderstood Saviour or Vengeful Wrecker? The Many Meanings and Problems of Gentrification', Urban Studies, 40(12), pp. 2343-2350. Available at: https://openurl-ebsco-com.libproxy.ncl.ac.uk/linksvc/linking.aspx?sid=Primo&volume=40&date=20031101&spage=2343&issn=0042-0980&issue=12&genre=article&title=Urban+studies.&epage=2584 (Accessed: 31 March 2024).
-- Useful gentrification definition
+### Atkinson, R. (2003) 'Special issue: The gentry in the city: upward neighbourhood trajectories and gentrification', Urban Studies, 40(12), pp. 2343-2350. Available at: https://openurl-ebsco-com.libproxy.ncl.ac.uk/linksvc/linking.aspx?sid=Primo&volume=40&date=20031101&spage=2343&issn=0042-0980&issue=12&genre=article&title=Urban+studies.&epage=2584 (Accessed: 31 March 2024).
+- Similarly an older piece but useful gentrification definition and includes different ways of looking at the problem
+<br>
+
+Definitional way of lookng at gentrification
+- Sees gentrification comprised of two processes: 1. "the class based colonisation of cheaper residential neighbourhoods" 2. "a reinvestment in the physical housing stock" p.2343-2344
+- This is the most agreed definition- some argue displacement is a necessary factor, others not. Some have debated whether the habitation of vacant/ derelict property included in the term
+- This author argues that the "fundamental stamp of gentrification is the tracking of new settlement patterns of the middle classes. Detailing where members of this group move, conveyed by outward-looking social networks and financial resources, and the differential effectsthis has" - so a targetted analysis of middle-class resettlement p. 2344
+- For lose on the political left- "insidious vanguard", dislocatng social problems and problem people
+- Those partial to market solutions use neutral terms- neighbourhood revitalisation/ renaissance
+- Realtors/ those wanting to boost the city- choice portrayed aa s between growth in declining city or continued social and physical decline p.2344
+  <br>
+
+Political way of looking at gentrification (who it affects and what should be done about it) 
+- Whether it represents a problem at all has been debated p.2344
+- Gentrification represents a corrosive influence
+- The key social groups that benefit from new economies, both financial and e-commerce, have been at the forefront of social changes
+- Gentrification transforms the character or run down areas- households have fewer choices in "hot property markets", they are displaced through rent increases and unable to secure another local dwelling
+- So the problem is the  social cost of local household dislocation and the difficulty of re-entering the inner city
+- On political right- displacement "has been acknowledged but seen as an unfortunate corollary of processes that are revitalising city centres, attracting private investment and securing the physical fabric of architecturally valuable neighbourhoods"- they ignore the social cost as it prevents city decline/ decaying neighbourhoods/ dwindling local tax bases
+- Leads to question of whether these benefits are justified given the social costs involved
+- But it is often not a net gain of population as gentrifiers tend to come from the same city- so it is not a fiscal gift as some see it
+- "A review of all the English-language empirical research from 1964 to 2001 (Atkinson, 2002) revealed that gentrification has largely negaative impacts on neighbourhoods p.2345
