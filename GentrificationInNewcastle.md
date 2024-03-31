@@ -16,6 +16,7 @@
 - This is a much older article, however explores similar issues to our project, specifically the tension/ conflict between the incoming of more affluent individuals and existing local residents
 - Similar to TenantTalk, it highlights "the imperative to consult and empower local residents" in the face of gentrification processes
 - This article will allow us to understand how gentrificaton has operated in Newcastle historically
+- Also allows us to develop a working definition of gentrification
 <br>
 
 *Going for Growth*
@@ -26,12 +27,20 @@
 - This gentrification-promoting policy was driven by fear about the economic future of the city/ people living outside city boundaries p.2369
 - So, aimed to tackle growing economic/ social division in city. Idea of balancing out economic/ social levels throughout the city with regeneration initiatives
 - Core strategy= large-scale housing redevelopment: "6600 dwellings demolished - 5000 in West End and 1600 in the East End" which were mostly in areas of council housing. In their place, "new housing would be constructed by private developers and Registered Social Landlords." p.2369
-- All backed by the idea of introducing a new, more middle-class population to these areas
-> blockquote introduce a new population which will be integrated with existing communities [and] create the size and diversity of population to support the development of new schools and other essential community infrastructures - NCC, 2000a, p.16
+- All backed by the idea of introducing a new, more middle-class population to these areas:
+> "introduce a new population which will be integrated with existing communities [and] create the size and diversity of population to support the development of new schools and other essential community infrastructures." (NCC, 2000, p.16)
+> - NCC (Newcastle City Council) (2000) Going for Growth: A Green Paper Newcastle: NCC.
+- Used the failings of past policies to adopt a more holistic, radical, and heavy-handed approach. Stated they didn't work as Newcastle was still suffering from poverty and decline p.2370
+- There were local protests and oppositon from Liberal Democrats who "produced alternative proposals for a more community-based approach" p.2371
+- *Going for Growth* was gentrification as it "combined two essential elements of *displacement* of the existting lower income population and their *replacement* with more affluent households" with the "clear intention [...] that the population which replaces them wll be drawn from a different social stratum- owner-occupiers rather than social tenants, working rather than unemployed or economically inactive and with comparatively higher incomes and social status" **We could use this as a possible definition for gentrification**. Idea of the disadvantaging of the population displaced p.2372
+- To assess whether there is disadvantage, look at relocation policies adopted by the City Council. In this case, there was sufficient alternative council housing offered and displaced tenants were given priority for rehousing. p.2372
+- But what if not possible or desirable:
+> "Some will be rehoused in the are or within the city and some wll choose to leave the area [...] there is not a blanket promise that everyone who wants to move back will." (*Newcastle Evening Chronicle*, 2000) (Kevin Jones quote)
+> - *Newcastle Evening Chronicle* (2000) 'City fears answered'
  <br>
 <br>
 
-  Newcastle's wider context/ population type at the time
+  Newcastle's wider context/ population type at the time:
 - Small city, about a quarter of a million people p.2368
 - Newcastle has "long been a paradigm of deindustrialisation and economic and population decline"
 - It is a post-industrial city
@@ -42,3 +51,7 @@
 - Social problems of crime and anti-social behaviour further high levels of vacancy
 - People migrate to areas regarded as safer and higher-status
 - So, what all of this shows is that Newcastle has historically been a city of economic polarisation and thus a well-set hotbed for gentrification to occur p.2368
+<br>
+
+### Atkinson, R. (2003) 'Introduction: Misunderstood Saviour or Vengeful Wrecker? The Many Meanings and Problems of Gentrification', Urban Studies, 40(12), pp. 2343-2350. Available at: https://openurl-ebsco-com.libproxy.ncl.ac.uk/linksvc/linking.aspx?sid=Primo&volume=40&date=20031101&spage=2343&issn=0042-0980&issue=12&genre=article&title=Urban+studies.&epage=2584 (Accessed: 31 March 2024).
+- Useful gentrification definition
