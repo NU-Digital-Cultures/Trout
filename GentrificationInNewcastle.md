@@ -80,7 +80,40 @@ Political way of looking at gentrification (who it affects and what should be do
 <br>
 
 ### Newcastle: Ltd (2023) *The Gentrification And Urban Development Of Newcastle Upon Tyne*. Available at: https://newcastle.ltd/the-gentrification-and-urban-development-of-newcastle-upon-tyne/ (Accessed: 31 March 2024).
-- 
+- This website details specific impacts and signifiers of gentrification in Newcastle
+
+<br>
+
+- Newcastle has undergone significant transformation in recent years
+- Signifiers of gentrification= "physical infrastructure, cultural composition, and socioeconomic status of the area" para.2
+<br>
+
+Impact on housing and real estate 
+- Visbible signifier of gentrification= city housing and real estate market
+- New residential developments that have sprung up, which cater to high demands of modern upscaled living spaces. para.3
+- Former industrial sites like Ouseburn Valley and Quayside have been repurposed into trendy waterfront apartments and creative hubs (but some argue creativity is lost (there are many news articles detailing this))
+- They were once factories/ warehouses and now they attract professionals and artists, changing the demographic makeup of neighbourhoods para.4
+- Rise in property values and rents- concerns about housing affordability, making it difficult for low-income individuals to remain in their neighbourhoods,  and displacement of longterm residents. para.5
+  <Br>
+
+Cultural scene revitalised/ urban renewal
+- Specifically in areas of Jesmond and Ouseburn
+- They are popular destinations for locals and tourists as they now have thriving food and beverage scenes and vibrants arts/ musical festivals
+- This has brought new cultural experiences and economic opportunities to the city. para.7
+- But the negative side- "new cultural attractions also risk erasing the identity of the original communities and pushing out local businesses that can no longer afford to operate in the face of rising rents and competition." para.8
+<br>
+
+Improved infrastructure and public spaces
+- Particularly the Quayside area
+- Due to NE1 developments: https://www.google.com/search?client=safari&rls=en&q=ne1+developments&ie=UTF-8&oe=UTF-8
+- Revitalised with public art installations, modernised infrastructure. para.9
+- Boosts local economy and attracts visitors/ businessness/ creates job opportunites. para.10
+- But can argue these changes benefit primarily wealthier populations, neglecting the needs of low income residents who can't take advantage of new developments. para.11
+<br>
+
+Community resistance to gentrification
+- Community groups/ organisations have voiced concerns about displacement of long-term residents, rising inequality, and the loss of affordable housng and local businesses. para.12
+- This bit is relevant to our project: "it is important for [...] community members to work together to implement measures that prioritize inclusivity and equitable development. This may involve the implementation of affordable housing policies, the preservation of cultural heritage, and the promotion of local ownership and businesses." para.13
 
 <br>
 
@@ -92,4 +125,4 @@ Political way of looking at gentrification (who it affects and what should be do
 - Ouseburn is a major victim of gentrification and has seen a huge influx of new student accomodation being built
 - The poem cited in this could be used as an example of one of the tenants' submissions
 - There are various of protests and petitions aimed at preventing the gentrification of Newcastle (can just search and many come up eg. on Change.org)
-- Byker is also a victm: https://newcastleareas.wordpress.com/byker/byker-a-way-forward/ 
+- Byker is also a victim: https://newcastleareas.wordpress.com/byker/byker-a-way-forward/ 
