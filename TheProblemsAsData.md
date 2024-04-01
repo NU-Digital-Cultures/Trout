@@ -10,7 +10,6 @@ mindmap
           As the "fundamental stamp of gentrification is the tracking of new settlement patterns of the middle classes." Atkinson ,2003, p.2344
           Or, could approach from the opposite angle and include data showing migrantion into the city of more affluent households/ middle-classes
           Targetted analysis of middle class resettlement
-        Data of unemployment levels
         Data of anti-social behaviour/ crime- they signify more vacant areas. Caameron ,2003, p.2368
           Population data
         Highlighting areas that have been revitalised/ regenerated to look/ serve a more 'modern' economic function
