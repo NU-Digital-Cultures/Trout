@@ -1,6 +1,8 @@
  # Academic literature relating to Gentrification
  ## This content will be used and referenced to in the introductory pages of our app
 <br>
+Blythe's section:
+<br>
 
  ### Whiting, J. and Hannam, K. (2017) ''The secret garden': Artists, bohema and gentrifcation in the Ouseburn Valley, Newcastle upon Tyne, UK', *European Urban and Regional Studies*, 24(3), pp. 318-334. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1177/0969776416643750  
 - From the perspective of artists and their experiences of 'gentrifying bohemia' in the Ouseburn Valley, Newcastle upon Tyne
@@ -126,3 +128,53 @@ Community resistance to gentrification
 - The poem cited in this could be used as an example of one of the tenants' submissions
 - There are various of protests and petitions aimed at preventing the gentrification of Newcastle (can just search and many come up eg. on Change.org)
 - Byker is also a victim: https://newcastleareas.wordpress.com/byker/byker-a-way-forward/ 
+<br>
+
+<br>
+
+<br>
+
+
+Ethan's section:
+
+<br>
+
+_**Research Topic**: The bad of the reasons of gentrification in Newcastle specifically and the issue of it**_
+
+**Definition of Gentrification:** "the process by which higher income households displace lower income residents of a neighborhood, changing the essential character and flavor of that neighborhood."
+
+**Possible reasons to gentrification in Newcastle:** 
+
+Based on the [**article**](https://www.investopedia.com/terms/g/gentrification.asp#:~:text=The%20Causes%20of%20Gentrification%201%20Rapid%20job%20growth,from%20one%20location%20to%20the%20next.%20...%20%E6%9B%B4%E5%A4%9A%E9%A1%B9%E7%9B%AE), there are some causes and consequences of gentrification. 
+
+![Image](https://github.com/orgs/NU-Digital-Cultures/projects/3/assets/158191404/922aec74-8c53-420b-8580-f065de6de1a7)
+
+**In response, I examined the specific causes and consequences of the gentrification of Newcastle.**
+
+**ⅰCauses:**
+
+1. **Government revitalisation of an area:** In Newcastle Upon Tyne, the City Council intends to revitalise the City of Newcastle by using policies referred to in the [2024-27 council plan](https://new.newcastle.gov.uk/news/2024/council-plan-sets-pathway-newcastles-future). Besides, Newcastle City Council has announced the launch of its [£50m City Centre Transformation Programme (CCTP)](https://bdaily.co.uk/articles/2021/03/15/50m-transformation-plans-to-re-energise-newcastle-city-centre-unveiled) to recover the city centre, which is essential for Newcastle to be able to attract outsiders into the city and for gentrification to take place.
+
+2. **Demand for greater workload:** When job seekers flood into a city, housing becomes scarce, leading to higher rents and property values, which occurs gentrification. In Newcastle, Thousands of job vacancies will be created after the construction and completion of [HMRC regional office](https://newcastle.gov.uk/pilgrimstreetdevelopment#:~:text=Major%20development%20work%20as%20part%20of%20a%20multi-million,bring%20thousands%20of%20jobs%20into%20the%20city%20centre.). Also, [Newcastle Helix](https://newcastlehelix.com/home) offer the opportunity to create over 4000 job vaccancies and 450 new homes.
+
+3. **City amenities are getting better:** Only when the city has better amenities will it attract middle class people from the suburbs or elsewhere, or people who can live in an environment that matches it. And in Newcastle, [Newcastle's Northumberland Street revamp](https://www.bbc.com/news/uk-england-tyne-67676040) is getting under way, this project will enhance the city's aesthetics as well as its attractiveness, then more people can move in. 
+
+4. **Increase in traffic congestion:** I specifically searched for information from the outskirts of Newcastle to Newcastle city centre, because people who live in the outskirts and can afford to buy a house in the city centre find that their commute becomes longer and thus their quality of life deteriorates, they choose to live in the city centre, and the arrival of these people triggers gentrification. According to the [ITV website](https://www.itv.com/news/tyne-tees/2016-03-22/newcastle-one-of-the-uks-most-congested-cities), "congestion has steadily increased in Newcastle the report found."
+
+5. **Affordability of buying or renting a new house:** As I am renting in Newcastle myself, my landlord raises the price of my flat each year I offer it. In addition, based on [the chart in the website](https://www.varbes.com/housing-market/newcastle-upon-tyne-housing-market), From 2018 to the present, except for the COVID period when house price growth has been negative, house price growth has risen year-on-year and the trend has been significant. 
+
+**ⅱ Issues**
+
+1. **Displacement:** According to [Newcastle:Ltd](https://newcastle.ltd/the-gentrification-and-urban-development-of-newcastle-upon-tyne/#:~:text=While%20gentrification%20has%20undoubtedly%20brought%20about%20positive%20changes,the%20loss%20of%20affordable%20housing%20and%20local%20businesses.). As a result of the housing transformation in the Ouseburn Valley and Quayside, the displacement of long-term residents happens. Therefore, the suggestion they gave is:  It is crucial to find a balance between revitalization and the preservation of the city’s identity to ensure a sustainable and inclusive future for all residents.
+
+2. **Inequalities:** Inequalities are mainly reflected in the first and middle phases of gentrification, i.e. between existing residents and new arrivals. The causes of this inequality are mainly due to the rise in house prices, whereby existing residents are forced to pay more in property taxes and insurance premiums, as well as rising taxes, meanwhile, As neighborhoods undergo gentrification, the availability of affordable housing diminishes. [New developments and renovations may cater to higher-income residents, leaving those with limited resources with fewer options](http://newcastle.ltd/the-gentrification-and-urban-development-of-newcastle-upon-tyne/). It also affect business, the existing companies may struggle to compete or face rising rents. [This can lead to economic disparities among business owners and affect the overall vibrancy of the community](http://newcastle.ltd/the-gentrification-and-urban-development-of-newcastle-upon-tyne/).
+
+3. **Local cultures are affected:** As a person who took part in voluntary community arts work in Ouseburn [said](https://www.theguardian.com/cities/2016/jan/13/no-choice-leave-displacement-tales-long-term-gentrification-six-cities), Byker high street has lost its wonderfully diverse character and its residents. Ouseburn will be just another soulless riverside development of boxy apartments for semi-professional people. 
+
+4. **Conflicts between newcomers and the existing residents:** With the proceeding of gentrification of Newcastle, local residents would come into conflict with the newcomers over social issues, the following [example](https://www.bbc.co.uk/news/uk-england-tyne-60577687) is of a newly built block of flats, but it is enough to show the conflict that comes with gentrification: Residents of the neighbouring St Ann’s Quay apartments described the building as a “dull, mundane block of flats” that would be “devastating” for people living nearby, due to a loss of daylight and privacy.
+
+**ⅲExposing bad landlords**
+
+1. **The identity should be anonyomous:** Because we are exposing the landlord on the open platform/zine, we could use pseudonyms or avoid revealing personal details.
+
+2. **Safety precautions:** Some landlords maybe will retaliate.
