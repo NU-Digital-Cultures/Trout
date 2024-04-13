@@ -3,12 +3,12 @@
  <br>
  
  ## Gentrification: Private Renting price analysis
- - <div class="flourish-embed flourish-chart" data-src="visualisation/17544774">https://public.flourish.studio/resources/embed.js"></script></div>
+ - https://flo.uri.sh/visualisation/17544774/embed
  - This data visualisation showcases a complex view of rental price increases over time, in relation to monthly and annual price change rates
    
 <br>
 
-- <div class="flourish-embed flourish-chart" data-src="visualisation/17545301">https://public.flourish.studio/resources/embed.js"></script></div>
+- https://flo.uri.sh/visualisation/17545301/embed
 - This data visualation highlights differences in increased rental costs based on renting property type
 
  <br>
