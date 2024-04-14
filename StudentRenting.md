@@ -1,7 +1,7 @@
  # Knowledge on student renting will be used to inform the production of our project ‼️
 <br>
 
-
+ ## Rugg, J., Ford, J. and Burrows, R. (2006) 'Housing advantage? The role of student renting in the consitution of housing biographies in the United Kingdom', *Journal of Youth Studies*, 7(1), pp. 19-34. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1080/1367626042000209930
 - Centres upon the idea of a new student leaving their home environment and moving out
 - Constucts typologies of different student renting pathways
 - Useful due to its focus on the operation of economic and housing market constraints
