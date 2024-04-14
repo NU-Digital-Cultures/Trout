@@ -7,17 +7,21 @@ gantt
     Research zine culture:a1, 2024-03-11, 7d
     Research digital storytelling:2024-03-18, 7d
     Set out scope of project:2024-03-14, 7d
-    Create app intro page:2024-03-26, 7d
+    Create app pages with research content:2024-04-07, 14d
     Consider logistics of tenant contributions:2024-03-18, 10d
     Optimal Workshop Survey:2024-03-26, 7d
+    Data visualisations: 2024-04-12, 3d
+    Gentrification research: 2024-03-26, 14d
+    Research on handling user data: 2024-04-14, 7d
+
     section Charlotte
-    Task in sec      :2024-03-12  , 12d
+    Optimal Workshop Survey:2024-03-26, 7d
     another task      : 24d
     section Soi
     A task           :a1, 2024-03-01, 30d
     Another task     :after a1  , 20d
     section Ethan
-    Task in sec      :2024-03-12  , 12d
+    Gentrification research: 2024-03-26, 14d
     another task      : 24d
     section Troy
     Task in sec      :2024-03-12  , 12d
