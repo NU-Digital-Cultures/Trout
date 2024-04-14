@@ -2,6 +2,7 @@
 
  ## UK Government (2024) *Data protection: The Data Protection Act*. Available at: https://www.gov.uk/data-protection#:~:text=The%20Data%20Protection%20Act%202018,Data%20Protection%20Regulation%20(GDPR) (Accessed: 14 April 2024).
 - This is the 'Data Protection Act' of 2018 (UK implementation of the General Data Protection Regulation (GDPR)
+- (The act itself is analysed at the bottom of this file) :arrow_heading_down:
 - The act "controls how your personal infromation ise used by organisations, businesses or the government" para.1
 - As we are using users' personal data in our project, we must follow the data protection principles, which ensure information used is: "used fairly, lawfully and transparently; used for specified, explicit purposes; used in a way that is adequate, relevant and limited to only what is necessary; accurate and, where necessary, kept up to date; kept for no longer than is necessary; handled in a way that ensures appropriate security, including protection against unlawful or unauthorised processing, access, loss, destruction or damage - para.3
 - There is stronger legal protection for data which includes sensitive information. In our case, this could include users' political opinions if they are projected in submissions, given that gentrification, housing, and renting are predominantly governmental issues
@@ -10,7 +11,7 @@ stop or restrict the processing of your data; data portability (allowing you to 
 - As **HtN is a community interest company**, we would not need to consider additional personal data rights given there is no intention to profit from user data/ no intention of inputting user data into making predictive algorithms
 - We would however need a consent form and ToS pages at the opening of our app which would stipulate the handling of user data in relation to this act. See GDPR (below) for consent details we could include
 <br>
-
+  
   ## General Data Protection Regulation (GDPR) (2016) *Official Journal of the European Union* L 119, 27 April, pp. 1-88. Available at: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679 (Accessed: 14 April 2024).
 - This is the General Data Protection Regulation enforced by EU Parliament and Council
 - It is legally binding across the EU and is fully implementable in EU countries
@@ -29,6 +30,7 @@ stop or restrict the processing of your data; data portability (allowing you to 
  Key definitions which are useful:
 - **Personal data**: "any information relating to an identified or identifiable natural person ('data subject'); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person." p.33
 - Our personal data reveals individuals by name (even if psuedonymisation, as this is still an "online identifier" (as stated further in **26** p.5)) and the "mental", "economic", "cultural", and "social identity" is exposed via tenant submissions
+- If we use location data to place where tenant submissions are on from onto our map then we would need to ensure this is protected information by setting it apart from tenants' profile somehow. Or, to avoid this completely, we could allow tenants to self-dictate the area they have rented in (given that they also may not be physically in that area when they submit)
 - **Consent**: "any freely given, specific, informed and unambiguous indication of the data subject's wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her" p.34
 - So consent could look like a clearly, open written declaration on our part, with a consent option below
 <br>
@@ -40,3 +42,15 @@ stop or restrict the processing of your data; data portability (allowing you to 
 - Stipulates the "online dimension of our lives cannot ignore being supportive and inclusive"
 - Our technological solution therefore must "enable the exercise of rights, promote inclusion and pursue a digital transformation that leaves no one behind" p.7
 - This could look like ensuring accessibility on the app (different language, disability feautrues etc) and creating a digital transformative environment that allows all submissions to be considered equally and in their full context
+<br>
+
+The UK Data Protection Act is here:
+## *Data Protection Act (2018)*, c. 12. Available at: https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted (Accessed: 14 April 2024).
+- Protection of personal data agenda is clear, and is similarly applied as it is in GDPR. It stipulates the requirement that "personal data [is] to be  processed lawfully and fairly, on the basis of the data subject's consent or another specified basis"
+- ALso includes the idea that "inaccurate personal data [...] [must be] rectified" (all taken from section.2 of part 1)
+  <br>
+  
+  Similar key terms:
+  - "**Identifiable living individual**": "an identifier such as a name, an identification number, location data or an online identifier, or one or more factors specific to the physical physiological, genetic, mental, economic, cultural or social identity of the individual"
+  - **So a lot of the GDPR is applied to the Data Protection Act** :warning:
+  
