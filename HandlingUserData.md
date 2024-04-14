@@ -47,10 +47,15 @@ stop or restrict the processing of your data; data portability (allowing you to 
 The UK Data Protection Act is here:
 ## *Data Protection Act (2018)*, c. 12. Available at: https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted (Accessed: 14 April 2024).
 - Protection of personal data agenda is clear, and is similarly applied as it is in GDPR. It stipulates the requirement that "personal data [is] to be  processed lawfully and fairly, on the basis of the data subject's consent or another specified basis"
-- ALso includes the idea that "inaccurate personal data [...] [must be] rectified" (all taken from section.2 of part 1)
+- ALso includes the idea that "inaccurate personal data [...] [must be] rectified" (all taken from **section.2 of part 1**)
   <br>
   
   Similar key terms:
-  - "**Identifiable living individual**": "an identifier such as a name, an identification number, location data or an online identifier, or one or more factors specific to the physical physiological, genetic, mental, economic, cultural or social identity of the individual"
+  - "**Identifiable living individual**": "an identifier such as a name, an identification number, location data or an online identifier, or one or more factors specific to the physical physiological, genetic, mental, economic, cultural or social identity of the individual" (taken from **section.3 of part 1**)
   - **So a lot of the GDPR is applied to the Data Protection Act** :warning:
+  <br>
+
+  Information relevant to our project on lawfulness of processing: public interest etc (**part 8**)
+  - "processing of personal data that is necessary for the performance of a task carried out in the public interest or in the exercise of the controller' official authority includes the processing of personal data that is necesssary for": "the administration of justice"; "the exercise of a function conferred on a person by enactment or rule of law"; "an activity that supports or promotes democratic engagement"
+  - Again, similar to GDPR :warning:
   
