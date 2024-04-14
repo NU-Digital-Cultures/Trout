@@ -1,7 +1,13 @@
 **<h2>Bibliography:</h2>**
 Brown, A., Hurley, M., Perry, S., and Roche, J. (2021) 'Zines as Reflective Evaluation Within Interdisciplinary Learning Programmes', Curriculum, *Instruction, and Pedagogy*, 6, pp. 1-10. Available at: https://doi.org/10.3389/feduc.2021.675329 
 <br> </br>
+Bourassa, S. C. (1993) 'The Rent Gap Debunked', *Urban Studies*, 30(10), pp. 1731-1744. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1080/00420989320081691
+<br> </br>
 Burgess, J. (2008) ‘Hearing ordinary voices: cultural studies, vernacular creativity and digital storytelling’, *Continuum: Journal of Media and Cultural Studies*, 20(2), pp.201-214. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1177/1461444808089413 
+<br> </br>
+Clark, E. (1995) 'The Rent Gap Re-examined', *Urban Studies*, 32(9), pp. 1489-1503. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1080/00420989550012366
+<br> </br> 
+Diappi, L. and Bolchi, P. 'Smith's rent gap theory and local real estate dynamics: A multi-agent model', *Computers, Environment and Urban Systems*, 32(1), pp. 6-18. Available at: https://www-sciencedirect-com.libproxy.ncl.ac.uk/science/article/pii/S0198971506001037?via%3Dihub (Accessed: 14 April 2024).
 <br> </br>
 Dush, L. (2012) ‘The ethical complexities of sponsored digital storytelling’, *International Journal of Cultural Studies*, 16(6), pp.627-640. Available at: https://doi.org/10.1177/1367877912459142 
 <br> </br>
@@ -15,4 +21,7 @@ Lessig, L. (2004) *Free Culture: How Big Media Uses Technology and the Law to Lo
 <br> </br>
 Lundby, K. (2008a) *Digital Storytelling, Mediatized Stories: Self-representations in New Media*. New York: Peter Lang.
 <br> </br>
-Lundby, K. (2008b) ‘Editorial: mediatized stories: mediation perspectives on digital storytelling’, *New Media & Society*, 10(3), pp. 363-371. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1177/1461444808089413 
+Lundby, K. (2008b) ‘Editorial: mediatized stories: mediation perspectives on digital storytelling’, *New Media & Society*, 10(3), pp. 363-371. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1177/1461444808089413
+<br> </br>
+Smith, N. (1979) 'Toward a Theory of Gentrifcation: A Back to the City Movement by Capital, not People', *Journal of the American Planning Association, 45(4), pp. 538-548. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1080/01944367908977002
+<br> </br>
