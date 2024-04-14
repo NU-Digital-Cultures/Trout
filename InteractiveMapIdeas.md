@@ -10,7 +10,8 @@ flowchart TD
 - Include points-based data on top of area data
 - We need to consider a meaningful way of organising space/ reason as to why we are organising the geographical space in that way
 - Do we include a zoom in/ out feature? If so, at what point should the data points aggregate together?]
+    E -->|Potential answers| H[-Based on gentrification research, space could be organised by electoral ward boundaries and include rental cost data as a way of showcasing which areas have experienced gentrification most heavily]
     C -->|Pop-ups| F[- Will the qualitative data, the tenant submissions, feature on the map?
 - They could feature as a pop-up, then be clicked onto for more detail]
-    C -->|Filter options| G[-The quantitative data displayed on the map will depend on the filter options the user selects
-- The filter options we use will be attained from the Optimal Workshop Survey results]
+    C -->|Filter options| G[-The quantitative data displayed on the map could depend on the filter options the user selects?
+- The filter options we could include will be attained the Survey results]
