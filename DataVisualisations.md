@@ -9,7 +9,7 @@
 <br>
 
 - https://flo.uri.sh/visualisation/17545301/embed
-- This data visualation highlights differences in increased rental costs based on renting property type
+- This data visualisation highlights differences in increased rental costs based on renting property type
 
  <br>
  
