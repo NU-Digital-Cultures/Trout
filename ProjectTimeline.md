@@ -15,8 +15,8 @@ gantt
     Research on handling user data: 2024-04-14, 7d
 
     section Charlotte
-    Optimal Workshop Survey:2024-03-26, 7d
-    another task      : 24d
+    Microsoft Forms Survey:2024-03-26, 7d
+    Survey analysis and Tenant Tales      : 24d
     section Soi
     A task           :a1, 2024-03-01, 30d
     Another task     :after a1  , 20d
