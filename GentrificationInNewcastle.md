@@ -172,9 +172,4 @@ Based on the [**article**](https://www.investopedia.com/terms/g/gentrification.a
 3. **Local cultures are affected:** As a person who took part in voluntary community arts work in Ouseburn [said](https://www.theguardian.com/cities/2016/jan/13/no-choice-leave-displacement-tales-long-term-gentrification-six-cities), Byker high street has lost its wonderfully diverse character and its residents. Ouseburn will be just another soulless riverside development of boxy apartments for semi-professional people. 
 
 4. **Conflicts between newcomers and the existing residents:** With the proceeding of gentrification of Newcastle, local residents would come into conflict with the newcomers over social issues, the following [example](https://www.bbc.co.uk/news/uk-england-tyne-60577687) is of a newly built block of flats, but it is enough to show the conflict that comes with gentrification: Residents of the neighbouring St Ann’s Quay apartments described the building as a “dull, mundane block of flats” that would be “devastating” for people living nearby, due to a loss of daylight and privacy.
-
-**ⅲExposing bad landlords**
-
-1. **The identity should be anonyomous:** Because we are exposing the landlord on the open platform/zine, we could use pseudonyms or avoid revealing personal details.
-
-2. **Safety precautions:** Some landlords maybe will retaliate.
+   
