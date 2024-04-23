@@ -18,7 +18,7 @@ gantt
     Microsoft Forms Survey:2024-03-26, 7d
     Survey analysis and Tenant Tales      : 24d
     section Soi
-    A task           :a1, 2024-03-01, 30d
+    Collect Critical literautre on digital story telling:2024-03-11, 1d
     Another task     :after a1  , 20d
     section Ethan
     Gentrification research: 2024-03-26, 14d
