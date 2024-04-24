@@ -5,7 +5,8 @@
 - We went around the group and asked which were each persons top 3 out of the briefs
 - After mixed opinions we took the top two voted briefs and discussed ideas for how we would go about them and decided we had more ideas about the Homes for Newcastle project
 - We created a document which aired out initial ideas about our project- see 'InitalIdeas.md' also in this folder
-- Initial foundational ideas we had were based around taking inspiration from Uber Eats' ratings system, but how this could be implicated for landlords
+- Initial foundational ideas we had were based around taking inspiration from Uber Eats' ratings system, but how this could be implicated for landlords ie. a 'rate your landlord' system, rating them by various criteria. Could develop a platform/ app where tenants can submit reviews and complaints abouut their landlords
+- OR, a complaintd management system whereby tenants can submit formal complaints against their landlords, which can be tracked and managed through the platform (upload documents, landlord-tenant communication tracking, resolution statuses etc)
 - We discussed the creation of an app, for which we could create a prototype for using Adobe XD (which some of us had prior experience using)
 - Our aim could be to create a new industry standard of criteria for landlords
 <br>
@@ -13,7 +14,7 @@
 ## Meeting 2 - 27/02/24 @ 2pm in Philip Robinson Library
 - Main focus was on completing Formative so we gathered more ideas for our project
 - Confirmed that we are planning on creating an app
-- Decided it may be useful to create aa interactive map displaying some kind of rental data
+- Decided it may be useful to create an interactive map displaying some kind of rental data
 - If we go with the rating criteria idea, it could act as an incentive for landlords to improve. Criteria based on pricing, living conditions, location, landlord communication, how long they have owned the property, then 'other' section (as more likely to get additional qualitative insights by offering an 'other thoughts' category (Tanhem, 2023, ) cited in Survey.md file))
 - Could use survey/interviews to collect rating criteria labels/what people would like to see from the app
 - In terms of sourcing the data we could use - users inputting data themselves on the app
