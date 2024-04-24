@@ -26,10 +26,9 @@
   - **However, in terms of the aim of our project which is to capture tenants' stories from the perspective of their personal experiences, this isn't as much of an issue as we are wanting to create a tenant identity through their stories, which, like any identity/ story, will be usefully informed by perspective/ slanted angles** ⚠️
 <br>
 
-## Survery results
+## Survey results
 - The results of this Survey are intended to inform the production of our 'Tenant Tales' page, ie. whichever questions produce the most response/ the most detail from a participant and are conveyed by the participant as being a problem will be privileged on our app interface
 - The results of the Survey are here: 
 
 ## Discussion of results
-- Summary of responses/ results we got
-- Charlotte to complete this section!  
+-  
