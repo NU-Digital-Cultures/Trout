@@ -1,20 +1,17 @@
-Meeting 1 - 20th February 2024
-2pm - Phillip Robinson Library
-	- We mainly discussed which of the briefs we preferred
-	- We went around the group and asked which were each persons top 3 out of the briefs
-	- After mixed opinions we took the top two voted briefs and discussed ideas for how we would go about them and decided we had more ideas about the Homes for Newcastle project
-	- We created a Google Document for our project
-	- Ideas
-		○ Like uber ratings, but for Landlords. Allow tenants to rate landlords on different criteria
-		○ Develop a platform/app where tenants can submit reviews and complaints about their landlords
-		○ Complaint management - create a system for tenants to submit formal complaints against landlords, which can be tracked and managed through the platform (upload documents, communication tracking, resolution status)
-		○ Prototyping using Adobe XD
-		○ Create a new industry standard and criteria for landlords
+# Meeting Log
+## Meeting 1 - 20/02/24 @  2pm in Phillip Robinson Library
+- We mainly discussed which of the briefs we preferred
+- We went around the group and asked which were each persons top 3 out of the briefs
+- After mixed opinions we took the top two voted briefs and discussed ideas for how we would go about them and decided we had more ideas about the Homes for Newcastle project
+- We created a document which aired out initial ideas about our project- see 'InitalIdeas.md' also in this folder
+- Initial foundational ideas we had were based around taking inspiration from Uber Eats' ratings system, but how this could be implicated for landlords
+- We discussed the creation of an app, for which we could create a prototype for using Adobe XD (which some of us had prior experience using)
+- Our aim could be to create a new industry standard of criteria for landlords
+<br>
 
-Meeting 2 - 27th February 2024
-2pm - Philip Robinson Library
-	- Main focus was on completing Formative so we could gather ideas for our project
-	- Planning on creating an app
+## Meeting 2 - 27/02/24 @ 2pm in Philip Robinson Library
+- Main focus was on completing Formative so we gathered ideas for our project
+- Confirmed that we are planning on creating an app
 	- For the presentation we could use visual aids to present the data
 	- Interactive map
 	- Rating criteria as an incentive for landlords to improve. Based on pricing, living conditions, location, landlord communication, how long they have owned the property, then 'other'
