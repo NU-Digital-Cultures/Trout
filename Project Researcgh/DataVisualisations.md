@@ -1,5 +1,5 @@
- # Links to data visualisations and infographics related to gentrification and poor landlords
- These wil be incorporated onto the app
+ # These are links to data visualisations and infographics we have made which are related to gentrification
+ These will be incorporated onto the app
  <br>
  
  ## Gentrification: Private Renting price analysis
