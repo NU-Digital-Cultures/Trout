@@ -45,7 +45,6 @@
 - We need to do further research on interactive literature - do we follow a linear narrative approach or something more innovative and potentially subversive/subvert the expectation of the app?
 - Research CIC and how their campaigns work
 - Need to continue to think about the design of the app: aesthetics, layout, interactivity, information included etc.
-- T
 <br>
 
 **Reference**:
@@ -62,7 +61,8 @@ Figma (2024) *Figma vs Adobe XD- what makes Figma different?* Available at: http
 
 ## Meeting 6- 10/04/24 @ 12pm on Zoom
 - Recognised the importance of getting the Survey out so that we would have material to prototype with on our week back
-- Decided not to use the map for a different purpose
+- Decided not to use the map for a different purpose, but to have it embedded onto the app
+- Debated over what data could be shown on our map and for what purpose. Need to consider what we are trying to show through the use of a map otherwise there is no point in incorporating one. It is likely we will use rent price data sorted by electoral ward boundaries
 - Considered what the opening page of the app should look like. We agreed on 4 different sections
 - Shared our research that we had done over so far over the Easter break and identified areas where we had gaps that needed to be addressed
 <br>
