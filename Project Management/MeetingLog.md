@@ -6,7 +6,7 @@
 - After mixed opinions we took the top two voted briefs and discussed ideas for how we would go about them and decided we had more ideas about the Homes for Newcastle project
 - We created a document which aired out initial ideas about our project- see 'InitalIdeas.md' also in this folder
 - Initial foundational ideas we had were based around taking inspiration from Uber Eats' ratings system, but how this could be implicated for landlords ie. a 'rate your landlord' system, rating them by various criteria. Could develop a platform/ app where tenants can submit reviews and complaints abouut their landlords
-- OR, a complaintd management system whereby tenants can submit formal complaints against their landlords, which can be tracked and managed through the platform (upload documents, landlord-tenant communication tracking, resolution statuses etc)
+- OR, a complaint management system whereby tenants can submit formal complaints against their landlords, which can be tracked and managed through the platform (upload documents, landlord-tenant communication tracking, resolution statuses etc)
 - We discussed the creation of an app, for which we could create a prototype for using Adobe XD (which some of us had prior experience using)
 - Our aim could be to create a new industry standard of criteria for landlords
 <br>
@@ -62,16 +62,16 @@ Figma (2024) *Figma vs Adobe XD- what makes Figma different?* Available at: http
 
 ## Meeting 6 - 1/04/24 @2pm on Microsoft Teams
 Blythe and Charlotte
-	- Mainly a discussion on our progress from the week before and what we were still working on and if it worked for our project
-	- Blythe 
-		○ Researching gentrification and zine culture
-	- Charlotte 
-		○ Survey and results analysis
-	- Both 
-		○ Starting to look at presentation and project requirements
-		○ Discounted some initial design ideas
-		○ Realised issue with Adobe XD and switching to it all on figma
-		○ Understood that we might not be able to complete a fully working project but still want to work towards it
+- Mainly a discussion on our progress from the week before and what we were still working on and if it worked for our project
+Blythe
+- Researching gentrification and zine culture
+Charlotte
+- Survey and results analysis
+Both 
+- Starting to look at presentation and project requirements
+- Discounted some initial design ideas
+- Realised issue with Adobe XD and switching to it all on figma
+- Understood that we might not be able to complete a fully working project but still want to work towards it
 <br>
 
 ## Meeting 7 - 10/04/24 @ 12pm on Microsoft Teams
@@ -83,7 +83,7 @@ Blythe and Charlotte
 <br>
 
 ## Meeting 8 - 22/04/24 @ 10am in Henry Daysh Building
-Blyhte, Charlotte and Soi
+Blythe, Charlotte and Soi
 - Recouped after Easter break and confirmed our sections of the presentation
 - Finalised the prototype idea we were going to show in our formative presentation
 - Discussed ways to improve our prototype as visually it did not look much like the zine we had originally said we were going to create
@@ -96,5 +96,3 @@ Blythe, Charlotte, Ethan and Soi
 - Following evaluation of our presentation, we created an updated to do list which is also in this folder
 <br>
 
-
-[image](https://github.com/NU-Digital-Cultures/Trout/assets/160641493/4aec3599-53d3-415d-814a-c8d92dc63b7c)
