@@ -63,11 +63,8 @@ Figma (2024) *Figma vs Adobe XD- what makes Figma different?* Available at: http
 ## Meeting 6 - 1/04/24 @2pm on Microsoft Teams
 Blythe and Charlotte
 - Mainly a discussion on our progress from the week before and what we were still working on and if it worked for our project
-Blythe
-- Researching gentrification and zine culture
-Charlotte
-- Survey and results analysis
-Both 
+- Researching gentrification and zine culture - Blythe
+- Survey and results analysis - Charlotte
 - Starting to look at presentation and project requirements
 - Discounted some initial design ideas
 - Realised issue with Adobe XD and switching to it all on figma
