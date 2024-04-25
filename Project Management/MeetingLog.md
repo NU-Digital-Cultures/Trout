@@ -51,7 +51,7 @@
 **Reference**:
 Figma (2024) *Figma vs Adobe XD- what makes Figma different?* Available at: https://www.figma.com/figma-vs-adobe-xd/ (Accessed: 19/03/24). 
 
-## Meeting 5 - 25/03/24 @ 3pm on Zoom
+## Meeting 5 - 25/03/24 @ 3pm on Microsoft Teams
 - Discussed the potential of the app, it's layout, and what would be possible for us to create on Leaflet after allocated group members sampled the platforms
 - Confirmed the idea that our Survey will be crucial in dictating what is on the interactive map and app
 - Agreed that prototypes of the app would be made and put onto our shared word document so that we could all see them, evaluate, and critique them
@@ -60,7 +60,21 @@ Figma (2024) *Figma vs Adobe XD- what makes Figma different?* Available at: http
 **It was more difficult to schedule meetings that everyone could attend during the Easter break. Some of our group were also on holiday and we had different Easter break plans, As a result, we had less meetings over Zoom but nevertheless kept in touch via WhatsApp to ensure the project was still progressing. See WhatsApp Archive file for this**
 <br>
 
-## Meeting 6- 10/04/24 @ 12pm on Zoom
+## Meeting 6 - 1/04/24 @2pm on Microsoft Teams
+Blythe and Charlotte
+	- Mainly a discussion on our progress from the week before and what we were still working on and if it worked for our project
+	- Blythe 
+		○ Researching gentrification and zine culture
+	- Charlotte 
+		○ Survey and results analysis
+	- Both 
+		○ Starting to look at presentation and project requirements
+		○ Discounted some initial design ideas
+		○ Realised issue with Adobe XD and switching to it all on figma
+		○ Understood that we might not be able to complete a fully working project but still want to work towards it
+<br>
+
+## Meeting 7 - 10/04/24 @ 12pm on Microsoft Teams
 - Recognised the importance of getting the Survey out so that we would have material to prototype with on our week back
 - Decided not to use the map for a different purpose, but to have it embedded onto the app
 - Debated over what data could be shown on our map and for what purpose. Need to consider what we are trying to show through the use of a map otherwise there is no point in incorporating one. It is likely we will use rent price data sorted by electoral ward boundaries
@@ -68,14 +82,19 @@ Figma (2024) *Figma vs Adobe XD- what makes Figma different?* Available at: http
 - Shared our research that we had done over so far over the Easter break and identified areas where we had gaps that needed to be addressed
 <br>
 
-## Meeting 7 - 22/04/24 @ 11am in Henry Daysh Building
+## Meeting 8 - 22/04/24 @ 10am in Henry Daysh Building
+Blyhte, Charlotte and Soi
 - Recouped after Easter break and confirmed our sections of the presentation
 - Finalised the prototype idea we were going to show in our formative presentation
 - Discussed ways to improve our prototype as visually it did not look much like the zine we had originally said we were going to create
+- As one team member would be absent for the presentation we had to dicuss how we would work around that
 <br>
 
-## Meeting 8 - 23/04/24 @ 2pm in Henry Daysh Building
+## Meeting 9 - 23/04/24 @ 2pm in Henry Daysh Building
+Blythe, Charlotte, Ethan and Soi
 - Discussed our own parts of the presentation and went over it finally together
 - Following evaluation of our presentation, we created an updated to do list which is also in this folder
+<br>
 
-Charlotte to update these meetings notes!
+
+[image](https://github.com/NU-Digital-Cultures/Trout/assets/160641493/4aec3599-53d3-415d-814a-c8d92dc63b7c)
