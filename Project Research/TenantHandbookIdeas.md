@@ -10,12 +10,12 @@ Based on the stories we received from survey participants, a 'handbook' feature 
 
 <br>
 
-### Available at: https://www.privaterentedservice.co.uk (Accessed: 28 April 2024).
+### Private Renting Service Newcastle (2024a) *Home - Private Renting Service*. Available at: https://www.privaterentedservice.co.uk (Accessed: 28 April 2024).
 - This website has a ‘Latest News’ feature which is kept up-to-date. Useful for showing updates to property licence schemes, informing of training sessions (on evictions for example), allows bookings for presentation events/ Q&As which allows the public to pose questions to recent plans, opportunities to take part in Surveys etc.
 -	FYI: Property license schemes are “intended to raise standards in the private sector, making landlords more accountable, improving property management and stabilising communities, tackling antisocial behaviour and poverty in communities”
 <br>
 
-### Available at: -	https://www.privaterentedservice.co.uk/tenants/ (Accessed: 28 April 2024).
+### Privat Renting Service Newcastle (2024b) Tenant Available at: -	https://www.privaterentedservice.co.uk/tenants/ (Accessed: 28 April 2024).
 his is the Newcastle Private Renting Service’s sort of ‘tenant page’
 -	Support services section offers budgeting and money help (via the Money Helper advice service); tenants advice service (free, professional advice with issues regarding tenancy agreements, help to pay rent, managing the tenancy, looking after the property, resolving disputes, rent arrears and evictions, via calling 0191 2771438 or emailing privaterentedservice@newcastle.gov.uk; home finder service (showing accredited properties to let); rent deposit scheme (pay no cash deposits on behalf of the tenant if they qualify for the scheme), tenants FAQs (answering common questions related to what their service offers
 - Tenants can apply to Newcastle City Council’s ‘Rent Deposit Scheme’ if cannot afford the security deposit: Rent Deposit Scheme web page  or email privaterentedservice@newcastle.gov.uk
