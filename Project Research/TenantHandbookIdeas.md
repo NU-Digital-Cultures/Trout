@@ -28,3 +28,10 @@ his is the Newcastle Private Renting Service’s sort of ‘tenant page’
 - Tenants library includes answers to commonly asked questions
 -	**Evaluation**: these sections are more confusing in that they overlap more in content ie. The same sections feature/ are repeaated in other sections, so it does not follow a strictly logical path and it is easy to get lost
 
+## Based on this research, our app 'handbook' could look and function like this:
+<br>
+
+<img width="1141" alt="Screenshot 2024-04-28 at 14 30 06" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/ca0376f2-ea68-4fd0-90a5-dfb22b930cc9">
+<br>
+<img width="1143" alt="Screenshot 2024-04-28 at 14 30 48" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/65e05a3f-b8d1-406d-9719-d3dcf730d506">
+
