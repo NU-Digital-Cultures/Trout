@@ -26,4 +26,4 @@ Soi to do this
 Soi to do this 
 <br> 
 ## What students should know about their tenants right
-https://www.savethestudent.org/accommodation/what-are-your-rights-as-a-tenant.html
+<h3>https://www.savethestudent.org/accommodation/what-are-your-rights-as-a-tenant.html</h3>
