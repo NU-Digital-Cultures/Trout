@@ -27,3 +27,39 @@ Soi to do this
 <br> 
 ## What students should know about their tenants right
 <h3>https://www.savethestudent.org/accommodation/what-are-your-rights-as-a-tenant.html</h3>
+1. Be aware if the landlord owns an House in Multiple Occupation(HMO)
+<br> 
+2. Be aware that the landlord is required by law to install at least one smoke alarm and fire extinguisher on each floor, and a carbon monoxide detector where there is a combustion furnace
+<br> 
+3. The landlord can only enter your property in the event of an emergency, e.g. fire, burglary, etc. Otherwise the landlord can only enter the property with 24 hours' notice.
+<br> 
+4. Your landlord is responsible for most major repairs, including any faults with:
+<br> 
+- The structure of the property (the walls, roof, windows and doors)
+<br> 
+- Sinks, baths and toilets
+<br> 
+- Pipes and wiring
+<br> 
+- Heating and hot water (including the boiler)
+<br> 
+- The safety of gas and electrical appliances.
+<br> 
+5. There are a number of reasons why a landlord could legally evict you, including the following:
+<br> 
+-Being at least two months late on rent payments
+<br> 
+-Being regularly late with your payments
+<br> 
+-Breaching any of the terms of your tenancy agreement
+<br> 
+-Letting the property fall into an unacceptable state
+<br> 
+-Subletting a room without permission
+<br> 
+-Causing serious nuisance to the neighbours
+<br> 
+-Using the property for illegal purposes, such as dealing drugs
+<br> 
+-Refusing to leave the property at the end of your contract.
+<br> 
