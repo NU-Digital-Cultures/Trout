@@ -20,8 +20,20 @@
 <br>
 
 ## Student grassroot campaigns
-Soi to do this
+<h2>https://roarmag.org/essays/uk-student-rent-strike/</h2>
 <br>
+This article describes how the rent strike has given students a new way to fight the commercialisation of higher education. 
+<br>
+
+
+
+
+
+
+
+
+
+
 ## Key debates surrounding student renting
 <h2>https://news.sky.com/story/student-rent-strike-campaigns-gathering-pace-against-exploitation-10581250</h2>
 <br> 
