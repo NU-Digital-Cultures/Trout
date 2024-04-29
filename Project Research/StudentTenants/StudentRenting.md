@@ -23,8 +23,28 @@
 Soi to do this
 <br>
 ## Key debates surrounding student renting
-Soi to do this 
+<h2>https://news.sky.com/story/student-rent-strike-campaigns-gathering-pace-against-exploitation-10581250</h2>
 <br> 
+This debate in this website is based on a <b>rent dispute</b> between students at Goldsmiths University of London and the company Campus Living Villages (CLV)
+<br> 
+<h3>Stance of the tenants living in Raymont Hall, Goldsmiths University of London</h3>
+<br> 
+1. Shannon Howard and other Goldsmiths undergraduates expressed their frustration with high rents by refusing to pay rent to the Campus Living Villages (CLV), a private company that upkeeps Raymont Hall.
+<br> 
+2. Students organised a two-day workshop aimed at developing strategies for running a successful rent strike campaign on campuses across the UK.
+<br> 
+3. Shannon Howard said that her involvement in the rent strike was not just about rent, but about principle, and that she believed that people's welfare should be prioritised over profit.
+<br> 
+<h3>Stance of the Campus Living Villages (CLV)</h3>
+<br> 
+1. CLV demanded by letter, email and voicemail that Miss Shannon Howard need to pay the outstanding rent totalling £1,471.24.
+<br>
+2. CLV says that if a student is officially registered as a rent striker by the university, then they will not receive a rent recovery letter.
+<br>
+3. George Spencer, CEO of CLV, said that the rents are "much lower level than they are in the private sector." And he added  "These are students who are unwilling to pay their rent, not unable to pay their rent. If they were unable to pay their rent then the market would correct itself, and we'd see more affordable accommodation built."
+<br>
+
+
 ## What students should know about their tenants right
 <h3>https://www.savethestudent.org/accommodation/what-are-your-rights-as-a-tenant.html</h3>
 1. Be aware if the landlord owns an House in Multiple Occupation(HMO)
