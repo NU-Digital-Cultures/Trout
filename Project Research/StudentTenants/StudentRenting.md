@@ -35,7 +35,7 @@ This debate in this website is based on a <b>rent dispute</b> between students a
 <br> 
 3. Shannon Howard said that her involvement in the rent strike was not just about rent, but about principle, and that she believed that people's welfare should be prioritised over profit.
 <br> 
-<h3>Stance of the Campus Living Villages (CLV)</h3>
+<h3>Stance of the landlord-Campus Living Villages (CLV)</h3>
 <br> 
 1. CLV demanded by letter, email and voicemail that Miss Shannon Howard need to pay the outstanding rent totalling £1,471.24.
 <br>
@@ -43,6 +43,15 @@ This debate in this website is based on a <b>rent dispute</b> between students a
 <br>
 3. George Spencer, CEO of CLV, said that the rents are "much lower level than they are in the private sector." And he added  "These are students who are unwilling to pay their rent, not unable to pay their rent. If they were unable to pay their rent then the market would correct itself, and we'd see more affordable accommodation built."
 <br>
+<h3>Goldsmiths University of London's role as a moderator</h3>
+"We use a six figure grant to subsidise rents and offer a range of prices to meet all budgets... for this academic year we've frozen prices on more than 100 of our cheapest rooms while there is a below-inflation rise for a further 400 rooms."
+<br>
+<br>
+
+<h4>The argument is mainly between the tenants (students) and the privately contracted accommodation providers on both sides, with the tenants arguing that the landlord should put people's welfare above their interests, even though Goldsmiths University of London helped to moderate this one thing for them. Private contractors, on the other hand, argued that although house prices had indeed risen, based on the reasoning that the market would self-correct, they felt that it was unlikely that students would be unable to pay their rent at all.</h4>
+<br>
+<br>
+
 
 
 ## What students should know about their tenants right
