@@ -9,4 +9,7 @@
 7. Design process document needs uploading - 'Zine layout' shared document - done 👍
 8. Figure out where we will get our source of information for the 'Tenant Roundup'- Troy - assigned
 9. Add supplementary notes to the Github - Troy - assigned
-10. Work on our parts on the presentation - all of us
+10. Consider further real-life implications for our app beyond data protection acts - Troy - assigned
+11. Work on our parts on the presentation - all of us
+12. Redo our project to do list as this was deleted! Back-date what we have done - Charlotte ▶️ in progress
+
