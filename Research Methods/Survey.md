@@ -31,4 +31,8 @@
 - The results of the Survey are here: 
 
 ## Discussion of results
--  
+-  We had six respondents to our survey on landlord/rental experience. We decided to conduct a survey to collect real stories and data from real students, this will help us in the creation of the zine as we can tailor our zine to these students. Every participants was asked if we could use their data for our project and they all agreed.​
+- When asked to rate their experience with their landlord we had a mixture of responses ranging from 1 to 5 (5 being a great experience), the mean average result was 3.17, this shows us that our respondents have had a mixture of experiences with their landlords which gives us a good spread of data. We can collect both positive and negative stories about landlords, what they have done right and what they have done wrong with our student respondents.​
+- Two of our respondents said that they did not receive their entire deposit back after their tenancy, with one saying they managed to get some of it back after dispute, the other did not get any back.​
+- We asked our respondents what information they would have preferred to know before renting, either about their landlord or the property itself. The responses were very useful for our zine, a standout response was reviews from other tenants, other responses included security and maintenance information, how expensive the bills were in the previous year, and what the landlord considers 'clean' for the move out process. These responses helped us understand what information student renters would want and need from our zine.​
+​
