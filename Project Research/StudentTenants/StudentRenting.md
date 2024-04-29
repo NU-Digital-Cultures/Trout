@@ -25,3 +25,4 @@ Soi to do this
 ## Key debates surrounding student renting
 Soi to do this 
 <br> 
+## What students should know about their tenants right
