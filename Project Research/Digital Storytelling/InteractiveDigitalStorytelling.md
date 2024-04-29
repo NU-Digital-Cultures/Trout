@@ -29,10 +29,13 @@
 - This project concluded that these three aims were met. **We could apply this accredited methodology to TenantTalk** as it promotes the communication/ expression of feelings otherwise inexpressible by words, or not best captured by words, in more abstract forms, and practice itself and the visualisation of the results successfully promoted engagement with the technology and the project
 <br>
 
-## Interactive Storytelling
+## Interactive and Non-Linear Storytelling 
+- This approach to storytelling would be useful in our presentation of the tenant tales given that tenant submissions will be varied in content, perspectives, and will be relevant to different specific areas situations, and personal timelines
+- Via the map users can select on different areas of Newcastle and receive a non-linear, abstract, 'structured dump' of tenant stories. Allowing the user to unravel the narrative of that area of their own accord. This works with our non-commercial approach of developing the app (not enforcing users to follow a specific path/ perform a particular 'money-making'/ preferential function)
 <br>
-Foucault technologies of the self go here
-<br> 
 
-## Non-Linear Storytelling 
-
+### Smed, J., Suovuo, T., Skult, N. and Skult, P. (2021) *Handbook on Interactive Storytelling*. West Sussex: Wiley.
+- The 'Perspectives' chapter of the book explores different perspectives in the digital storytelling space (ie. on different platforms) and ties it relative to predicted trends of interactive storytelling in the future
+- Although we are not introducing characters or interplay elements as such, as this would feel to  be 'making light' out of a seriously motivated campaign, a lot of the same principles apply to interactive storytelling
+- In terms of our platform, "the designer [us] has the burden of defining its ethical dimension" p. 163 - **so we need to take into account the ethics of our platform/ conduct an ethic analysis**
+- Interactive storytelling can also be a "tool for political, religious, or cultural propaganda" and this storytelling appraoch can be "even more effective as it possiblly immerses the interactor even deeper into the storyworld" - p.164 - **so we must be aware of the political potential our app might possess and ensure content on there is held to high standards- verification process of submissions needed?**
