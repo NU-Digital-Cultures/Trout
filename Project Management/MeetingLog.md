@@ -102,4 +102,5 @@ Blythe, Charlotte, Ethan and Soi
 ## Meeting 11 - 29/04/24 @ 2pm in Costa on St Mary's Place
 - Regrouped with team member who missed last week
 - Discussed how the presentation went last week
-- 
+- Outlined outstanding tasks and discussed how to complete them
+<br>
