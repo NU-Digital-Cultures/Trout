@@ -99,3 +99,7 @@ Blythe, Charlotte, Ethan and Soi
 - Following evaluation of our presentation, we created an updated to do list which is also in this folder
 <br>
 
+## Meeting 11 - 29/04/24 @ 2pm in Costa on St Mary's Place
+- Regrouped with team member who missed last week
+- Discussed how the presentation went last week
+- 
