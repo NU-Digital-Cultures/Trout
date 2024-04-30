@@ -1,1 +1,10 @@
-show reasons why technology and digital platform - Charlotte
+# Reflection
+Reasons why we made the decisions we did surrounding our digital platform and technologies used.
+<br>
+
+## Technology
+
+<br>
+
+## Digital Platform
+<br>
