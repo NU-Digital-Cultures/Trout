@@ -16,3 +16,4 @@ Also includes where in the GitHub the assessment criteria has been hit
 - Citations to academic works included (👍this is done in the headings of the .md files and for the mermaid maps, see 'MermaidMapsBibliography.md')
 
 [This is a link to planning.md](Planning.md)
+This is a link to the [meeting log](Project Management/MeetingLog.md)
