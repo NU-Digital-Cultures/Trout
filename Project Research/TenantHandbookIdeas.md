@@ -77,3 +77,7 @@ his is the Newcastle Private Renting Service’s sort of ‘tenant page’
 <br>
 <img width="1143" alt="Screenshot 2024-04-28 at 14 30 48" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/65e05a3f-b8d1-406d-9719-d3dcf730d506">
 
+- This idea has been agreed on as a group
+- When users click onto different visual aspects/ objects of the house, a pop up will appear informing them of their tenant responsibilities and rights related to that object
+- We decided that this overcomes the difficulty that government websites implement, whereby they have loads of sections with information which feels like an overwhelming 'information dump'
+- This is a way of achieving the empowerment of tenants with the tools and knowledge of navigating their renting process that is basic and more effective
