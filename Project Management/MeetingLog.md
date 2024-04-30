@@ -23,7 +23,13 @@
 - Tasks to consider based on these conclusions: Look at what research literature already exists to give a sense of what is possible for us and useful - student unions etc; Research a multitude existing projects to take inspiration from - find things that exist, critique what is there, and find the gap that exists; Investigate data legislations that could be at play with the data we collect; Research the ethical questions surrounding the legal frameworks/ethics of using data; Providing a service has different regulations to lobbying (CIC rules)
 <br>
 
-## Meeting 3 - 12/03/24 @ 2pm in Henry Daysh Building
+## Meeting 3 - 29/02/24 @ 10am in Bedson Building
+- We Began discussions on how the app will look and function, as well as what topics we may cover
+- A document was created for the purpose laying the groundwork of the app, which was then presented to the team for scrutinity
+- Explored the potential of using and coding an interatvive map
+<br>
+
+## Meeting 4 - 12/03/24 @ 2pm in Henry Daysh Building
 
 - Discussed project criteria and how this would relate to our campaign to support HfN
 - Created GitHub project for tasks
@@ -37,7 +43,7 @@
 - Outlined tasks and assigned them to each group member: Researching zines and their historic significance- could this be a useful means of achieving our storytelling objective; Research on digital storytelling to discover its usefulness/ any issues that could arise/ ethical implications we would need to consider; Context analysis on housing in Newcastle - expertise not needed; Research possible platforms for the zine; Create an outline for the survey - quantitative and qualitative questions; Create a clear problem statement for our project; Decide on which problem we are going to tackle and why: student or immigrant renting?
 <br>
 
-## Meeting 4 - 19/03/24 @ 2pm in Philip Robinson Library
+## Meeting 5 - 19/03/24 @ 2pm in Philip Robinson Library
 - This meeting was shorter than the others as we still had independent work to do in terms of the tasks set the week prior. We will continue our own research into this week and next
 - We decided on creating an app, but using Figma to prototype over Adobe XD as Figma because it is more suited to collaboration and the digital industry is pivtoing more now towards Figma- it is the more "modern approach to product design" and is more flexible in terms of what visuals/ functions can be created (Figma, 2024). An interactive map of some sort, created on Leaflet, will be embedded into this
 - Decided on the name 'Tenant Talk' which encapsulates our digital storytelling approach and makes the purpose of the app obvious. 
@@ -51,7 +57,7 @@
 **Reference**:
 Figma (2024) *Figma vs Adobe XD- what makes Figma different?* Available at: https://www.figma.com/figma-vs-adobe-xd/ (Accessed: 19/03/24). 
 
-## Meeting 5 - 25/03/24 @ 3pm on Microsoft Teams
+## Meeting 6 - 25/03/24 @ 3pm on Microsoft Teams
 - Discussed the potential of the app, it's layout, and what would be possible for us to create on Leaflet after allocated group members sampled the platforms
 - Confirmed the idea that our Survey will be crucial in dictating what is on the interactive map and app
 - Agreed that prototypes of the app would be made and put onto our shared word document so that we could all see them, evaluate, and critique them
@@ -60,7 +66,7 @@ Figma (2024) *Figma vs Adobe XD- what makes Figma different?* Available at: http
 **It was more difficult to schedule meetings that everyone could attend during the Easter break. Some of our group were also on holiday and we had different Easter break plans, As a result, we had less meetings over Zoom but nevertheless kept in touch via WhatsApp to ensure the project was still progressing. See WhatsApp Archive file for this**
 <br>
 
-## Meeting 6 - 1/04/24 @2pm on Microsoft Teams
+## Meeting 7 - 1/04/24 @2pm on Microsoft Teams
 Blythe and Charlotte
 - Mainly a discussion on our progress from the week before and what we were still working on and if it worked for our project
 - Researching gentrification and zine culture - Blythe
@@ -71,7 +77,7 @@ Blythe and Charlotte
 - Understood that we might not be able to complete a fully working project but still want to work towards it
 <br>
 
-## Meeting 7 - 10/04/24 @ 12pm on Microsoft Teams
+## Meeting 8 - 10/04/24 @ 12pm on Microsoft Teams
 - Recognised the importance of getting the Survey out so that we would have material to prototype with on our week back
 - Decided not to use the map for a different purpose, but to have it embedded onto the app
 - Debated over what data could be shown on our map and for what purpose. Need to consider what we are trying to show through the use of a map otherwise there is no point in incorporating one. It is likely we will use rent price data sorted by electoral ward boundaries
@@ -79,7 +85,7 @@ Blythe and Charlotte
 - Shared our research that we had done over so far over the Easter break and identified areas where we had gaps that needed to be addressed
 <br>
 
-## Meeting 8 - 22/04/24 @ 10am in Henry Daysh Building
+## Meeting 9 - 22/04/24 @ 10am in Henry Daysh Building
 Blythe, Charlotte and Soi
 - Recouped after Easter break and confirmed our sections of the presentation
 - Finalised the prototype idea we were going to show in our formative presentation
@@ -87,7 +93,7 @@ Blythe, Charlotte and Soi
 - As one team member would be absent for the presentation we had to dicuss how we would work around that
 <br>
 
-## Meeting 9 - 23/04/24 @ 2pm in Henry Daysh Building
+## Meeting 10 - 23/04/24 @ 2pm in Henry Daysh Building
 Blythe, Charlotte, Ethan and Soi
 - Discussed our own parts of the presentation and went over it finally together
 - Following evaluation of our presentation, we created an updated to do list which is also in this folder
