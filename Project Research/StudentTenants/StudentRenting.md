@@ -60,10 +60,16 @@ The National Union of Students is calling on the next government to end the stud
 <br>
 <h2>https://www.timeshighereducation.com/student/blogs/why-uk-students-are-protesting-against-private-accommodation-providers</h2>
 <br>
-
-
-
-
+This report focuses on student protests against private accommodation providers in the UK, and the reasons for them
+<br>
+<br>
+1. Accommodation cost issues: Student accommodation is now a £43bn industry with an annual turnover of £5.1bn. Private accommodation providers typically charge more than the national average rent of £147 per week, with many rooms renting for even more than £300 per week. And this high cost of accommodation undoubtedly exacerbates the financial pressures caused by the huge debts that students accumulate in their pursuit of higher education.
+<br>
+<br>
+2. The Protest: Students have begun to take militant action to reclaim their accommodation, with the rent strike movement quickly spreading from university-managed halls of residence to the private sector. These actions were in response to the university management's continuous increase in halls of residence rents, with the national average annual rent now easily more than half of the maximum student loan.
+<br>
+<br>
+<br>
 
 
 
