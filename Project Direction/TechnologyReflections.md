@@ -8,3 +8,6 @@ Reasons why we made the decisions we did surrounding our digital platform and te
 
 ## Digital Platform
 <br>
+
+### Conclusion
+<br>
