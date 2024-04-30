@@ -20,12 +20,46 @@
 <br>
 
 ## Student grassroot campaigns
-<h2>https://roarmag.org/essays/uk-student-rent-strike/</h2>
+<h2>https://theedinburghreporter.co.uk/2022/08/residents-continue-their-campaign-against-student-housing-on-eyre-place-lane/</h2>
+<h3>This is a grassroot campaign of the local residents against the property developers</h3>
+This report describes how even though some local residents objected to the property developer： Eyre Place Lane building a student accommodation block on the site, the developer went ahead with plans to build student accommodation.
 <br>
-This article describes how the rent strike has given students a new way to fight the commercialisation of higher education. 
 <br>
-
-
+Residents were concerned that the scale of the student accommodation was inappropriate for the site, that it would block sunlight and cast shadows on the community garden, and that student parties and terraces would have a negative impact on the neighbourhood. In addition, they questioned whether the developer had exceeded the boundaries of their proposed land ownership. As a result, they coordinated their opposition through the formation of a special interest group and the site. The result was criticism from local officials that it was not in the best interests of the community or the students. However, the end result was that the developers decided to go ahead with their plans for purpose-built student accommodation.
+<br>
+<h2>https://www.nusconnect.org.uk/campaigns/liber8-education/affordable-housing-for-all</h2>
+<h3>This is a grassroot campaign hold by the national union of students</h3>
+The problem is this: in the face of rising student accommodation costs without any increase in their own financial means, the proportion of private halls of residence has increased so that students are living in poorer quality but costly halls of residence. 
+<br>
+<br>
+They are working with Acorn and Generation to create a UK-wide tenants' union to provide resources and tools to help students improve their housing. In addition, they will advise students living in private halls of residence on their rights.
+<br>
+<br>
+They called on activists to be able to think about and consider linking up with other local housing campaigns to hold unscrupulous landlords and extortion agents accountable. Start by setting up a rental network to organise affordable halls of residence on campus.
+<br>
+<h2>https://www.cardiffstudents.com/activities/studentled/housingaction/</h2>
+<h3>This is a grassrroot campaiign hold by Cardiff's Students Union</h3>
+This grassroots movement is concerned about the crisis caused by the student housing shortage and wants to make a difference.
+<br>
+<br>
+They are now gathering information on the housing experiences of Cardiff University students and conducting a university-wide research project through interviews and focus groups.
+<br>
+<br>
+Their long term plan is to make the Housing Action group an effective long term group at Cardiff and are looking for first and second year students to take over the committee next year.
+<br>
+<h2>https://www.nus.org.uk/cost-of-living</h2>
+<h3>This is a grassrroot campaign hold by National Union of Students</h3>
+The National Union of Students is calling on the next government to end the student cost of living crisis within the first 100 days. This is because they are now living on the UK minimum wage after paying their rent.
+<br>
+<h2>https://www.theguardian.com/money/2023/nov/18/rent-rebels-the-tenants-who-fought-for-their-rights-and-won</h2>
+<h3>This is a grassroot campaign by tenants in London</h3>
+1.	During the COVID-9 period, some tenants working on a freelance basis asked their landlords to be able to reduce their rents by 20 per cent because they could not afford to pay them, but this was considered to be unreasonable behaviour by the housing agency called Tower Quay, and they refused to negotiate with the tenancy associations. The landlord (housing agency) said that it was not impossible to offer all the concessions that the tenants had, but the government did not provide any support to the landlord.
+<br>
+<br>
+2.	The dispute didn't stop there. Two tenants, facing eviction for not renewing their tenancies on time, took their landlord: Simpson House 3 Ltd, to court. They argued that the landlord had failed to obtain a house of multiple occupancy (HMO) licence. The result? The landlord settled out of court, acknowledging the tenants' rights. As a result, the tenants were compensated with 70% of their rent and were allowed to continue living in their flats.
+<br>
+<h2>https://www.timeshighereducation.com/student/blogs/why-uk-students-are-protesting-against-private-accommodation-providers</h2>
+<br>
 
 
 
