@@ -12,4 +12,4 @@
 10. Consider further real-life implications for our app beyond data protection acts - Troy - assigned
 11. Work on our parts on the presentation - all of us
 12. Redo our project to do list as this was deleted! Back-date what we have done - Charlotte ▶️ in progress
-
+13. Start artwork examples - Charlotte - in progress ▶️
