@@ -27,5 +27,5 @@ gantt
     Gentrification research: 2024-03-26, 14d
     another task      : 24d
     section Troy
-    Task in sec      :2024-03-12  , 12d
-    another task      : 24d
+    Researched other apps for inspiration    :2024-03-12  , 12d
+    Started version 1 of the tenant talk app      : 24d
