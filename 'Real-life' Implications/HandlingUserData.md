@@ -15,7 +15,7 @@ stop or restrict the processing of your data; data portability (allowing you to 
   ## General Data Protection Regulation (GDPR) (2016) *Official Journal of the European Union* L 119, 27 April, pp. 1-88. Available at: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679 (Accessed: 14 April 2024).
 - This is the General Data Protection Regulation enforced by EU Parliament and Council
 - It is legally binding across the EU and is fully implementable in EU countries
-- Although GB is no longer part of EU and does not apply to the UK anymore (so we would **only need to comply with the Data Protection Act**) it would be good practice to still consider abiding by such laws
+- Although GB is no longer part of EU, it does somewhat apply to the UK and it would be good practice to still consider abiding by such laws
 <br>
 
   Key considerations we could willing make include:
