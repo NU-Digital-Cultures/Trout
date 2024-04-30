@@ -20,6 +20,8 @@ gantt
     Create Microsoft Forms Survey:2024-03-26, 7d
     Survey analysis and Tenant Tales      : 24d
    Update meeting log: 2024-04-23, 7d
+    Condense WhatsApp chat: 2024-04-30, 7d
+    Presentation: 2024-05-02, 4d
     section Soi
     Collect Critical literautre on digital story telling:2024-03-11, 1d
     Another task     :after a1  , 20d
