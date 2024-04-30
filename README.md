@@ -1,16 +1,66 @@
-# A break down of the assessment criteria to make sure we're hitting all of it
-Also includes where in the GitHub the assessment criteria has been hit
-## Our Presentation
-- 15 mins long
-- All of us have designated slides
-- Include demonstration of our app prototype
-- Explain how our prototype addresses issues raised by HtN
-## Our Portfolio
-- Outlining challenges we faced and how we overcame them (👍 this is done in KeyProjectDecisions.md, MeetingLog.md, 'Zine Layout' shared doc, and 'AppDesignProcess.md'
-- Critical reflection on the context of our project- (👍this is done in 'Project Research' folder)
-- Reflection anticipating what would need to be addressed if our output were to be rolled out in the 'real-world' (👍this is done in 'Real-Life Implications' folder
-- Focus on the project process (👍this is done throughout, but particularly in 'Project Management' and 'Project Direction' folders
-- Application of relevant theories and concepts (👍this is done in 'Gentrification' folder, 'Digital Storytelling' folder, 'Project Direction' folder, 'Project Research'
-- Demonstrate we have used relevant skills and techniques to address the brief (👍this is done in 'TentantTalkApp' folder in terms of using appropriate digital tools; skills in terms of academic readings to create a frame for our project is in 'Project Research' folder)
-- Individual reflections of the process of project development- 👎we need to do this! 
-- Citations to academic works included (👍this is done in the headings of the .md files and for the mermaid maps, see 'MermaidMapsBibliography.md')
+# Welcome to our project, 
+<img width="633" alt="Screenshot 2024-04-30 at 18 01 17" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/eaea86c6-9038-4fa2-b977-47e59f1a3ce7"> .
+
+
+<br>
+
+# Contents
+Section 1. What is TenantTalk?
+<br>
+
+Section 2. Critical Reflection on the Context of Our Project
+<br>
+
+Section 3. TenantTalk's Framing Devices
+<br>
+
+
+Section 4. Project Design Process and Reflections
+<br>
+
+Section 5. Challenges we Faced and how we attempted to Overcome them
+<br>
+
+Section 6. How we have addressed the HtN brief
+<br>
+
+Section 7. Reflection on the hypothetical 'real-life' implication of TenantTalk
+<br>
+
+Section 8. Our Digital Approach
+<br>
+
+Section 9. Works Cited
+<br>
+
+# Section 1
+<br>
+
+# Section 2
+<br>
+
+# Section 3
+-application of and developed an understanding of critical theories and concepts
+<br>
+
+# Section 4
+<br>
+
+# Section 5
+- ethical challenges
+- technical challenges
+- design challenges
+  <br>
+
+# Section 6
+<br>
+
+# Section 7
+<br>
+
+# Section 8
+Digital- what has tech tools allowed us to do/ has allowed us to respond to the brief in a specific way 
+<br>
+
+# Section 9
+Bibliography here
