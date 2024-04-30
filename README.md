@@ -14,3 +14,5 @@ Also includes where in the GitHub the assessment criteria has been hit
 - Demonstrate we have used relevant skills and techniques to address the brief (👍this is done in 'TentantTalkApp' folder in terms of using appropriate digital tools; skills in terms of academic readings to create a frame for our project is in 'Project Research' folder)
 - Individual reflections of the process of project development- 👎we need to do this! 
 - Citations to academic works included (👍this is done in the headings of the .md files and for the mermaid maps, see 'MermaidMapsBibliography.md')
+
+[This is a link to planning.md](Planning.md)
