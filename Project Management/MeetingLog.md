@@ -103,4 +103,6 @@ Blythe, Charlotte, Ethan and Soi
 - Regrouped with team member who missed last week
 - Discussed how the presentation went last week
 - Outlined outstanding tasks and discussed how to complete them
+- We decided to go with our abstract storytelling approach, allowing submissions to be artwork/ poems/ images etc
+- We reduced the number of figma pages by combining the interactive map with the stories
 <br>
