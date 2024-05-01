@@ -1,10 +1,10 @@
-# Welcome to our project, 
+# Welcome to our project 👋, 
 <img width="633" alt="Screenshot 2024-04-30 at 18 01 17" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/eaea86c6-9038-4fa2-b977-47e59f1a3ce7"> .
 
 
 <br>
 
-# Contents
+# Contents:
 Section 1. What is TenantTalk?
 <br>
 
@@ -33,34 +33,34 @@ Section 8. Our Digital Approach
 Section 9. Works Cited
 <br>
 
-# Section 1
+# 1. What is TenantTalk?
 <br>
 
-# Section 2
+# 2. Critical Reflection on the Context of Our Project
 <br>
 
-# Section 3
+# 3. TenantTalk's Framing Devices
 -application of and developed an understanding of critical theories and concepts
 <br>
 
-# Section 4
+# 4. Project Design Process and Reflections
 <br>
 
-# Section 5
+# 5. Challenges we Faced and how we attempted to Overcome them
 - ethical challenges
 - technical challenges
 - design challenges
   <br>
 
-# Section 6
+# 6. How we have addressed the HtN brief
 <br>
 
-# Section 7
+# 7. Reflection on the hypothetical 'real-life' implication of TenantTalk
 <br>
 
-# Section 8
+# 8. Our Digital Approach
 Digital- what has tech tools allowed us to do/ has allowed us to respond to the brief in a specific way 
 <br>
 
-# Section 9
+# 9. Works Cited
 Bibliography here
