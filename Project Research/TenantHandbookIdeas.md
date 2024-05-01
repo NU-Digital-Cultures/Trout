@@ -81,3 +81,22 @@ his is the Newcastle Private Renting Service’s sort of ‘tenant page’
 - When users click onto different visual aspects/ objects of the house, a pop up will appear informing them of their tenant responsibilities and rights related to that object
 - We decided that this overcomes the difficulty that government websites implement, whereby they have loads of sections with information which feels like an overwhelming 'information dump'
 - This is a way of achieving the empowerment of tenants with the tools and knowledge of navigating their renting process that is basic and more effective
+<br>
+
+## Content of the Handbook
+Relate the elements of the house to outlining tenant and landlord rights/ responsibilities:
+<br>
+
+- Staircase: Deposit: "If you are entering an assured shorthold tenancy, your landlord has an obligation to protect your deposit through one of the approved UK Government schemes. This is called Tenancy Deposit Protection (TDP). In Newcastle, Deposit Protection is enforced by the Deposit Protection Service, MyDeposits, and The Tenancy Deposit Scheme. Your landlord or letting agent have a responsibility to protect your deposit through one of these schemes within 30 days of receving your deposit. These schemes are important for ensuring tenants have their deposit returned at the end of their tenancy, so long as there is no damage to the property, rent and bills are paid on time, and the tenant has met the terms of the tenancy agreement
+
+
+ 
+- Water from tap- water bills
+
+Bedroom
+<br>
+
+- Personal items
+- Electricals
+- Lightbulbs
+- Stairs? Deposit
