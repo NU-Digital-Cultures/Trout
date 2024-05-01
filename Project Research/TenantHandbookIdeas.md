@@ -84,19 +84,24 @@ his is the Newcastle Private Renting Service’s sort of ‘tenant page’
 <br>
 
 ## Content of the Handbook
-Relate the elements of the house to outlining tenant and landlord rights/ responsibilities:
+Relate the elements of the house to outlining tenant and landlord rights/ responsibilities. Idea of an effective 'walkthrough of rights and responsibilities', done better than gov websites etc.
 <br>
 
-- Staircase: Deposit: "If you are entering an assured shorthold tenancy, your landlord has an obligation to protect your deposit through one of the approved UK Government schemes. This is called Tenancy Deposit Protection (TDP). In Newcastle, Deposit Protection is enforced by the Deposit Protection Service, MyDeposits, and The Tenancy Deposit Scheme. Your landlord or letting agent have a responsibility to protect your deposit through one of these schemes within 30 days of receving your deposit. These schemes are important for ensuring tenants have their deposit returned at the end of their tenancy, so long as there is no damage to the property, rent and bills are paid on time, and the tenant has met the terms of the tenancy agreement
+- Staircase: **Tenant Deposit**: If you are entering an [assured shorthold tenancy](https://www.gov.uk/tenancy-agreements-a-guide-for-landlords/tenancy-types), your landlord has an obligation to protect your deposit through one of the approved UK Government schemes. This is called Tenancy Deposit Protection (TDP). In Newcastle, Deposit Protection is enforced by the [Deposit Protection Service](https://www.depositprotection.com/), [MyDeposits](https://www.mydeposits.co.uk/), and the [Tenancy Deposit Scheme](https://www.tenancydepositscheme.com/). Your landlord or letting agent have a responsibility to protect your deposit through one of these schemes within 30 days of receving your deposit. These schemes are important for ensuring tenants have their deposit returned at the end of their tenancy, so long as there is no damage to the property, rent and bills are paid on time, and the tenant has met the terms of the tenancy agreement. Deposits must be returned to tenants within 10 days from the point at whichr eturned deposit amount was agreed between the tenant and landlord/ letting agent. If you, as tenant, do not agree with the returned amount, the TDP scheme you are in offers a free resolution service where you can raise a dispute. So long as you and your landlord/ letting agent agree to use a TDP resolution service decision, the TDP decision is absolute. However, if this is not the case, you can raise a dispute through the [First-Fier Tribunal](https://www.judiciary.uk/courts-and-tribunals/tribunals/first-tier-tribunal/property-chamber/) if you believe your landlord/ letting agent is unfairly witholding the full deposit amount. Alternatively, so long as you have created a complaint with your landlord/ letting agent already, you can go to an Obudsman. To dispute with a landlord, seek support from the [Housing Ombudsman Service](https://www.housing-ombudsman.org.uk/). To dispute with a property agent, seek support from the [Property Ombudsman](https://www.tpos.co.uk/) and the [Property Redress Scheme](https://www.theprs.co.uk/Consumer).
+- Then this leads to the figures below: ⬇️
+- Some kind of image representing the First-Fier Tribunal and a figure representing Ombudsmen?: **Grounds for raising a Dispute**: A dispute on behalf of yourself, the tenant, can be made through the First-Fier Tribunal so long as you occupy a Residential Property (a Property designed to be lived in). Disputes can be made if your landlord/ letting agent attempts to implicate upon you unfair charges or service fees, charges for references, credit checks, administrations, or check-ins, or if they want to increase your rent during your fixed-term tenancy period.  If the latter is the case, you can only apply to the tribunal if you are in an [assured or assured shorthold tenancy](https://www.gov.uk/tenancy-agreements-a-guide-for-landlords/tenancy-types), your rent increase has been implicated a 'section 13 procedure', and you must apply before the increased rent payments are due to begin. The notice of increase you should receive from your landlord regarding these changes will outline whether the changes are part of a 'section 13 procedure', that is, the rent is being increased for a contractual periodic tenancy that contains a rent review clause.
+- Front door: **Visitations**: Tenants must respond reasonably to landlord/ letting agents' requests to entering your property. This includes allowing third parties to enter the property for the purposes of maintenance and repairs. However, the tenant should be provided with 24 hours notice before any other persons enters the property.
+- ?: **Paying your Rent**: Rent payments must be made in full and on time. If this is not the case... (NEEDS CONTINUING)
+- ?: **Cost of Rent**: To find out the cost of your rent and when reviews to your rent amount will be made, you should consult your tenancy agreement. Your landlord cannot impose an increased rent cost if you are in a fixed-term tenancy (where a tenancy agreement has been signed stipulating that the rent will occur for a set period) unless you, as tenant, agree with the changes. If you do not agree with the rent increase, it can only be implemented by the landlord after you fixed-term tenancy has ended. Landlords can only increase rent without your consultation if you have a periodic tenancy (occuring on a week-to-week or month-to-month basis). However, landlords can only increase your rent without your agreement once a year. Any rent increases should be 'fair' in that they are in line with other local rent prices and they must be in line with market rates
+- ?: **Tenant Liable Charges**: As tenant, you will be charged your rent; a refundable holding deposit to reserve your property (capped at no more than one week's rent); any reasonable (what the landlord would have lost out on) loss costs for the landlord/ letting agency (in terms of advertising the property etc) if you decide to cut your tenancy short; tenancy amendment payments (such as swapping tenants) which is capped at £50; utility bills; TV License, Council Tax; late payment of rent fees (only if the payment is late of 14 days and interest added should be capped at 3% above Bank of Endland base rates; fees for lost keys/ security devices which permit access to the property (you should only be charged what it cost the landlord/ letting agent to replace these)
+- ?: **Unjust Tenant Charges**: Maintenance, repairs, and service charges. Fees for credit checks, references, administrations, or check-ins. (NEEDS CONTINUING)
+- Front door: **Renters Reform Bill 2022-23**: 
+- Computer: **Personal Items**: "
+- Showerhead:
+- Oven: **Repair of Items**: 
+- Lightbulb: Bills
+- Tap: It is the tenant's responsibility
 
+https://studentsunionucl.org/articles/student-guide-to-tenant-fees
+https://england.shelter.org.uk/professional_resources/legal/costs_of_renting/rents_and_rent_increases/statutory_rules_for_rent_increases_for_assured_tenants
 
- 
-- Water from tap- water bills
-
-Bedroom
-<br>
-
-- Personal items
-- Electricals
-- Lightbulbs
-- Stairs? Deposit
