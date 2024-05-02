@@ -27,7 +27,7 @@ gantt
     Another task     :after a1  , 20d
     section Ethan
     Gentrification research: 2024-03-26, 14d
-    another task      : 24d
+    Research on student grassroots campaigns and debates: 24d
     section Troy
     Researched other apps for inspiration    :2024-03-12  , 12d
     Started version 1 of the tenant talk app      : 24d
