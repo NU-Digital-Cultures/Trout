@@ -26,7 +26,7 @@ gantt
     Collect Critical literautre on digital story telling:2024-03-11, 1d
     Another task     :after a1  , 20d
     section Ethan
-    Possible platforms for Zine: 2d
+    Possible platforms for Zine: 2024-03-02,2d
     Gentrification research: 2024-03-26, 14d
     Research on student grassroots campaigns and debates: 16d
     Research on the UI/UX of the app: 5d
