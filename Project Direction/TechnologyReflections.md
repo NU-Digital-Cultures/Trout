@@ -8,6 +8,7 @@ Reasons why we made the decisions we did surrounding our digital platform and te
 - Upon reflection, there are a few different platforms we could have used instead. We could have created a html for our zine instead of a prototype, but we felt creating a prototype to show exactly how our zine will work interactively would serve our project aims better.
 
 ### GitHub
+- We chose GitHub to organise our project and research as it is "used for storing, tracking, and collaborating on software projects. It makes it easy for developers to share code files and collaborate with fellow developers on open-source projects." (Juliver, 2024).
 <br>
 
 ## Digital Platform
@@ -17,5 +18,7 @@ Reasons why we made the decisions we did surrounding our digital platform and te
 <br>
 
 ### References
-'Figma' (2024) *Wikipedia*. Available at: https://en.wikipedia.org/wiki/Figma (Accessed: 2 May 2024)
+- 'Figma' (2024) *Wikipedia*. Available at: https://en.wikipedia.org/wiki/Figma (Accessed: 2 May 2024)
+- Juliver, J. (2024) 'What is GitHub? (And What Is It Used For?)', *Hubspot*, 1st April. Available at: https://blog.hubspot.com/website/what-is-github-used-for#:~:text=GitHub%20is%20an%20online%20software,developers%20on%20open%2Dsource%20projects. (Accessed: 3 May 2024).
+
 <br>
