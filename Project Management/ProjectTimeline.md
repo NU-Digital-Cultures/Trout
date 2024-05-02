@@ -31,3 +31,4 @@ gantt
     section Troy
     Researched other apps for inspiration    :2024-03-12  , 12d
     Started version 1 of the tenant talk app      : 24d
+    Completed Tenant Roundup prototype :15d
