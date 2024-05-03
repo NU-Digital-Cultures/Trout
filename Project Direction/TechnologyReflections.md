@@ -9,6 +9,9 @@ Reasons why we made the decisions we did surrounding our digital platform and te
 
 ### GitHub
 - We chose GitHub to organise our project and research as it is "used for storing, tracking, and collaborating on software projects. It makes it easy for developers to share code files and collaborate with fellow developers on open-source projects." (Juliver, 2024).
+- After being introduced to this platform by our lecturers we chose to use both the project planning tool and the repositories for our research and updates on the project.
+- We have really liked using GitHub and will definitely be using is for future projects. It has helped us to develop our coding, problem solving, and organisation skills. Having a platform that updates for every member of the repository whenever someone makes a commit is extremely useful.
+- Having everything accessible for everyone in the group has helped us to all contribute as everything that has already been done is easily viewed so group members know what is still to be done.
 <br>
 
 ## Digital Platform
