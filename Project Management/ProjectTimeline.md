@@ -26,7 +26,7 @@ gantt
     Condense WhatsApp chat: 2024-04-30, 2d
     Presentation: 2024-05-02, 4d
     Technology Reflection: 2024-04-29, 10d
-    Upload CIC Research on GitHub: 2024-04-10, 14d
+    Upload CIC Research on GitHub: 2024-04-30, 14d
     section Soi
     Collect Critical literautre on digital story telling:2024-03-11, 1d
     Another task     :after a1  , 20d
