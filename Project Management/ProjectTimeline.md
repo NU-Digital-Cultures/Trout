@@ -14,7 +14,8 @@ gantt
     Gentrification research: 2024-03-26, 14d
     Research on handling user data: 2024-04-14, 7d
     Update meeting log: 2024-04-23, 7d
-    Create content for the app pages: 2024-04-23, 7d
+    Research and create content for the Tenant Handbook: 2024-04-23, 11d
+    Create presentation slides & prep for presentation: 2024-04-30, 7d
 
     section Charlotte
     Create Microsoft Forms Survey:2024-03-26, 7d
