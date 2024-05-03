@@ -18,6 +18,7 @@ gantt
     Create presentation slides & prep for presentation: 2024-04-30, 7d
 
     section Charlotte
+    Write meeting logs:2024-02-20,60d
     Create Microsoft Forms Survey:2024-03-26, 7d
     Survey analysis and Tenant Tales      : 24d
    Update meeting log: 2024-04-23, 7d
