@@ -1,6 +1,6 @@
 # Community Interest Companies
 ## What are they?
-"A CIC is a special type of limited company which exists to benefit the community rather than private shareholders" (UK Government, no date)
+"A CIC is a special type of limited company which exists to benefit the community rather than private shareholders" (UK Government, no date). They usually have social, charitable or community based objectives.
 <br>
 
 ## How do they work?
