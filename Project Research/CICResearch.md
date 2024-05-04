@@ -4,7 +4,7 @@
 <br>
 
 ## How do they work?
-A CIC is usually a non-profit organisation and is focused on the goals of its target community. This means it could not become a limited company and work for profit, but it could become a charity if desired.
+A CIC is usually a non-profit organisation and is focused on the goals of its target community. This means it could not become a limited company and work for profit, but it could become a charity if desired. They work with volunteers, local people who want to help their community so give their time to help. They usually aren't huge organisations as they don't work for profit. That means we are working with a group of people who all care very much about the cause (Homes for Newcastle), and have knowledge in the problem that their target community is facing.
 <br>
 
 ## Their Campaigns
