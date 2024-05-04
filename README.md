@@ -35,6 +35,8 @@
 # 1. What is Tenant Talk?
 <br>
 
+![TenantTalkOpeningPage](https://github.com/NU-Digital-Cultures/Trout/assets/160641654/743bb42f-03e8-4da8-89d3-8e2e461e706f)
+
 > Tenant Talk is a data advocacy and app campaign platform designed to support Newcastle upon Tyne's student tenant population who can become vulnerable to exploitation and unfair treatment at the hands of their landlords and as a consequence of broader economical processes of gentrification.
 <br>
 
@@ -42,7 +44,7 @@ Tenant Talk has been produced to support, and has been thoroughly informed by, *
 <br>
 
 1. Expose landlords who neglect their economic and legal responsibilities at their properties, leaving tenants to suffer in unsafe or unpleasant conditions, whilst oftentimes unreasonably increasing the rent price of the property.
-2. Reveal how landlords, acting in line with wider gentrification, disproportionately increase the rent of their properties, which tenants who are bound to living in such residential areas face no choice but to agree to price increases at the end of their fixed tenancy period, or live elsewhere.
+2. Reveal how landlords, acting in line with wider gentrification, disproportionately increase the rent of their properties, which tenants who are bound to living in such city-centre residential areas face no choice but to agree to price increases at the end of their fixed tenancy period, or live elsewhere. Oftentimes tenants erronously agree to rent price increases because they are not empowered with a full understanding their rights as tenant to dispute this (more detail on this later).
 <br>
 
 Tenant Talk recognises that both of these contentions force tenants **unwillingly** and **unreasonably** into acute, fragile, and subjugated socio-economic positions.
