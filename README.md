@@ -76,7 +76,7 @@ Given that the semantic terminology of the brief implies a necessity to "expose"
 - survey
 - student grassroot campaigns
 ## The Student Housing Crisis
-Student maintenance loans are falling short of their function to support student living, with the loan being "almost entirely wiped out by rent alone" (The Weale, 2023).
+Student maintenance loans are falling short of their function to support student living, with the loan being "almost entirely wiped out by rent alone" (Weale, 2023).
 
 # 3. Existing Projects
 
