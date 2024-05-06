@@ -17,3 +17,6 @@ Foucault's 'technologies of the self' are means of identity formation
 - Our app should provide an alternative avenue for tenants whereby they are permitted to innovatively storytell their struggles. The idea of providing a platform which provides a space for tenants to reconsider and redefine their struggles on their own terms allows them to 'claim back' (ethical) power within their specific situations
 - Tenants enacting this in mass will lead to a certain level of consciousness shared among users, in other words, leading to a collective 'tenant identity' production
 <br>
+
+### McLuhan, M. (2001) *Understanding Media*. London: Taylor & Francis Group.
+https://ebookcentral.proquest.com/lib/ncl/detail.action?docID=240621
