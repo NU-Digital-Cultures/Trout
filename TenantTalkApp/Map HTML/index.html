@@ -1,0 +1,95 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leaflet Map</title>
+
+    <!-- leaflet css  -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+
+ <!-- markercluster  -->
+ <link rel="stylesheet" href="./dist/MarkerCluster.css" />
+ <link rel="stylesheet" href="./dist/MarkerCluster.Default.css" />
+
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        #map {
+            width: 100%;
+            height: 100vh;
+        }
+
+        .coordinate {
+            position: absolute;
+            bottom: 10px;
+            right: 50%;
+        }
+
+        .leaflet-popup-content {
+    max-width: 1500px;
+    height: 350px;
+    overflow-y: scroll;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="map">
+        <div class="leaflet-control coordinate"></div>
+    </div>
+</body>
+
+</html>
+
+<!-- leaflet js  -->
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+
+<!-- markercluster  -->
+<script src="./dist/leaflet.markercluster.js"></script>
+
+// Map initialization 
+
+<script>
+map = L.map('map', {
+    center: [55.01,-1.64],
+    zoom: 12
+  });
+
+ //osm layer
+    var osm = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    });
+      osm.addTo(map);
+ </script> 
+
+<!-- main js code  -->
+<script src="main.js"> </script>
+
+
+
+<script> 
+
+var coordinates = [
+    { coords: [-1.623462482899896, 54.97046021728943], iconUrl: 'icon.png', title: 'Westgate: 2024 Pricing', description: 'Tenant Tale: <br> Zachary is a second year student in Newcastle University. According to the landlord, they said they had ticked all the facilities as undamaged on the checklist and that the landlord had agreed to be able to move the placement of the beds, desks, etc. in the room but when Zachary got to the room he found a large burn mark on the floor of the bedside table after he had moved it. When Zachary spoke to the landlord, the landlord said that they could not repair the damage during the term of the contract, which meant that Zachary would have to stay in the room with the hole in the floor for a whole year. The landlords behaviour upset Zachary, who felt he had a right to live in a repaired room. However, he is an international student and doesnt know the laws here, and he doesnt dare, there is no way to appeal against this property agent.', imageUrl: 'abstract1.png' },
+    { coords: [-1.6033143259815006, 54.993330179410435], iconUrl: 'icon.png', title: 'North Jesmond: 2024 Pricing', description: 'Tenant Tale: <br> Johnason was a freshman last year. He was told by the real estate agent during last years room tour that the washing machine in his dormitory was capable of doing laundry and drying clothes in one. However, after his sophomore year, he found out that the washer was not able to dry clothes. He was very upset about this and thought he would need to buy extra drying racks, etc. and that his clothes didnt dry quickly. He thinks that the real estate agent cheated him last year, and likewise, he is an international student and doesnt know what he should do to get the real estate to make amends.', imageUrl: 'abstract2.png' },
+    { coords: [-1.5772764373712675, 54.97406208447845], iconUrl: 'icon.png', title: 'Byker: 2024 Pricing', description: 'Tenant Tale 1: <br> Our landlord was extremely rude to us throughout our tenancy, he wouldn’t give us our deposit back and he even screamed at another tenant when she was in the flat alone with him. Wouldn’t rent from him ever again.<br><br>Tenant Tale 2: <br> We had a lot of issues with our flat as soon as we arrived on moving day; the floorboards were broken, the door didn’t lock, the shower didn’t drain, there were problems with the fridge and the ventilation system and as it was a flat with no windows this was a big problem. There were also no members on the maintenance team as the only member of staff they had had quit that year to go and travel, and they hadn’t bothered to replace him. Would have liked to know about these problems before arriving as we would not have rented the flat if we knew.', imageUrl: 'bart.jpg' },
+    { coords: [-1.5810614338445816, 54.98938202685349], iconUrl: 'icon.png', title: 'South Jesmond: 2024 Pricing', description: 'Tenant Tale: <br> When we arrived at the house it seemed like it was the landlord’s first visit since the previous tenants had left. Nothing had been cleaned and the fridges had leaked which attracted silverfish. We explained all the issues we had with the house within the first few weeks of moving in, he seemed quite belligerent, trying to say some of them were expected things and we had to fix them ourselves, he did eventually replace the broken dryer but did nothing about the silverfish. This behavior continued throughout the tenancy and at the end he tried to charge us £500 (£100 each from our deposits). His reasons were heavily based on the condition that we found the house in. We were very lucky that one of our tenants’ mother is also a landlord and knew about out rights, we managed to get our full deposit back. It appears he’d tried to charge us for his renovations, and that he had only acquired the property the year before which is something we would have liked to know before renting.​', imageUrl: 'Silverfish.JPG' },
+];
+
+coordinates.forEach(function(item) {
+    var customIcon = L.icon({iconUrl: item.iconUrl, iconSize: [50, 50], });
+
+    var marker = L.marker([item.coords[1], item.coords[0]], { icon: customIcon }).addTo(map);
+    marker.bindPopup('<h3>' + item.title + '</h3><p>' + item.description + '</p><img src="' + item.imageUrl + '" alt="Description" style="width:100%;">');
+    
+    marker.on('click', function(e) {map.setView(e.target.getLatLng(), 13);});
+});
+
+</script>
