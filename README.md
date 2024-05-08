@@ -103,7 +103,7 @@ The significance of our three app components are discussed thoroughly in section
 
 One of the first steps in our project process was outlining what projects already exist which aim to tackle similar issues as *Homes to Newcastle*. This step was taken in order to see if we could take any inspiration from other projects, to get a sense of what exists and is useful/ not useful, and if it was possible to find a gap in existing project strategies which we could exploit and use in our project. This task was undertaken [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/ExistingProjectEvaluation.docx).
 
-This research led us to the formation of our [Problem Statement](https://github.com/NU-Digital-Cultures/Trout/tree/tenant-talk/Project%20Direction#:~:text=last%20week-,OurProblemStatement.md,-Update%20OurProblemStatement.md). However, by this point, we had also considered various framing devices that we wanted to adopt (see section 3).
+This research led us to the formation of our [problem statement](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Direction/OurProblemStatement.md). However, by this point, we had also considered various framing devices that we wanted to adopt (see section 3).
 <br>
 
 
@@ -114,10 +114,10 @@ In order to achieve *Homes to Newcastle*'s aims, we decided on two major critica
 <br>
 
 # Digital Storytelling
-- We considered a digital storytelling approach through the lens of academic research, which is presented in our [mindmap](https://github.com/NU-Digital-Cultures/Trout/tree/tenant-talk/Project%20Research/Digital%20Storytelling#:~:text=..-,DigitalStorytellingResearch.md,-Rename%20InitialStorytellingResearch.md).
+- We considered a digital storytelling approach through the lens of academic research, which is presented in our [mermaid mmap](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Digital%20Storytelling/DigitalStorytellingResearch.md).
 - - We found that digital storytelling provided a unique way of aligning with Foucault's technologies of the self (Landby, 2008b; Foucault, 1988), which is essential to modern-day identity formation. We undertook further key readings on identity formation [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/TenantTalkIdentity.md). However, in summation,
-- We also conducted further research into [non-linear and interactive storytelling](https://github.com/NU-Digital-Cultures/Trout/tree/tenant-talk/Project%20Research/Digital%20Storytelling#:~:text=InteractiveNonLinearStorytelling.md). This consisted of storytelling ideas we could take inspiration from which would develop our own digital storytelling approach. Here we also interrogated the potential ethical, political, and social implications of interactive storytelling.
-- Here is our [non-linear storytelling visual](https://github.com/NU-Digital-Cultures/Trout/tree/tenant-talk/Project%20Research/Digital%20Storytelling#:~:text=NonLinearStorytellingVisual.md), the theory underpinning our **Tenant Tales** interactive map.
+- We also conducted further research into [non-linear and interactive storytelling](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Digital%20Storytelling/InteractiveNonLinearStorytelling.md). This consisted of storytelling ideas we could take inspiration from which would develop our own digital storytelling approach. Here we also interrogated the potential ethical, political, and social implications of interactive storytelling.
+- Here is our [non-linear storytelling visual](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Digital%20Storytelling/NonLinearStorytellingVisual.md), the theory underpinning our **Tenant Tales** interactive map.
 
 
 # Zine Culture
