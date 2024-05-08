@@ -7,13 +7,13 @@
 <br>
 
 # Contents:
-**Section 1.** What is TenantTalk?
+**Section 1.** What is Tenant Talk?
 <br>
 
 **Section 2.** Existing Projects
 <br>
 
-**Section 3.** TenantTalk's Framing Devices 
+**Section 3.** Tenant Talk's Framing Devices 
 <br>
 
 **Section 4.** Critical Reflection on the Context of Our Project
@@ -107,12 +107,24 @@ This research led us to the formation of our [Problem Statement](https://github.
 <br>
 
 
-# 3. TenantTalk's Framing Devices
+# 3. Tenant Talk's Framing Devices
 <br>
+
+In order to achieve *Homes to Newcastle*'s aims, we decided on two major critical framing devices that would uniquely shape our project. Following research on these devices, they led us to further 
+<br>
+
+# Digital Storytelling
+- We considered a digital storytelling approach through the lens of academic research, which is presented in our [mindmap]
+- We found that digital storytelling provided a unique way of aligning with Foucault's technologies of the self (Landby, 2008b; Foucault, 1988), which is essential to modern-day identity formation. We undertook further key readings on identity formation [here]. However, in summation,
+
+# Zine Culture
+- 
 
 # 4. Critical Reflection on the Context of Our Project
 -application of and developed an understanding of critical theories and concepts
 <br>
+
+We first undertook research on 
 
 ## Our Survey 
 (Tenant Talk, 2024)
