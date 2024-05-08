@@ -1,5 +1,7 @@
 # Welcome to Our Project 👋, 
-<img width="633" alt="Screenshot 2024-04-30 at 18 01 17" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/eaea86c6-9038-4fa2-b977-47e59f1a3ce7"> .
+<br>
+
+<img width="755" alt="Screenshot 2024-05-08 at 15 30 36 copy" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/76e9863c-e9b5-44aa-ab8d-8b1b770f5750">
 
 
 <br>
@@ -35,29 +37,40 @@
 # 1. What is Tenant Talk?
 <br>
 
-> Tenant Talk is a data advocacy and app campaign platform designed critically to support Newcastle upon Tyne's student tenant population who can become vulnerable to exploitation practices through unfair, unethical treatment at the hands of their landlords and as a consequence of broader economical processes of gentrification
+<img width="874" alt="Screenshot 2024-05-08 at 15 30 36" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/a24f4939-0273-4060-be98-8d3d09206cd8">
 <br>
 
-Tenant Talk has been produced to support, and has been thoroughly informed by, *Homes to Newcastle*'s two-fold campaigns. Our app therefore works to:
+> **Tenant Talk** is a data advocacy and app campaign platform designed critically to support Newcastle upon Tyne's student tenant population, who can become vulnerable to exploitative, unethical, and legally problematic practices at the hands of their landlords and as a consequence of broader economical processes of gentrification
 <br>
 
-1. Expose landlords who neglect their economic and legal responsibilities at their properties and/ or behaving unethically towards their tenants, leaving tenants to suffer in unsafe, unpleasant, or temperamental living conditions. 
-2. Reveal how landlords, acting in line with broader economical processes of gentrification, disproportionately increase the rent cost of their properties in (predominantly) city centre areas, which causes student tenants, who are bound to living in such city-centre residential areas for university, face no choice but to eventually consent to rent price increases at the end of their fixed tenancy period or live elsewhere. However, oftentimes tenants can prematurely and erronously agree to rent price increases because they are not empowered with a full understanding of their rights as tenant to dispute this matter (more detail on this later).
+
+**Tenant Talk** has been produced to support, and has been thoroughly informed by, *Homes to Newcastle*'s two-fold campaigns. *Homes to Newcastle* requested a digital campaign tool that aims to...
+<br>
+<img width="985" alt="Screenshot 2024-05-08 at 15 29 43" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/a4cb3b08-59ce-4096-9ae1-5725cea71617">
+
+The **Tenant Talk** app responds to these two central aims by working to:
 <br>
 
-Tenant Talk recognises that both of these contentions force tenants **unwillingly** and **unreasonably** into acute, fragile, and subjugated socio-economic positions. Student tenants are the most severe victims in the renting market, which is contemporarily compounded by the cost of living crisis. Landlords face no fatal economic struggle when increasing the rents of their property(s) and are fact occupy hegemonic positions over students rents , who inevitably face paying higher rents and suffer the lived experiences of less money being invested into the general maintenance of their rented property (Socialist Worker, 2023). According to Shelter, one in two private renters in England (of some "3.2 million adults") would be unable to pay ther rent in the event of losing their job, and 2.2 million renters would be unable to pay their rent in the same circumstances even with the inclusion of their savings (2023). For students, whom are unable to partake in full time employment, the economic situation is ever-more fragile.
+1. Expose landlords who neglect their economic and legal responsibilities at their properties and/ or behave unethically towards their tenants, leaving tenants to suffer in unsafe, unpleasant, or temperamental living conditions. 
+2. Reveal how landlords, acting in line with broader economical processes of gentrification, disproportionately increase the rent cost of their properties while students are living in these poor conditions. As gentrification occcurs in predominantly (or nearby) city centre areas, student tenants, who are bound to living in such city-centre residential areas for university, face no choice but to eventually consent to rent price increases at the end of their fixed tenancy period or live elsewhere. However, oftentimes tenants can prematurely or erronously agree to rent price increases because they are not empowered with a full understanding of their rights as tenant to dispute this matter (more detail on this later).
+<br>
+
+**Tenant Talk** recognises that both of these contentions force tenants **unwillingly** and **unreasonably** into acute, fragile, and subjugated socio-economic positions. Student tenants are the most severe victims in the renting market, which is contemporarily compounded by the cost of living crisis. Landlords ultimately face no fatal economic struggle as they can increasing the rents of their property(s). This means that landlords occupy hegemonic socio-economic stances over students, who inevitably face paying these higher rents and equally suffer the lived experience of less money being invested into the general maintenance of their rented property (Socialist Worker, 2023). According to Shelter, one in two private renters in England (of some "3.2 million adults") would be unable to pay ther rent in the event of losing their job, and 2.2 million renters would be unable to pay their rent in the same circumstances even with the inclusion of their savings (2023). For students, whom are unable to partake in full time employment due to their university commitments, the economic situation is made ever-more fragile.
 <br>
 
 ## Student Tenants
-We decided to narrow the focus of our project to student tenants, although this does not mean to exclude other types of tenants from engaging with and benefitting from our app. This decision was unanimously made given that we are student renters ourselves and our social networks usefully contain fellow student tenants. Hence, collectively as creators, we have first hand experience with and access to further insight regarding the social, economic, and political issues stipulated by the brief. 
+We decided to narrow the focus of our project to student tenants, although this does not mean to exclude other types of tenants from engaging with and benefitting from our app. This decision was unanimously made given that we are student renters ourselves and our social networks also usefully contain fellow student tenants. Hence, collectively as creators, we have first hand experience with and access to further insight regarding the social, economic, and political issues stipulated by the brief. 
 <br>
 
-Tenant Talk has been crafted for Rugg, Ford and Burrows' third characterised student renting pathway, the "*constrained pathway*" (2006). This incorporates a typology of students who experience relatively severe to severe constraints in the renting/ housing markets. These are students who are moving out of their family homes and into (preferred) city centre areas and in the process struggle to source affordable properties to live in due to the increased gentrification of areas. Given that students are unable to commit to full-time employment, and are increasingly face no choice but to work part-time (Wright, 2024), these students often have "protracted stays" in their parental homes, if possible, or they may have some family support which could be relied upon in terms of economic harship for paying their rent (Rugg, Ford and Burrows, 2006, p.29). However, this typology of students will inevitably lack sufficient enough incomes to afford their rent, placing them as the most (and crucially, involuntarily so) constrained in the housing markets.
+Tenant Talk has been crafted for Rugg, Ford and Burrows' third characterised student renting pathway, the "*constrained pathway*" (2006). This incorporates a typology of students who experience relatively severe to severe constraints in the renting/ housing market. These are students who are moving out of their family homes and into (preferred) city centre areas and in the process struggle to source affordable properties to live in due to the increased gentrification of areas. Given that students are unable to commit to full-time employment, and are increasingly facing no choice but to work part-time (Wright, 2024), these students often have "protracted stays" in their parental homes, if possible, or they may have some family support which could be relied upon in terms of economic harship for paying their rent (Rugg, Ford and Burrows, 2006, p.29). However, this typology of students will inevitably lack sufficient enough incomes to afford their rent, placing them as the most- and crucially, involuntarily so- constrained in the housing markets.
 <br>
 
-Given that the semantic terminology of the brief implies a necessity to "expose" and "reveal", we decided that this agenda lended itself usefully to data advocacy approaches, making visible the implications of unethical landlord treatment of tenants and gentrification on student tenants (see section 4 for more detail), whilst adhering in line with data protection standards (see section 7 for more detail). This primarily involves 
+Given the semantic terminology of the brief implies a necessity to "expose" and "reveal", we decided that this agenda lended itself usefully to data advocacy approaches. We therefore, through **Tenant Talk**, aim to make visible the implications of unethical landlord treatment of tenants and economic gentrification on student tenants (see section 4 for more detail), whilst adhering in line with data protection standards (see section 7 for more detail). For our team, this meant creating three-fold approach to our app's components. 
+<br>
 
-## Tenant Talk fulfils *Homes to Newcastle*'s campaign requirements through it's three major app components:
+Moreover, 
+
+## Tenant Talk app features:
 1. **Tenant Tales**: an interactive map with embedded qualitatve and quantitative data student tenants but also by student tenants.
   <br>
   
