@@ -101,7 +101,9 @@ The significance of our three app components are discussed thoroughly in section
 # 2. Existing Projects
 <br>
 
-One of the first steps in our project process was outlining what projects already exist which are aiming to tackling similar issues as *Homes to Newcastle*.
+One of the first steps in our project process was outlining what projects already exist which aim to tackle similar issues as *Homes to Newcastle*. This step was taken in order to see if we could take any inspiration from other projects, to get a sense of what exists and is useful/ not useful, and if it was possible to find a gap in existing project strategies which we could exploit and use in our project. This task was undertaken here.
+
+This research led us to the formation of our Problem Statement
 # 3. TenantTalk's Framing Devices
 <br>
 
