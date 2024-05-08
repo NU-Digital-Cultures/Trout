@@ -85,7 +85,7 @@ Given the semantic terminology of the brief implies a necessity to "expose" and 
 - No-fault evictions
  <br>
 
- **The Tenant Handbook** fundamentally empowers tenants with the knowledge, tools, and feeling of social capital (Bourdieu, 1984)/ power to navigate the renting market and their tenancies by being incredibly informative and advisory of the best approaches to navigating difficult renting situations or troublesome landlords. It empowers students to make well-founded demands for a safe, stable, and good quality housing by acting as a vital and easy to comprehend 'what to do' student digital pocket handbook for renting.
+ The **Tenant Handbook** fundamentally empowers tenants with the knowledge, tools, and feeling of social capital (Bourdieu, 1984)/ power to navigate the renting market and their tenancies by being incredibly informative and advisory of the best approaches to navigating difficult renting situations or troublesome landlords. It empowers students to make well-founded demands for a safe, stable, and good quality housing by acting as a vital and easy to comprehend 'what to do' student digital pocket handbook for renting.
 <br>
  
 3. Our **Tenant Round-Up** 
@@ -160,7 +160,58 @@ Digital- what has tech tools allowed us to do/ has allowed us to respond to the 
 ## The full bibliographic list of works cited throughout Tenant Talk's design, framing, context discussions/ analysis, and research process- as well as those used within the app itself- can be found below.
 <br>
 
+Baldick, C. (2008) The Oxford Dictionary of Literary Terms. Available at: https://www.oxfordreference.com/display/10.1093/acref/9780199208272.001.0001/acref-9780199208272-e-1200 (Accessed: 3 May 2024).
+<br>
+
 Bourdieu, P. (1984) *Distinction: A Social Critique of the Judgement of Taste*. Cambridge: Harvard University Press.
+<br>
+
+Bowen, S., Wright, P., Wilson, A., Dow, A., Bartindale, T. and Anderson, R. (eds) (2020) *MetroFutures: Experience-Centred Co-Design at Scale: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems*. Conference at New York (New York, USA), 25-30 April. Honolulu, USA: Association for Computing Machinery. Available at: https://doi.org/10.1145/3313831.3376885 
+<br>
+
+Bourassa, S. C. (1993) 'The Rent Gap Debunked', *Urban Studies*, 30(10), pp. 1731-1744. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1080/00420989320081691
+<br>
+
+Brown, A., Hurley, M., Perry, S., and Roche, J. (2021) 'Zines as Reflective Evaluation Within Interdisciplinary Learning Programmes', Curriculum, *Instruction, and Pedagogy*, 6, pp. 1-10. Available at: https://doi.org/10.3389/feduc.2021.675329 
+<br>
+
+Burgess, J. (2008) ‘Hearing ordinary voices: cultural studies, vernacular creativity and digital storytelling’, *Continuum: Journal of Media and Cultural Studies*, 20(2), pp.201-214. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1177/1461444808089413 
+<br>
+
+Clark, E. (1995) 'The Rent Gap Re-examined', *Urban Studies*, 32(9), pp. 1489-1503. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1080/00420989550012366
+<br>
+
+Diappi, L. and Bolchi, P. 'Smith's rent gap theory and local real estate dynamics: A multi-agent model', *Computers, Environment and Urban Systems*, 32(1), pp. 6-18. Available at: https://www-sciencedirect-com.libproxy.ncl.ac.uk/science/article/pii/S0198971506001037?via%3Dihub (Accessed: 14 April 2024).
+<br>
+
+Dush, L. (2012) ‘The ethical complexities of sponsored digital storytelling’, *International Journal of Cultural Studies*, 16(6), pp.627-640. Available at: https://doi.org/10.1177/1367877912459142 
+<br>
+
+Foucault, M (1988) 'Technologies of the self', in L. H. Martin, H. Gutman and P. Huton (eds), *Technologies of the Self: A Seminar with Michael Foucault.* London: Tavistock, pp. 16-49.
+<br>
+
+Heins, C. (2022) 'Generation Zine: Why the Revival of Zine Culture Is Crucial Today', *New University*, 8 January. Available at: https://newuniversity.org/2022/01/08/generation-zine-why-the-revival-of-zine-culture-is-crucial-today/ (Accessed 18 March 2024).
+<br>
+
+Hull, G. A. and Nelson, M. E. (2005) ‘Locating the Semiotic Power of Multimodality’, *Written Communication*, 22(2), pp. 224-261. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1177/0741088304274170 
+<br>
+
+Lambert, J. (2009) *Digital Storytelling: Capturing Lives, Creating Community*. 3rd edn. Berkeley, CA: Digital Dinner Press.
+<br>
+
+Lessig, L. (2004) *Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity*. New York: Penguin.
+<br>
+
+Ley, D. (2003) 'Artists, Aestheticisation and the Field of Gentrification', *Urban Studies*, 40(12), pp. 2527-2544. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1080/0042098032000136192
+<br>
+
+Lundby, K. (2008a) *Digital Storytelling, Mediatized Stories: Self-representations in New Media*. New York: Peter Lang.
+<br>
+
+Lundby, K. (2008b) ‘Editorial: mediatized stories: mediation perspectives on digital storytelling’, *New Media & Society*, 10(3), pp. 363-371. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1177/1461444808089413
+<br>
+
+McKinlay, A. and Starkey, K. P. (1997) *Foucault, management and organization theory from panopticon to technologies of the self*. London: Sage Publications.
 <br>
 
 Rugg, J., Ford, J. and Burrows, R. (2006) 'Housing advantage? The role of student renting in the consitution of housing biographies in the United Kingdom', *Journal of Youth Studies*, 7(1), pp. 19-34. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1080/1367626042000209930
@@ -169,10 +220,19 @@ Rugg, J., Ford, J. and Burrows, R. (2006) 'Housing advantage? The role of studen
 Shelter (2024) *Half of working renters only one paycheck away from losing their home*. Available at: https://england.shelter.org.uk/media/press_release/half_of_working_renters_only_one_pay_cheque_away_from_losing_their_home_#:~:text=22%20Aug%202023-,Half%20of%20working%20renters%20only%20one%20pay%20cheque%20away%20from,new%20research%20by%20Shelter%20reveals. (Accessed: 6 May 2024).
 <br>
 
+Smed, J., Suovuo, T., Skult, N. and Skult, P. (2021) *Handbook on Interactive Storytelling*. West Sussex: Wiley.
+<br> 
+
+Smith, N. (1979) 'Toward a Theory of Gentrifcation: A Back to the City Movement by Capital, not People', *Journal of the American Planning Association, 45(4), pp. 538-548. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1080/01944367908977002
+<br>
+
 Socialist Worker (2023) 'Renters are the real victims of housing crisis- not landlords', 27 August. Available at: https://socialistworker.co.uk/background-check/renters-are-the-real-victims-of-housing-crisis-not-landlords/ (Accessed: 6 May 2024).
 <br>
 
 Weale, S. (2023) 'University Students in England 'have 50p a week to live on after rent', *The Guardian*, 26 October. Available at: https://www.theguardian.com/money/2023/oct/26/university-students-england-50p-a-week-after-rent (Accessed: 6 May 2024).
+<br>
+
+Wilson, A. and Tewdwr-Jones, M. (2020) 'Lets draw and talk about urban change: Deploying digital technology to encourage citizen participation in urban planning', *Environment and Planning B: Urban Analytics and City Science*, 47(9), pp. 1588-1604. Availabe at: https://doi.org/10.1177/2399808319831290 
 <br>
 
 Wright, A. (2024) 'Student part-time work is on the rise. Here's what universities can do next', *Wonkhe*, 30 January. Available at: https://wonkhe.com/blogs/our-full-time-students-are-almost-full-time-workers-too/ (Accessed: 6 May 2024).
