@@ -65,21 +65,33 @@ We decided to narrow the focus of our project to student tenants, although this 
 Tenant Talk has been crafted for Rugg, Ford and Burrows' third characterised student renting pathway, the "*constrained pathway*" (2006). This incorporates a typology of students who experience relatively severe to severe constraints in the renting/ housing market. These are students who are moving out of their family homes and into (preferred) city centre areas and in the process struggle to source affordable properties to live in due to the increased gentrification of areas. Given that students are unable to commit to full-time employment, and are increasingly facing no choice but to work part-time (Wright, 2024), these students often have "protracted stays" in their parental homes, if possible, or they may have some family support which could be relied upon in terms of economic harship for paying their rent (Rugg, Ford and Burrows, 2006, p.29). However, this typology of students will inevitably lack sufficient enough incomes to afford their rent, placing them as the most- and crucially, involuntarily so- constrained in the housing markets.
 <br>
 
-Given the semantic terminology of the brief implies a necessity to "expose" and "reveal", we decided that this agenda lended itself usefully to data advocacy approaches. We therefore, through **Tenant Talk**, aim to make visible the implications of unethical landlord treatment of tenants and economic gentrification on student tenants (see section 4 for more detail), whilst adhering in line with data protection standards (see section 7 for more detail). For our team, this meant creating three-fold approach to our app's components. 
+Given the semantic terminology of the brief implies a necessity to "expose" and "reveal", we decided that this agenda lended itself usefully to data advocacy approaches. We therefore, through **Tenant Talk**, aim to make visible both the implications of unethical landlord treatment and economic gentrification on student tenants (see section 4 for more detail), whilst adhering in line with data protection standards (see section 7 for more detail). For our team, such a wide-ranging agenda meant creating a more complex, three-fold approach to our app's components: a **Tenant Tales** interactive map, a **Tenant Handbook**, and a **Tenant Roundup** section. 
 <br>
 
 Moreover, 
 
-## Tenant Talk app features:
-1. **Tenant Tales**: an interactive map with embedded qualitatve and quantitative data student tenants but also by student tenants.
+## Our app features explained:
+1. The **Tenant Tales** portion of our app consists of an interactive map which is embedded with both qualitative and quantitative data. Our qualitative data exists in the form of tenants' personal stories and experiences of renting. These are uploaded onto the map according to the different areas (specificially, electoral ward boundaries) of Newcastle. Our quantitative data consists of a rent cost analysis organised by the same area criteria as the qualitative data of Newcastle. In essence, the **Tenant Tales** map addresses the empowerment element of the brief: it fosters a shared student identity space where student experiences of renting hold value and can be creatively articulated. Our penultimate idea for this section was that the map would become a supportive hub of qualitative landlord/ area data for student tenants and created by student tenants, which is then interweaved seamlessly with further supportive data indicitative of gentrification levels in specific areas. 
   <br>
   
-2. **Tenant Handbook**
+2. The **Tenant Handbook** presents as an interactive, almost 'cartoon-like' walkthrough of a tenancy. It is focussed upon matters that were evidenced as problematic by student tenants in our Tenant Talk Survey (2024). The **Handbook** visually replicates the inside image of the house that is on our app's opening page. As users navigate the different sections of the house, each item in different rooms correlates to a piece of information that is vital for student tenants to know (and that they had stipulated in our Survey (2024) they would want to know)) about their tenant or landlord's rights and responsibilities within and about the property they are renting. The **Handbook** specifically focusses on the following points of contention for student tenants:
+- Disputes processes
+- Rent price increasing during a tenancy
+- Deposit protection schemes and eventual return
+- Property maintenance and repairs
+- Tenant safety
+- Unjust fees and charges
+- No-fault evictions
  <br>
+
+ **The Tenant Handbook** fundamentally empowers tenants with the knowledge, tools, and feeling of social capital (Bourdieu, 1984)/ power to navigate the renting market and their tenancies by being incredibly informative and advisory of the best approaches to navigating difficult renting situations or troublesome landlords.
+
  
-3. **Tenant Round-Up**
+ 
+5. Our **Tenant Round-Up**
    <br>
 
+The significance of our three app components are discussed thoroughly in section 5. 
 
 # 2. Critical Reflection on the Context of Our Project
 <br>
@@ -99,7 +111,9 @@ Student maintenance loans are falling short of their function to support student
 
 # 5. Project Design Process and Reflections
 <br>
-Initial ideas we had for our project were rather distant to the final prototype. Our first ideas centred around a complaints management system
+Initial ideas that we had for our project were rather distant to the final prototype. Our first ideas centred around a complaints management system
+- talk about how we felt digital storytelling needed to become more abstract, including audio and visual artworks/ zines
+- why the Tenant Handbook is so visual and cartoon-like- because normally heavy information dumps. Also what this digital framework allows us to do given it is digital
 
 # 6. Challenges we Faced and how we attempted to Overcome them
 - ethical challenges
@@ -116,6 +130,9 @@ Digital- what has tech tools allowed us to do/ has allowed us to respond to the 
 
 # 9. Works Cited
 ## The full bibliographic list of works cited throughout Tenant Talk's design, framing, context discussions/ analysis, and research process- as well as those used within the app itself- can be found below.
+<br>
+
+Bourdieu, P. (1984) *Distinction: A Social Critique of the Judgement of Taste*. Cambridge: Harvard University Press.
 <br>
 
 Rugg, J., Ford, J. and Burrows, R. (2006) 'Housing advantage? The role of student renting in the consitution of housing biographies in the United Kingdom', *Journal of Youth Studies*, 7(1), pp. 19-34. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1080/1367626042000209930
