@@ -103,7 +103,10 @@ The significance of our three app components are discussed thoroughly in section
 
 One of the first steps in our project process was outlining what projects already exist which aim to tackle similar issues as *Homes to Newcastle*. This step was taken in order to see if we could take any inspiration from other projects, to get a sense of what exists and is useful/ not useful, and if it was possible to find a gap in existing project strategies which we could exploit and use in our project. This task was undertaken [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/ExistingProjectEvaluation.docx)
 
-This research led us to the formation of our Problem Statement
+This research led us to the formation of our [Problem Statement](https://github.com/NU-Digital-Cultures/Trout/tree/tenant-talk/Project%20Direction#:~:text=last%20week-,OurProblemStatement.md,-Update%20OurProblemStatement.md). However, by this point, we had also considered various framing devices that we wanted to adopt (see section 3).
+<br>
+
+
 # 3. TenantTalk's Framing Devices
 <br>
 
