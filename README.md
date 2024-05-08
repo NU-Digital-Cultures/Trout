@@ -10,13 +10,13 @@
 **Section 1.** What is TenantTalk?
 <br>
 
-**Section 2.** Critical Reflection on the Context of Our Project
+**Section 2.** Existing Projects
 <br>
 
-**Section 3.** Existing Projects
+**Section 3.** TenantTalk's Framing Devices 
 <br>
 
-**Section 4.** TenantTalk's Framing Devices
+**Section 4.** Critical Reflection on the Context of Our Project
 <br>
 
 **Section 5.** Project Design Process and Reflections
@@ -68,7 +68,8 @@ Tenant Talk has been crafted for Rugg, Ford and Burrows' third characterised stu
 Given the semantic terminology of the brief implies a necessity to "expose" and "reveal", we decided that this agenda lended itself usefully to data advocacy approaches. We therefore, through **Tenant Talk**, aim to make visible both the implications of unethical landlord treatment and economic gentrification on student tenants (see section 4 for more detail), whilst adhering in line with data protection standards (see section 7 for more detail). For our team, such a wide-ranging agenda meant creating a more complex, three-fold approach to our app's components: a **Tenant Tales** interactive map, a **Tenant Handbook**, and a **Tenant Roundup** section. 
 <br>
 
-Moreover, 
+<img width="249" alt="Screenshot 2024-05-08 at 16 18 34" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/16b47a48-d81b-4311-8e4b-68cb75232ddd">
+<br>
 
 ## Our app features explained:
 1. The **Tenant Tales** portion of our app consists of an interactive map which is embedded with both qualitative and quantitative data. Our qualitative data exists in the form of tenants' personal stories and experiences of renting. These are uploaded onto the map according to the different areas (specificially, electoral ward boundaries) of Newcastle. Our quantitative data consists of a rent cost analysis organised by the same area criteria as the qualitative data of Newcastle. In essence, the **Tenant Tales** map addresses the empowerment element of the brief: it fosters a shared student identity space where student experiences of renting hold value and can be creatively articulated. Our penultimate idea for this section was that the map would become a supportive hub of qualitative landlord/ area data for student tenants and created by student tenants, which is then interweaved seamlessly with further supportive data indicitative of gentrification levels in specific areas. 
@@ -84,16 +85,28 @@ Moreover,
 - No-fault evictions
  <br>
 
- **The Tenant Handbook** fundamentally empowers tenants with the knowledge, tools, and feeling of social capital (Bourdieu, 1984)/ power to navigate the renting market and their tenancies by being incredibly informative and advisory of the best approaches to navigating difficult renting situations or troublesome landlords.
-
+ **The Tenant Handbook** fundamentally empowers tenants with the knowledge, tools, and feeling of social capital (Bourdieu, 1984)/ power to navigate the renting market and their tenancies by being incredibly informative and advisory of the best approaches to navigating difficult renting situations or troublesome landlords. It empowers students to make well-founded demands for a safe, stable, and good quality housing by acting as a vital and easy to comprehend 'what to do' student digital pocket handbook for renting.
+<br>
  
- 
-5. Our **Tenant Round-Up**
+3. Our **Tenant Round-Up** 
    <br>
 
-The significance of our three app components are discussed thoroughly in section 5. 
+<img width="726" alt="Screenshot 2024-05-08 at 16 19 06" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/7c0165d8-a354-4467-8089-74a89da815d3">
 
-# 2. Critical Reflection on the Context of Our Project
+<br>
+
+The significance of our three app components are discussed thoroughly in section 5. 
+<br>
+
+# 2. Existing Projects
+<br>
+
+One of the first steps in our project process was outlining what projects already exist which are aiming to tackling similar issues as *Homes to Newcastle*.
+# 3. TenantTalk's Framing Devices
+<br>
+
+# 4. Critical Reflection on the Context of Our Project
+-application of and developed an understanding of critical theories and concepts
 <br>
 
 ## Our Survey 
@@ -102,11 +115,6 @@ The significance of our three app components are discussed thoroughly in section
 - student grassroot campaigns
 ## The Student Housing Crisis
 Student maintenance loans are falling short of their function to support student living, with the loan being "almost entirely wiped out by rent alone" (Weale, 2023).
-
-# 3. Existing Projects
-
-# 4. TenantTalk's Framing Devices
--application of and developed an understanding of critical theories and concepts
 <br>
 
 # 5. Project Design Process and Reflections
