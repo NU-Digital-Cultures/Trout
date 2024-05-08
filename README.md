@@ -114,8 +114,11 @@ In order to achieve *Homes to Newcastle*'s aims, we decided on two major critica
 <br>
 
 # Digital Storytelling
-- We considered a digital storytelling approach through the lens of academic research, which is presented in our [mindmap]
-- We found that digital storytelling provided a unique way of aligning with Foucault's technologies of the self (Landby, 2008b; Foucault, 1988), which is essential to modern-day identity formation. We undertook further key readings on identity formation [here]. However, in summation,
+- We considered a digital storytelling approach through the lens of academic research, which is presented in our [mindmap](https://github.com/NU-Digital-Cultures/Trout/tree/tenant-talk/Project%20Research/Digital%20Storytelling#:~:text=..-,DigitalStorytellingResearch.md,-Rename%20InitialStorytellingResearch.md).
+- - We found that digital storytelling provided a unique way of aligning with Foucault's technologies of the self (Landby, 2008b; Foucault, 1988), which is essential to modern-day identity formation. We undertook further key readings on identity formation [here](https://github.com/NU-Digital-Cultures/Trout/tree/tenant-talk/Project%20Research#:~:text=last%20week-,TenantTalkIdentity.md,-Update%20and%20rename). However, in summation,
+- We also conducted further research into [non-linear and interactive storytelling](https://github.com/NU-Digital-Cultures/Trout/tree/tenant-talk/Project%20Research/Digital%20Storytelling#:~:text=InteractiveNonLinearStorytelling.md). This consisted of storytelling ideas we could take inspiration from which would develop our own digital storytelling approach. Here we also interrogated the potential ethical, political, and social implications of interactive storytelling.
+- Here is our [non-linear storytelling visual](https://github.com/NU-Digital-Cultures/Trout/tree/tenant-talk/Project%20Research/Digital%20Storytelling#:~:text=NonLinearStorytellingVisual.md), the theory underpinning our **Tenant Tales** interactive map.
+
 
 # Zine Culture
 - 
