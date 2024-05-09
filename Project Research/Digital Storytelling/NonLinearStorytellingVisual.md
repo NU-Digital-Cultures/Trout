@@ -5,7 +5,7 @@ quadrantChart
     y-axis Poor Experience --> Good Experience
     quadrant-1 Rent cost
     quadrant-2 Landlord
-    quadrant-3 Deposit/ maintenance
+    quadrant-3 Deposit/ maintenance/ repairs etc...
     quadrant-4 Rent value for money
     Tenant A: [0.3, 0.6]
     Tenant B: [0.45, 0.23]
