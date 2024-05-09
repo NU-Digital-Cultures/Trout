@@ -21,8 +21,8 @@ mindmap
         1st stage: "new construction and first cycle of use"- property deteriorates at hand of the homeowner or tenant
         2nd stage: "from homeowner to landlord"- when a property is let, the criteria for investing in maintenance change, and investment is only worthwhile if there is return in terms of rent
         3rd stage: as the rent of the property is determined by conditions of surrounding buildings, you get decay of whole neighbourhood. 
-        4th stage: less investment in that area, more investment in more profitable areas. Rents and house values collapse, producing falls in property prices. Vandalism and crime accelarate process of degradation
-        5th stage: property abandoned. The rent collapse "creates the economic conditioons for a rational market response: revaluation of the area through investment and consequent triggering of gentrification"
+        4th stage: less investment in that area, more investment in more profitable areas. Rents and house values collapse, producing falls in property prices. Vandalism and crime accelerate process of degradation
+        5th stage: property abandoned. The rent collapse "creates the economic conditions for a rational market response: revaluation of the area through investment and consequent triggering of gentrification"
         This relates to Newcastle's 'post-industrial' town status
           Coincides with Smith's definitions: - Smith, 1979, p.543
             Capitalised ground rent is "the actual quantity of ground rent that is appropriated by the land owner, given the present land use." This includes landlord's service on the land that they own, so production of the land and ownership of the land are combined. This rent is paid by the tenant
