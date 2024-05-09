@@ -28,5 +28,5 @@ mindmap
         Show where local identities and original communities have been replaced, which are some of the primary negative effects on gentrification. para.8
           Show how area competition impacts on humans intimate, emotionally, and socially, as well as just economically
         
-    Exposing bad landlords
+    Gentrification & bad landlord consequences
       Tenant submissions
