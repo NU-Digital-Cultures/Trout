@@ -154,7 +154,7 @@ Below are some data visualisations we created in order to understand gentrificat
 <br>
 
 ### What is Gentrification?
-To grasp the mechanisms behind gentrification, we looked at [scholarly theorisations of gentrifcation](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Gentrification/GentrificationTheories.md). We found the Rental Gap Theory (RGT) the most persuasive for how understanding how it impacts tenants' rents. We applied this concept into our app by thinking of how we could best represent this gentrification process and the consequences it has for tenants in the form of data. This was done in our [GentrificationAsData.md](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Direction/TheProblemsAsData.md) file. 
+To grasp the mechanisms behind gentrification, we looked at [scholarly theorisations of gentrifcation](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Gentrification/GentrificationTheories.md). We found the Rental Gap Theory (RGT) the most persuasive for how understanding how it impacts tenants' rents. We applied this concept into our app by thinking of how we could best represent this gentrification process and the consequences it has for tenants in the form of data. This was done in our [GentrificationAsData](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Direction/GentrificationAsData.md) file. 
 ## Our Survey 
 (Tenant Talk, 2024)
 <br>
@@ -166,7 +166,7 @@ In order to achieve *Homes to Newcastle*'s aims, we decided on two major critica
 <br>
 
 ## 1. Digital Storytelling 
-- We considered a digital storytelling approach through the lens of academic research, which is presented in our [mermaid mmap](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Digital%20Storytelling/DigitalStorytellingResearch.md).
+- We considered a digital storytelling approach through the lens of academic research, which is presented in our [mermaid map](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Digital%20Storytelling/DigitalStorytellingResearch.md).
 - We found that digital storytelling provided a unique way of aligning with Foucault's 'technologies of the self' (Landby, 2008b), that is, the materialist view that through users' interaction with and consequent self-regulation through digital technologies, modern subjects and groups can become to define themselves and their identities through such technologies (Foucault, 1988). Therefore, through digital storytelling, we can facilitate on our platform a space whereby tenant subjects can somewhat free themselves from their current renting situations or constraints by redefining and subverting their reality on their own terms on our app. Our initial take and readings on identity, community, and vernacular formation is [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/TenantTalkIdentity.md). Our aim was to create a collective tenant identity on our platform which intersects in tandem with our contemporary media-saturated society.
 <br>
 
