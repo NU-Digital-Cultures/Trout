@@ -90,7 +90,7 @@ Given the semantic terminology of the brief implies a necessity to "expose" and 
  The **Tenant Handbook** fundamentally empowers tenants with the knowledge, tools, and feeling of social capital (Bourdieu, 1984)/ power to navigate the renting market and their tenancies by being incredibly informative and advisory of the best approaches to navigating difficult renting situations or troublesome landlords. It empowers students to make well-founded demands for a safe, stable, and good quality housing by acting as a vital and easy to comprehend 'what to do' student digital pocket handbook for renting.
 <br>
  
-3. Our **Tenant Round-Up** 
+3. Our **Tenant Round-Up** (TROY FILL THIS IN)
    <br>
 
 <img width="726" alt="Screenshot 2024-05-08 at 16 19 06" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/7c0165d8-a354-4467-8089-74a89da815d3">
@@ -160,8 +160,6 @@ To grasp the mechanisms behind gentrification, we looked at [scholarly theorisat
 <br>
 
 # 4. Tenant Talk's Framing Devices
-<br>
-
 In order to achieve *Homes to Newcastle*'s aims, we decided on two major critical framing devices that would uniquely shape our project, which are briefly summarised below. These devices would eventually steer the creative direction of our **Tenant Tales** interactive map.
 <br>
 
@@ -202,7 +200,7 @@ All of our key project decisions that we made in relation to these meetings are 
 Over time, we updated this [flow diagram](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Direction/ScopeOfProject.md) to capture the full scope of our project. 
 <br>
 
-Alongisde discussions with eachother and the creation of offline and online ['to-do' lists](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/Updated%20to%20do%20list.md), we more formally documented our individual taks using a Gantt chart as a [project timeline](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/ProjectTimeline.md). 
+Alongside discussions with eachother and the creation of offline and online ['to-do' lists](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/Updated%20to%20do%20list.md), we more formally documented our individual taks using a Gantt chart as a [project timeline](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/ProjectTimeline.md). 
 <br> 
 
 Our individual reflections on/ about our project are [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/IndividualReflections.md). 
@@ -221,8 +219,7 @@ Moreover, having publicly available data for regions
 <br>
 
 ## Technical challenges
-- We found that geospatial data can be rather limited in terms of accuracy of area boundaries, however we felt this was not a point of contention given the similarly broad and loose nature of our app submissions process; submissions just needed to be roughly organised per area for the purposes of clear visual understanding.
-- 
+We found that geospatial data can be rather limited in terms of accuracy of area boundaries, however we felt this was not a point of contention given the similarly broad and loose nature of our app submissions process; submissions just needed to be roughly organised per area for the purposes of clear visual understanding.
 <br>
 
 ## Design challenges
