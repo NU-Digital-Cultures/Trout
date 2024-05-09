@@ -10,6 +10,8 @@
 
 ## This data visualisation highlights differences in increased rental costs based on renting property type
 - https://flo.uri.sh/visualisation/17545301/embed
+- Relatively similar increases in one/ two/ three bed properties
+- Steeper increase in four (or more) properties- **students are more likely to house share** and therefore rent these properties
  <br>
 
  <br>
