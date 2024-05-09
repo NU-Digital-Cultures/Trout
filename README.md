@@ -68,6 +68,8 @@ Tenant Talk has been crafted for Rugg, Ford and Burrows' third characterised stu
 Given the semantic terminology of the brief implies a necessity to "expose" and "reveal", we decided that this agenda lended itself usefully to data advocacy approaches. We therefore, through **Tenant Talk**, aim to make visible both the implications of unethical landlord treatment and economic gentrification on student tenants (see section 4 for more detail), whilst adhering in line with data protection standards (see section 7 for more detail). For our team, such a wide-ranging agenda meant creating a more complex, three-fold approach to our app's components: a **Tenant Tales** interactive map, a **Tenant Handbook**, and a **Tenant Roundup** section. 
 <br>
 
+## This is the opening page of our app:
+
 <img width="249" alt="Screenshot 2024-05-08 at 16 18 34" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/16b47a48-d81b-4311-8e4b-68cb75232ddd">
 <br>
 
@@ -110,36 +112,92 @@ This research led us to the formation of our [problem statement](https://github.
 # 3. Tenant Talk's Framing Devices
 <br>
 
-In order to achieve *Homes to Newcastle*'s aims, we decided on two major critical framing devices that would uniquely shape our project. Following research on these devices, they led us to further 
+In order to achieve *Homes to Newcastle*'s aims, we decided on two major critical framing devices that would uniquely shape our project. All of these devices would eventually steer the creative direction of our **Tenant Tales** interactive map.
 <br>
 
-# Digital Storytelling
+## Digital Storytelling 
 - We considered a digital storytelling approach through the lens of academic research, which is presented in our [mermaid mmap](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Digital%20Storytelling/DigitalStorytellingResearch.md).
-- - We found that digital storytelling provided a unique way of aligning with Foucault's technologies of the self (Landby, 2008b; Foucault, 1988), which is essential to modern-day identity formation. We undertook further key readings on identity formation [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/TenantTalkIdentity.md). However, in summation,
-- We also conducted further research into [non-linear and interactive storytelling](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Digital%20Storytelling/InteractiveNonLinearStorytelling.md). This consisted of storytelling ideas we could take inspiration from which would develop our own digital storytelling approach. Here we also interrogated the potential ethical, political, and social implications of interactive storytelling.
-- Here is our [non-linear storytelling visual](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Digital%20Storytelling/NonLinearStorytellingVisual.md), the theory underpinning our **Tenant Tales** interactive map.
+- We found that digital storytelling provided a unique way of aligning with Foucault's 'technologies of the self' (Landby, 2008b; Foucault, 1988), which is essential to modern-day identity formation. Our key readings on identity formation are [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/TenantTalkIdentity.md).
+<br>
+➕
 
+## Non-Linear & Interactive Digital Storytelling 
+- We also conducted further research into [non-linear and interactive storytelling](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Digital%20Storytelling/InteractiveNonLinearStorytelling.md). This consisted of researching storytelling approaches that we could take inspiration, from which would develop our own digital storytelling approach. Here we also interrogated the potential ethical, political, and social implications of interactive storytelling.
+- Here is our [non-linear storytelling visual](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Digital%20Storytelling/NonLinearStorytellingVisual.md), the non-linear torytelling theory that we used to underpin our **Tenant Tales** interactive map.
+<br>
 
-# Zine Culture
-- 
+➕
+
+## Zine Culture
+
+<br>
+
+🟰
+
+## Pulling these framing devices together and as relational to student renting/ housing conversations
+- We considered Foucault's 'technologies of the self' in a broader continuum,
+<br>
+
 
 # 4. Critical Reflection on the Context of Our Project
+Tenant Talk is situated within contextual critical theories and concepts to do with student renting.
+<br>
+
+We undertook research on student renting, landlords in Newcastle, Gentrification in Newcastle, and scholarship that theorised gentrification so that we could best get to grips with our project's context. 
+
+<br>
+
+
 -application of and developed an understanding of critical theories and concepts
 <br>
 
 We first undertook research on 
 
-## Our Survey 
-(Tenant Talk, 2024)
-- survey
+
+
+
+## Student Renting and the Student Housing Crisis
 - student grassroot campaigns
-## The Student Housing Crisis
+<br>
+
 Student maintenance loans are falling short of their function to support student living, with the loan being "almost entirely wiped out by rent alone" (Weale, 2023).
 <br>
 
+## Gentrification
+Below are some data visualisations we created in order to understand gentrification in the North East region specificaly
+### This data visualisation showcases a complex view of rental price increases over time, in relation to monthly and annual price change rates**
+ - https://flo.uri.sh/visualisation/17544774/embed
+ - General upward trend with regular peaks and troughs. However, there was more of a rapid rent increase trend from April 2022, reaching a peak in January 2023 (which is the most currrently available data)
+ - This showcases the severity of rent increases in the North East for tenants
+ - Again, highest annual change rate in rent increase in 2023 
+<br>
+
+### This data visualisation highlights differences in increased rental costs based on renting property type**
+- https://flo.uri.sh/visualisation/17545301/embed
+- Relatively similar increases in one/ two/ three bed properties
+- Steeper increase in four (or more) properties- **students are more likely to house share** and therefore rent these properties
+ <br>
+
+> All of this data is sourced from ONS: https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/priceindexofprivaterentsukmonthlypricestatistics 
+<br>
+
+> The csv files were filtered to show specific data types and data for the **North East** region only.
+<br>
+
+### What is Gentrification?
+To grasp the mechanisms behind gentrification, we looked at [scholarly theorisations of gentrifcation](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Gentrification/GentrificationTheories.md). We found the Rental Gap Theory (RGT) the most persuasive for how understanding how it impacts tenants' rents. We applied this concept into our app by thinking of how we could best represent this gentrification process and the consequences it has for tenants in the form of data. This was done in our [GentrificationAsData.md](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Direction/TheProblemsAsData.md) file. 
+## Our Survey 
+(Tenant Talk, 2024)
+<br>
+
+
+
 # 5. Project Design Process and Reflections
 <br>
-Initial ideas that we had for our project were rather distant to the final prototype. Our first ideas centred around a complaints management system
+Initial ideas that we had for our project were rather distant to the final prototype. Our first ideas centred around a creating a sort of informal 'complaints management' system. 
+<br>
+
+Over time, we updated this flow diagram
 - talk about how we felt digital storytelling needed to become more abstract, including audio and visual artworks/ zines
 - why the Tenant Handbook is so visual and cartoon-like- because normally heavy information dumps. Also what this digital framework allows us to do given it is digital
 
