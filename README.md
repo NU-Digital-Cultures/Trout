@@ -13,10 +13,10 @@
 **Section 2.** Existing Projects
 <br>
 
-**Section 3.** Tenant Talk's Framing Devices 
+**Section 3.** Critical Reflection on the Context of Our Project
 <br>
 
-**Section 4.** Critical Reflection on the Context of Our Project
+**Section 4.** Tenant Talk's Framing Devices 
 <br>
 
 **Section 5.** Project Design Process and Reflections
@@ -108,38 +108,7 @@ One of the first steps in our project process was outlining what projects alread
 This research led us to the formation of our [problem statement](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Direction/OurProblemStatement.md). However, by this point, we had also considered various framing devices that we wanted to adopt (see section 3).
 <br>
 
-
-# 3. Tenant Talk's Framing Devices
-<br>
-
-In order to achieve *Homes to Newcastle*'s aims, we decided on two major critical framing devices that would uniquely shape our project. All of these devices would eventually steer the creative direction of our **Tenant Tales** interactive map.
-<br>
-
-## Digital Storytelling 
-- We considered a digital storytelling approach through the lens of academic research, which is presented in our [mermaid mmap](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Digital%20Storytelling/DigitalStorytellingResearch.md).
-- We found that digital storytelling provided a unique way of aligning with Foucault's 'technologies of the self' (Landby, 2008b; Foucault, 1988), which is essential to modern-day identity formation. Our key readings on identity formation are [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/TenantTalkIdentity.md).
-<br>
-➕
-
-## Non-Linear & Interactive Digital Storytelling 
-- We also conducted further research into [non-linear and interactive storytelling](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Digital%20Storytelling/InteractiveNonLinearStorytelling.md). This consisted of researching storytelling approaches that we could take inspiration, from which would develop our own digital storytelling approach. Here we also interrogated the potential ethical, political, and social implications of interactive storytelling.
-- Here is our [non-linear storytelling visual](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Digital%20Storytelling/NonLinearStorytellingVisual.md), the non-linear torytelling theory that we used to underpin our **Tenant Tales** interactive map.
-<br>
-
-➕
-
-## Zine Culture
-
-<br>
-
-🟰
-
-## Pulling these framing devices together and as relational to student renting/ housing conversations
-- We considered Foucault's 'technologies of the self' in a broader continuum,
-<br>
-
-
-# 4. Critical Reflection on the Context of Our Project
+# 3. Critical Reflection on the Context of Our Project
 Tenant Talk is situated within contextual critical theories and concepts to do with student renting.
 <br>
 
@@ -190,24 +159,82 @@ To grasp the mechanisms behind gentrification, we looked at [scholarly theorisat
 (Tenant Talk, 2024)
 <br>
 
+# 4. Tenant Talk's Framing Devices
+<br>
 
+In order to achieve *Homes to Newcastle*'s aims, we decided on two major critical framing devices that would uniquely shape our project, which are briefly summarised below. These devices would eventually steer the creative direction of our **Tenant Tales** interactive map.
+<br>
+
+## 1. Digital Storytelling 
+- We considered a digital storytelling approach through the lens of academic research, which is presented in our [mermaid mmap](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Digital%20Storytelling/DigitalStorytellingResearch.md).
+- We found that digital storytelling provided a unique way of aligning with Foucault's 'technologies of the self' (Landby, 2008b), that is, the materialist view that through users' interaction with and consequent self-regulation through digital technologies, modern subjects and groups can become to define themselves and their identities through such technologies (Foucault, 1988). Therefore, through digital storytelling, we can facilitate on our platform a space whereby tenant subjects can somewhat free themselves from their current renting situations or constraints by redefining and subverting their reality on their own terms on our app. Our initial take and readings on identity, community, and vernacular formation is [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/TenantTalkIdentity.md). Our aim was to create a collective tenant identity on our platform which intersects in tandem with our contemporary media-saturated society.
+<br>
+
+## 1. (Non-Linear & Interactive) Digital Storytelling 
+- We also conducted further research into [non-linear and interactive storytelling](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Digital%20Storytelling/InteractiveNonLinearStorytelling.md). This consisted of researching storytelling approaches that we could take inspiration, from which would develop our own digital storytelling approach. Here we also interrogated the potential ethical, political, and social implications of interactive storytelling.
+- Here is our [non-linear storytelling visual](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Digital%20Storytelling/NonLinearStorytellingVisual.md), the non-linear torytelling theory that we used to underpin our **Tenant Tales** interactive map.
+<br>
+
+➕
+
+## 2. Zine Culture
+- 
+
+<br>
+
+🟰
+
+## Pulling these framing devices together and as relational to student renting/ housing conversations :warning:
+- We also applied Foucault's 'technologies of the self' more broadly 
+- How where a student lives shapes their life/ identity and our tool gives students a way to change the power dynamics at play there
+- And how the information asymmetry of landlords-tenants is not just about finding the best price for accomodation, but a deeper set of relationships that the combination of our three approaches can change
+- What is special about the case of student tenants- landlord structures and how our tool works in that context
+<br>
 
 # 5. Project Design Process and Reflections
 <br>
-Initial ideas that we had for our project were rather distant to the final prototype. Our first ideas centred around a creating a sort of informal 'complaints management' system. 
+Initial ideas that we had for our project were rather distant to the final prototype. Our first ideas centred around a creating a sort of informal 'complaints management' system. Our ideas are discussed throughout our group [meeting log](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/MeetingLog.md) and all our key project decisions that we made in relation to these meetings are documented [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/KeyProjectDecisions.md).
 <br>
 
-Over time, we updated this flow diagram
+Over time, we updated this [flow diagram](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Direction/ScopeOfProject.md) to capture the full scope of our project. 
+<br>
+
+Alongisde discussions with eachother and the creation of offline and online ['to-do' lists](https://github.com/NU-Digital-Cultures/Trout/tree/tenant-talk/Project%20Management#:~:text=last%20week-,Updated%20to%20do%20list.md,-Update%20Updated%20to), we more formally documented our individual taks using a Gantt chart as a [project timeline](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/ProjectTimeline.md). 
+<br> 
+
+Our individual reflections on/ about our project are [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/IndividualReflections.md). 
 - talk about how we felt digital storytelling needed to become more abstract, including audio and visual artworks/ zines
 - why the Tenant Handbook is so visual and cartoon-like- because normally heavy information dumps. Also what this digital framework allows us to do given it is digital
 
+SOI: Why the map is organised via electoral ward boundaries? How does this meaningfully organise space according to our projects objectives?
+
 # 6. Challenges we Faced and how we attempted to Overcome them
-- ethical challenges
-- technical challenges
-- design challenges
-  <br>
+## Ethical challenges
+We faced difficulties in terms of balancing privacy concerns with the import of having tenant submissions spatially located. We felt that the anonymity of the submissions, although sorted according to area, could constrain the overall utility of our map. However, we realised there would ultimately still be advantages to this approach as it nevertheless permits *Homes to Newcastle* access to nuanced, in-depth, and broad qualitative data that they would not otherwise would not have.
+<br>
+
+Moreover, having publicly available data for regions
+<br>
+
+## Technical challenges
+- We found that geospatial data can be rather limited in terms of accuracy of area boundaries, however we felt this was not a point of contention given the similarly broad and loose nature of our app submissions process; submissions just needed to be roughly organised per area for the purposes of clear visual understanding.
+- 
+<br>
+
+## Design challenges
+<br>
 
 # 7. Reflection on the hypothetical 'real-life' implication of TenantTalk
+<br>
+
+## Data Protection
+
+<br>
+
+## Sustainablity of Our Platform
+- If Tenant Talk were to be a long-term application for an under-resourced organisation, there would be limits on having real people validate data (time, logistics?)
+- Allows close inspection of qualitative entries is a meaninful use of their time rather than engaging in door-to-door talking to students.
+
 <br>
 
 # 8. Our Digital Approach
