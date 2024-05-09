@@ -134,14 +134,14 @@ Student maintenance loans are falling short of their function to support student
 
 ## Gentrification
 Below are some data visualisations we created in order to understand gentrification in the North East region specificaly
-### This data visualisation showcases a complex view of rental price increases over time, in relation to monthly and annual price change rates**
+### This data visualisation showcases a complex view of rental price increases over time, in relation to monthly and annual price change rates
  - https://flo.uri.sh/visualisation/17544774/embed
  - General upward trend with regular peaks and troughs. However, there was more of a rapid rent increase trend from April 2022, reaching a peak in January 2023 (which is the most currrently available data)
  - This showcases the severity of rent increases in the North East for tenants
  - Again, highest annual change rate in rent increase in 2023 
 <br>
 
-### This data visualisation highlights differences in increased rental costs based on renting property type**
+### This data visualisation highlights differences in increased rental costs based on renting property type
 - https://flo.uri.sh/visualisation/17545301/embed
 - Relatively similar increases in one/ two/ three bed properties
 - Steeper increase in four (or more) properties- **students are more likely to house share** and therefore rent these properties
@@ -171,7 +171,7 @@ In order to achieve *Homes to Newcastle*'s aims, we decided on two major critica
 <br>
 
 ## 1. (Non-Linear & Interactive) Digital Storytelling 
-- We also conducted further research into [non-linear and interactive storytelling](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Digital%20Storytelling/InteractiveNonLinearStorytelling.md). This consisted of researching storytelling approaches that we could take inspiration, from which would develop our own digital storytelling approach. Here we also interrogated the potential ethical, political, and social implications of interactive storytelling.
+- We also conducted further research into [non-linear and interactive storytelling](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Digital%20Storytelling/InteractiveNonLinearStorytelling.md). This consisted of researching storytelling approaches that we could take inspiration from, from which would develop our own digital storytelling approach. Here we also interrogated the potential ethical, political, and social implications of interactive storytelling.
 - Here is our [non-linear storytelling visual](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Digital%20Storytelling/NonLinearStorytellingVisual.md), the non-linear torytelling theory that we used to underpin our **Tenant Tales** interactive map.
 <br>
 
@@ -193,18 +193,22 @@ In order to achieve *Homes to Newcastle*'s aims, we decided on two major critica
 
 # 5. Project Design Process and Reflections
 <br>
-Initial ideas that we had for our project were rather distant to the final prototype. Our first ideas centred around a creating a sort of informal 'complaints management' system. Our ideas are discussed throughout our group [meeting log](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/MeetingLog.md) and all our key project decisions that we made in relation to these meetings are documented [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/KeyProjectDecisions.md).
+Initial ideas that we had for our project were rather distant to the final prototype. Our first ideas centred around a creating a sort of informal 'complaints management' system. Our ideas are discussed throughout our group [meeting log](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/MeetingLog.md).
+<br>
+
+All of our key project decisions that we made in relation to these meetings are documented [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/KeyProjectDecisions.md).
 <br>
 
 Over time, we updated this [flow diagram](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Direction/ScopeOfProject.md) to capture the full scope of our project. 
 <br>
 
-Alongisde discussions with eachother and the creation of offline and online ['to-do' lists](https://github.com/NU-Digital-Cultures/Trout/tree/tenant-talk/Project%20Management#:~:text=last%20week-,Updated%20to%20do%20list.md,-Update%20Updated%20to), we more formally documented our individual taks using a Gantt chart as a [project timeline](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/ProjectTimeline.md). 
+Alongisde discussions with eachother and the creation of offline and online ['to-do' lists](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/Updated%20to%20do%20list.md), we more formally documented our individual taks using a Gantt chart as a [project timeline](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/ProjectTimeline.md). 
 <br> 
 
 Our individual reflections on/ about our project are [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/IndividualReflections.md). 
 - talk about how we felt digital storytelling needed to become more abstract, including audio and visual artworks/ zines
 - why the Tenant Handbook is so visual and cartoon-like- because normally heavy information dumps. Also what this digital framework allows us to do given it is digital
+<br>
 
 SOI: Why the map is organised via electoral ward boundaries? How does this meaningfully organise space according to our projects objectives?
 
