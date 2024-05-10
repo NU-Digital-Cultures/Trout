@@ -551,6 +551,12 @@ Medium (2018) *Student Gentrification*. Available at: https://medium.com/@3point
 McKinlay, A. and Starkey, K. P. (1997) *Foucault, management and organization theory from panopticon to technologies of the self*. London: Sage Publications.
 <br>
 
+Malone, M. (2023) 'Existential housing crisis at UK universities leaves students struggling, says NUS', *Sky News*, 23 December. Available at: https://news.sky.com/story/existential-housing-crisis-at-uk-universities-leaving-students-struggling-13035841 (Accessed: 22 April 2024).
+<br>
+
+National Union of Students (2024) *Housing Policy*. Available at: https://www.nus.org.uk/housing#:~:text=Many%20students%20find%20themselves%20in,prioritise%20employment%20over%20their%20degrees. (Accessed: 22 April 2024).
+<br>
+
 Newcastle City Council (2024) *Private Rented Service Newcastle*. Available at: https://www.newcastle.gov.uk/private-rented-service-newcastle (Accessed: 1 April 2024).
 <br>
 
