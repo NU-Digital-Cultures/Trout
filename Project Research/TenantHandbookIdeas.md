@@ -1,5 +1,5 @@
 # Our 'Tenant Handbook' section of our app
-## This file looks at existing services that have a similar agenda to our 'handbook'/ tenant guide idea, evaluates them, and forms ideas for our own handbook based off these evaluations
+## This file looks at existing services that have a similar agenda to our 'handbook'/ tenant guide idea, evaluates them, and we will form ideas for our own handbook based off these evaluations
 Based on the stories we received from survey participants, a 'handbook' feature would be useful in empowering tenants (which is HtN's aim) with the knowledge and tools to demand safe, secure, well-kept, and professionally managed homes to live in
 <br>
 
@@ -16,7 +16,7 @@ Based on the stories we received from survey participants, a 'handbook' feature 
 <br>
 
 ### Privat Renting Service Newcastle (2024b) *Tenants*. Available at: https://www.privaterentedservice.co.uk/tenants/ (Accessed: 28 April 2024).
-his is the Newcastle Private Renting Service’s sort of ‘tenant page’
+This is the Newcastle Private Renting Service’s sort of ‘tenant page’
 -	Support services section offers budgeting and money help (via the Money Helper advice service); tenants advice service (free, professional advice with issues regarding tenancy agreements, help to pay rent, managing the tenancy, looking after the property, resolving disputes, rent arrears and evictions, via calling 0191 2771438 or emailing privaterentedservice@newcastle.gov.uk; home finder service (showing accredited properties to let); rent deposit scheme (pay no cash deposits on behalf of the tenant if they qualify for the scheme), tenants FAQs (answering common questions related to what their service offers
 - Tenants can apply to Newcastle City Council’s ‘Rent Deposit Scheme’ if cannot afford the security deposit: Rent Deposit Scheme web page  or email privaterentedservice@newcastle.gov.uk
 - Provide an ‘advice service’- advice provided and can work with tenant and talk to their landlord on their behalf
@@ -68,16 +68,3 @@ his is the Newcastle Private Renting Service’s sort of ‘tenant page’
 
 ### Cromarty, H. (2024) *Renters' Reform Bill* (House of Commons Library briefing paper 10004). Available at: https://researchbriefings.files.parliament.uk/documents/CBP-10004/CBP-10004.pdf
 - Outlines the progress made to the Renters' Reform Bill
-<br>
-
-## Based on this research, our app 'handbook' could look and function like this:
-<br>
-
-<img width="1141" alt="Screenshot 2024-04-28 at 14 30 06" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/ca0376f2-ea68-4fd0-90a5-dfb22b930cc9">
-<br>
-<img width="1143" alt="Screenshot 2024-04-28 at 14 30 48" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/65e05a3f-b8d1-406d-9719-d3dcf730d506">
-
-- This idea has been agreed on as a group
-- When users click onto different visual aspects/ objects of the house, a pop up will appear informing them of their tenant responsibilities and rights related to that object
-- We decided that this overcomes the difficulty that government websites implement, whereby they have loads of sections with information which feels like an overwhelming 'information dump'
-- This is a way of achieving the empowerment of tenants with the tools and knowledge of navigating their renting process that is basic and more effective
