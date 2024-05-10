@@ -405,11 +405,9 @@ The textual content of the Handbook can be found [here](https://github.com/NU-Di
 <br>
 
 ### First iteration: the Tenant Round-Up (Troy and Ethan)
-TROY TO FILL THIS IN
-<br>
+As the **Tenant Round-up** was the final part of the app to be designed, many of the previously mentioned challenges in terms of design were already identified and addressed. This facilitated a swift development of the User Interface (UI), particularly in relation to the colour scheme and the placement of buttons, necessitating only a single interaction.
+Gordon & Gibbons (2022) stated that “A design will look unprofessional and lack polish when visual elements are used inconsistently or sporadically.” In alignment with their observations, the UI of the “Tenant Round-up” adhered to the same thematic consistency as the rest of the application. This ensured a uniform and professional appearance throughout the application.
 
-### Second iteration: the Tenant Round-Up (Troy and Ethan)
-TROY TO FILL THIS IN
 <br>
 
 ### Final iteration of all 3 app components (https://www.figma.com/file/UmZ6oeoMOkU6QbWeR6pZTP/Tenant-Talk-(Ver.2)?type=design&mode=design&t=Sz3zlXzsMFR6kjmj-1) (Soi)
