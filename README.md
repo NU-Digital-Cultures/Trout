@@ -220,6 +220,8 @@ Moreover, having publicly available data for regions
 
 ## Technical challenges
 We found that geospatial data can be rather limited in terms of accuracy of area boundaries, however we felt this was not a point of contention given the similarly broad and loose nature of our app submissions process; submissions just needed to be roughly organised per area for the purposes of clear visual understanding.
+
+Furthermore, the submission process requires a server to receive and manage the data within the app which is hard to achieve and replicate with the knowledge in coding we have right now. Realistically this would be done through a combination of javascript and php, and hosted on a website which mobile users can either visit via their search engine so updates can be done easily. However, at this current stage the best option without developing a php page will be to manually collect survey data with word of mouth and manual update.
 <br>
 
 ## Design challenges
