@@ -124,16 +124,28 @@ This debate in this website is based on a <b>rent dispute</b> between students a
 - Cheapest rent in the UK is Newcastle however this does not prevent landlords not solving maintenance issues
 <br>
 
-### Weale, S. (2023) 'University Students in England 'have 50p a week to live on after rent', *The Guardian*, 26 October. Available at: https://www.theguardian.com/money/2023/oct/26/university-students-england-50p-a-week-after-rent (Accessed: 6 May 2024).
+### Weale, S. (2023) 'University Students in England 'have 50p a week to live on after rent', *The Guardian*, 26 October. Available at: https://www.theguardian.com/money/2023/oct/26/university-students-england-50p-a-week-after-rent (Accessed: 22 April 2024).
 - Student maintenance loans are falling short of their function to support student living, with the loan being "almost entirely wiped out by rent alone"
 <br>
 
+### National Union of Students (2024) *Housing Policy*. Available at: https://www.nus.org.uk/housing#:~:text=Many%20students%20find%20themselves%20in,prioritise%20employment%20over%20their%20degrees. (Accessed: 22 April 2024).
+- The housing crisis for students= the struggle to find accomodation that is both affordable and safe (and also suited to the tenant's needs)
+- "Many students find themselves in accommodation that is overcrowded, unsafe and unsanitary. Especially with the Cost of Living Crisis, rents are rising rapidly to unsustainable levels, and more students are having to work and prioritise employment over their degrees."
+- This site advices that "Students should have access to information and advice on common housing issues like contracts (including rent rises), basic accommodation standards, and evictions. Students need to know their rights and be empowered to enforce them when they are breached by landlords. The information and advice must be written in a way that is clear and simple for everyone. Translations would also be preferable for those who may not have English as their first language."
+- This is **exactly** our approach :warning:
+
+### Malone, M. (2023) 'Existential housing crisis at UK universities leaves students struggling, says NUS', *Sky News*, 23 December. Available at: https://news.sky.com/story/existential-housing-crisis-at-uk-universities-leaving-students-struggling-13035841 (Accessed: 22 April 2024).
+- "while the student population has risen by 400,000 since 2019, the number of available student houses has dropped by 19,000 in the same period."
+-  A student "ended up spending much of it living on campus rather than in a student house because she said it was more affordable"
+-  The student is quoted: "I was looking for a house, but everything seemed quite out of my budget."
+-  However some students are unable to live on campus as accomoodation spaces are full
+
 ## ↪️ From this debates research, these are the key problems students face when renting: 
 ⚠️⚠️⚠️
-- The renting market: high rents in student accomodation/ halls of resdience and private properties. This becomes a form of extortion in the sense that renting prices increase without student renters' financial means increasing simultaneously.
-- Students are left living in poor quality but costly halls of residence/ properties as a result
+- The renting market: high rents in private properties. This becomes a form of extortion in the sense that renting prices increase without student renters' financial means increasing simultaneously. Forces students to live in student accomodation or really far out from city centre areas (where they should be able to live) and then, oftentimes, student accomodation spaces are **full**
+- Some students are left living in poor quality but costly privately rented properties as a result
 - Lack of affordable properties as the market is currently bolsters short-term tenancy approaches with high rents
-- Landlords placing there own interests above student welfare
+- Landlords consistently placing there own interests above student welfare
 <br>
 
 ## Private Renting Sector UK Reforms
