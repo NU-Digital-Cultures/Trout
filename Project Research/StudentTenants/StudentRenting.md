@@ -118,7 +118,8 @@ This debate in this website is based on a <b>rent dispute</b> between students a
 
 <br>
 
-## ↪️ From this debates research, these are the key problems students face when renting: ⚠️
+## ↪️ From this debates research, these are the key problems students face when renting: 
+⚠️⚠️⚠️
 - The renting market: high rents in student accomodation/ halls of resdience and private properties. This becomes a form of extortion in the sense that renting prices increase without student renters' financial means increasing simultaneously.
 - Students are left living in poor quality but costly halls of residence/ properties as a result
 - Lack of affordable properties as the market is currently bolsters short-term tenancy approaches with high rents
