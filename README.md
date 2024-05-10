@@ -171,7 +171,7 @@ Moreover, we created some data visualisations in order to understand the data na
 ## Student Renting
 
 ## Our Research Method: Our Survey (Tenant Talk, 2024)
-Information regarding the process our survey,  (2024) can be found [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Research%20Methods/Survey.md).
+Information regarding the process our survey (2024) can be found [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Research%20Methods/Survey.md).
 <br>
 
 The results of our survey were used to inform the production of our app, in that the responses we received were:
@@ -568,13 +568,25 @@ Private Renting Service Newcastle (2024a) *Home - Private Renting Service*. Avai
 Private Renting Service Newcastle (2024b) *Tenants*. Available at: https://www.privaterentedservice.co.uk/tenants/ (Accessed: 28 April 2024).
 <br>
 
+Private Rented Service Newcastle (2024) *Tenant's Responsibilities*. Available at: https://www.privaterentedservice.co.uk/tenants/tenants-library/tenants-handbook/tenants-responsibilities/ (Accessed: 29 April 2024).
+<br>
+
 Rugg, J., Ford, J. and Burrows, R. (2006) 'Housing advantage? The role of student renting in the consitution of housing biographies in the United Kingdom', *Journal of Youth Studies*, 7(1), pp. 19-34. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1080/1367626042000209930
 <br>
 
 Shelter (2024) *Half of working renters only one paycheck away from losing their home*. Available at: https://england.shelter.org.uk/media/press_release/half_of_working_renters_only_one_pay_cheque_away_from_losing_their_home_#:~:text=22%20Aug%202023-,Half%20of%20working%20renters%20only%20one%20pay%20cheque%20away%20from,new%20research%20by%20Shelter%20reveals. (Accessed: 6 May 2024).
 <br>
 
+Shelter (2024) *Electrical safety in rented homes*. Available at: https://england.shelter.org.uk/housing_advice/repairs/electrical_safety_in_rented_homes (Accessed: 23 May 2024).
+<br>
+
+Shelter (2024) *How long should a private landlord take to do repairs?*. Available at: https://england.shelter.org.uk/housing_advice/repairs/how_long_should_a_private_landlord_take_to_do_repairs#:~:text=Your%20landlord%20should%20do%20repairs,living%20in%20the%20property%20are (Accessed: 23 May 2024).
+<br>
+
 Shelter (2024) *Private renting*. Availablw at: https://england.shelter.org.uk/housing_advice/private_renting (Accessed: 28 April 2024).
+<br>
+
+Shelter (2024) *Statutory rules for rent increases for assured tenanants*. Available at: https://england.shelter.org.uk/professional_resources/legal/costs_of_renting/rents_and_rent_increases/statutory_rules_for_rent_increases_for_assured_tenants (Accessed: 23 May 2024).
 <br>
 
 Smed, J., Suovuo, T., Skult, N. and Skult, P. (2021) *Handbook on Interactive Storytelling*. West Sussex: Wiley.
@@ -586,10 +598,19 @@ Smith, N. (1979) 'Toward a Theory of Gentrifcation: A Back to the City Movement 
 Socialist Worker (2023) 'Renters are the real victims of housing crisis- not landlords', 27 August. Available at: https://socialistworker.co.uk/background-check/renters-are-the-real-victims-of-housing-crisis-not-landlords/ (Accessed: 6 May 2024).
 <br>
 
+Shelter (2024) *Rent increases for private tenants*. Available at: https://england.shelter.org.uk/housing_advice/private_renting/rent_increases (Accessed: 23 May 2024).
+<br>
+
+Students' Union Ucl (2022) *Student guide to tenant fees*. Available at: https://studentsunionucl.org/articles/student-guide-to-tenant-fees (Accessed: 23 May 2024).
+<br>
+
 UK Parliament (2024) *Reforming the Private Renting Sector Government’s response to the Committee’s Fifth Report of Session 2022-23*. Available at: https://publications.parliament.uk/pa/cm5803/cmselect/cmcomloc/1935/report.html (Accessed: 28 April 2024).
 <br>
 
 Weale, S. (2023) 'University Students in England 'have 50p a week to live on after rent', *The Guardian*, 26 October. Available at: https://www.theguardian.com/money/2023/oct/26/university-students-england-50p-a-week-after-rent (Accessed: 6 May 2024).
+<br>
+
+Williams, H. (2023) '10 tenancy rights every student should know', *Save the Student*, 14 November. Available at: https://www.savethestudent.org/accommodation/what-are-your-rights-as-a-tenant.html (Accessed: 20 May 2024).
 <br>
 
 Wilson, A. and Tewdwr-Jones, M. (2020) 'Lets draw and talk about urban change: Deploying digital technology to encourage citizen participation in urban planning', *Environment and Planning B: Urban Analytics and City Science*, 47(9), pp. 1588-1604. Availabe at: https://doi.org/10.1177/2399808319831290 
