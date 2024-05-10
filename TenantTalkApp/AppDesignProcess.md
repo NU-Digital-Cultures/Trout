@@ -27,7 +27,4 @@ Our goal with the tenant handbook was to make a handbook about tenancy rights an
 ![](https://github.com/soichiro331/soichiro331/blob/main/untitled%20folder%202/Screenshot%202024-05-09%20at%2019.50.23.png)
 
 For this iteration, I made some small tweaks in the design of the app / zine to professionalize the looks. Such as adding gradients to the background. and icons to the menu buttons for easier understanding. I've also added a more final representation of what the map would look like, with poems, and artworks that groups together as a collage which users can scroll. This was then merged with the Tenant Handbook and Tenant Roundup and connected via the prototype feature to replicate the full function of the app / zine conceptually. 
-<br>
-# Technical Implications:
-The submission process requires a server to receive and manage the data within the app which is hard to achieve and replicate with the knowledge in coding I have in coding right now. Realistically this would be done through a combination of javascript and php, and hosted on a website which mobile users can either visit via their search engine so updates can be done easily. However, at this current stage the best option without developing a php page will be to manually collect survey data with word of mouth and manual update.
 
