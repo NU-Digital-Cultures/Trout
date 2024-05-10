@@ -406,7 +406,9 @@ The textual content of the Handbook can be found [here](https://github.com/NU-Di
 
 ### First iteration: the Tenant Round-Up (Troy and Ethan)
 As the **Tenant Round-up** was the final part of the app to be designed, many of the previously mentioned challenges in terms of design were already identified and addressed. This facilitated a swift development of the User Interface (UI), particularly in relation to the colour scheme and the placement of buttons, necessitating only a single interaction.
-Gordon & Gibbons (2022) stated that “A design will look unprofessional and lack polish when visual elements are used inconsistently or sporadically.” In alignment with their observations, the UI of the “Tenant Round-up” adhered to the same thematic consistency as the rest of the application. This ensured a uniform and professional appearance throughout the application.
+Gordon & Gibbons (2022) stated that “A design will look unprofessional and lack polish when visual elements are used inconsistently or sporadically.” In alignment with their observations, the UI of the **Tenant Round-up** adhered to the same thematic consistency as the rest of the application. This ensured a uniform and professional appearance throughout the application.
+
+![Tenant Round up](https://github.com/NU-Digital-Cultures/Trout/assets/158190282/a15bb60a-4a80-441b-87e4-839b426de8d5)
 
 <br>
 
@@ -530,6 +532,9 @@ Dush, L. (2012) ‘The ethical complexities of sponsored digital storytelling’
 <br>
 
 Foucault, M (1988) 'Technologies of the self', in L. H. Martin, H. Gutman and P. Huton (eds), *Technologies of the Self: A Seminar with Michael Foucault.* London: Tavistock, pp. 16-49.
+<br>
+
+Gordon, K. and Gibbons, S. (2022) Why does a design look good?, Nielsen Norman Group. Available at: https://www.nngroup.com/articles/why-does-design-look-good/ (Accessed: 10 May 2024). 
 <br>
 
 Heins, C. (2022) 'Generation Zine: Why the Revival of Zine Culture Is Crucial Today', *New University*, 8 January. Available at: https://newuniversity.org/2022/01/08/generation-zine-why-the-revival-of-zine-culture-is-crucial-today/ (Accessed 18 March 2024).
