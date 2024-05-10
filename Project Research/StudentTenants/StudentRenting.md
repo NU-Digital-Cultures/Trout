@@ -124,6 +124,10 @@ This debate in this website is based on a <b>rent dispute</b> between students a
 - Cheapest rent in the UK is Newcastle however this does not prevent landlords not solving maintenance issues
 <br>
 
+### Weale, S. (2023) 'University Students in England 'have 50p a week to live on after rent', *The Guardian*, 26 October. Available at: https://www.theguardian.com/money/2023/oct/26/university-students-england-50p-a-week-after-rent (Accessed: 6 May 2024).
+- Student maintenance loans are falling short of their function to support student living, with the loan being "almost entirely wiped out by rent alone"
+<br>
+
 ## ↪️ From this debates research, these are the key problems students face when renting: 
 ⚠️⚠️⚠️
 - The renting market: high rents in student accomodation/ halls of resdience and private properties. This becomes a form of extortion in the sense that renting prices increase without student renters' financial means increasing simultaneously.
