@@ -189,8 +189,8 @@ In order to achieve *Homes to Newcastle*'s aims, we decided on two major critica
 
 🟰
 
-## Pulling these framing devices together and as relational to student renting/ housing conversations :warning:
-- We also applied Foucault's 'technologies of the self' more broadly 
+## Pulling these framing devices together and considering them relational to student renting/ housing conversations :warning:
+- Applying Foucault's 'technologies of the self' more broadly,
 - How where a student lives shapes their life/ identity and our tool gives students a way to change the power dynamics at play there
 - And how the information asymmetry of landlords-tenants is not just about finding the best price for accomodation, but a deeper set of relationships that the combination of our three approaches can change
 - What is special about the case of student tenants- landlord structures and how our tool works in that context
