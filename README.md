@@ -114,7 +114,7 @@ Tenant Talk is situated within contextual critical theories and concepts to do w
 
 ## Gentrification
 ### What is Gentrification?
-To grasp the mechanisms behind gentrification, we looked at [scholarly theorisations of gentrifcation](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Gentrification/GentrificationTheories.md). We found the Rental Gap Theory (RGT) the most persuasive for how understanding how it impacts tenants' rents. We applied this concept into our app by thinking of how we could best represent this gentrification process and the consequences it has for tenants in the form of data. This was done in our [GentrificationAsData](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Direction/GentrificationAsData.md) file. 
+To grasp the mechanisms behind gentrification, we looked at [scholarly theorisations of gentrification](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Gentrification/GentrificationTheories.md). We found the Rental Gap Theory (RGT) the most persuasive for how understanding how it impacts tenants' rents. We applied this concept into our app by thinking of how we could best represent this gentrification process and the consequences it has for tenants in the form of data. This was done in our [GentrificationAsData](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Direction/GentrificationAsData.md) file. 
 <br>
 
 ### Gentrification in Newcastle
@@ -280,18 +280,9 @@ Subsequent linking pages from the opening page:
 (^ also, this is technically a **first iteration** of the Tenant Handbook and where the idea was first born)
 <br>
 
-- We preferred this design over the first iteration, however it still
-- Moreover, another problem we found was that the four options on the app opening page were similar in function. 
-
-
-The map now includes points-based data on top of area data
-Geospatial data- the marker points not being in the right place which is why we used electoral ward boundaries
-Why the map is organised via electoral ward boundaries? How does this meaningfully organise space according to our projects objectives?
-
-
-- non commercial agenda
-- This was us still figuring out what the options will be
-- Reduced to 3
+- We preferred this design over the first iteration, however it still felt quite visually heavy and acted in line with commercial and conventional app aesthetics. Considering we are aiming for a 'digital zine' format, we thought we should reconsider the idea of having a clear/ standard menu system
+- Another problem we found was that the four options on the app opening page were overlapping in function and we felt that the potential content of these sections would be descriptive and dull, which is exactly what we are trying to avoid. We decided narrow the options down to three in the next prototype: 'Tenant Tales', Tenant Handbook', and 'Tenant Roundup.'
+- These will instead be presented incorporated into a 'magazine-like' front cover, with the idea that we are subverting the purpose of a magazine for a non-conventional target audience and community-based cause. The buttons leading to the three app sections should not look like conventional buttons and the images on the opening page should convey in some form the tenant renting market
 <br>
 
 ### Third (and final) iteration: the Tenant Talk opening app page (Soi and Blythe)
@@ -305,6 +296,9 @@ The final iteraction is based on the following mood board:
 
 <img width="512" alt="Screenshot 2024-05-10 at 15 41 57" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/b17f16e7-a262-4791-92ce-873f7e379655">
 <br>
+
+We felt that this version had finally captured our app aims and vision. 
+<br> 
 
 ### Second iteration: the Tenant Tales Map (Blythe)
 <img width="783" alt="Screenshot 2024-05-10 at 15 23 11" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/9bf242dd-2d0b-44cd-9c70-7c02c0e6cd0a">
