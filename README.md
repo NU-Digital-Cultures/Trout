@@ -465,9 +465,18 @@ Non-discrimination
 <br>
 
 # 8. Our Digital Approach
-Digital- what has tech tools allowed us to do/ has allowed us to respond to the brief in a specific way 
+**Figma:**
+Figma allowed us to create a prototype for the app with a function similar to that of the final product. Its versatility from being able to present the prototype via link, to allowing live collaboration also made it an excellent choice for refining the work we created over time.
+<br><br>
+**Adobe Illustrator:**
+The programme is an industry standard for creating assets to use in animation and digital designs. Using this programme to create objects such as the house interior and exterior allows us to export the created file, as a vector or svg file. This ensures that the visual end product retains its quality no matter the screen display, and also makes it easier for html development.
+<br><br>
+**Visual Studio Code:**
+The freedom and flexibility of visual studio code allowed us to seamlessly transfer markdown, mermaid, html, css and javascript to our github seamlessly. And it’s plethora of plugins allows us to write certain codes easier.
+<br><br>
+**Microsoft Forms:**
+At the current stage where we do not have a server to collect and store data, microsoft forms was and is the best option for us to collect qualitative data from tenants. Whilst it is limited in its reach due to the manual labor it is still an effective method of collection.
 <br>
-
 
 - Allows *Homes to Newcastle* access to an uncharted territory of readily availlable, mass qualitative data stories.
 
