@@ -227,7 +227,7 @@ We found that geospatial data can be rather limited in terms of accuracy of area
 
 # 7. Reflection on the hypothetical 'real-life' implication of TenantTalk
 <br>
-
+- The entire platform being based off of a non-profit organization advocating for tenants rights means that there is no direct source of income for the org to run the platform on the web, let alone an app. Whilst it is plausible to get funding through campaigns and fundraisers aimed specifically for this goal, in the long-term it is a unsustainable model, unless features such as in-app ads are implemented.
 ## Data Protection
 
 <br>
