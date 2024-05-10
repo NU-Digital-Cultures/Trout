@@ -334,8 +334,9 @@ The final iteraction is based on the following mood board:
 <br>
 
 ### Second iteration: the Tenant Handbook 
-- We thought the Handbook should carry over more of the digital zine/ cartoon-y aesthetic
-This is our mood board:
+- We thought the Handbook should carry over more of the digital zine/ 'cartoon-y' aesthetic.
+<br>
+This is the mood board we created:
 <br>
 
 <img width="889" alt="Screenshot 2024-05-10 at 14 46 38" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/d05f1890-8765-4eeb-ae8e-a8b0d254e24c">
@@ -369,7 +370,7 @@ Third article: **The G-word: Gentrification. What is it?**
 <br>
 
 ### Third (and final) iteration: the Tenant Handbook (https://www.figma.com/proto/2I2GfgxQAwwokmIrc1A0Ha/TenantHandbook-Prototype?type=design&node-id=730-1303&t=BJbMM0HyC95CwbkS-1&scaling=scale-down&page-id=1669%3A162202&starting-point-node-id=730%3A1162&mode=design)
-For the final iteration, we undertook research into existing 'handbook-like' strategies and evaluated them. This research can be found [here], and based on our findings, we created a mock-up protoype showcasing how our Handbook might look and function:
+For the final iteration, we undertook research into existing 'handbook-like' strategies and evaluated them. This research can be found [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/TenantHandbookIdeas.md), and based on our findings, we created a mock-up protoype showcasing how our Handbook might look and function:
 <br>
 
 <img width="1141" alt="Screenshot 2024-04-28 at 14 30 06" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/ca0376f2-ea68-4fd0-90a5-dfb22b930cc9">
@@ -380,8 +381,6 @@ For the final iteration, we undertook research into existing 'handbook-like' str
 
 - When users click onto different visual aspects/ objects of the house, a pop up will appear informing them of their tenant responsibilities and rights related to that object
 - We decided that this overcomes the difficulty that government websites implement, whereby they have loads of sections with information which feels like an overwhelming 'information dump'
-- This is a way of achieving the empowerment of tenants with the tools and knowledge of navigating their renting process that is basic and more effective
-<br>
 <br>
 
 This resulted in the final prototype: 
@@ -390,9 +389,11 @@ This resulted in the final prototype:
 ![](https://github.com/soichiro331/soichiro331/blob/main/untitled%20folder%202/Screenshot%202024-04-30%20at%2013.59.16.png)
 <br>
 
+The textual content of the Handbook can be found [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/TenantHandbookContent.md).
 <br>
 
-The textual content of the Handbook can be found here.
+Overall, we felt that this final prototype provides the best way of achieving the empowerment of tenants with the tools and knowledge they need to navigate the renting market. It is basic, simple, and almost child-like, but is ultimately more effective. It is proven more effective here.
+
 
 ### First iteration: the Tenant Round-Up
 
@@ -465,18 +466,9 @@ Non-discrimination
 <br>
 
 # 8. Our Digital Approach
-**Figma:**
-Figma allowed us to create a prototype for the app with a function similar to that of the final product. Its versatility from being able to present the prototype via link, to allowing live collaboration also made it an excellent choice for refining the work we created over time.
-<br><br>
-**Adobe Illustrator:**
-The programme is an industry standard for creating assets to use in animation and digital designs. Using this programme to create objects such as the house interior and exterior allows us to export the created file, as a vector or svg file. This ensures that the visual end product retains its quality no matter the screen display, and also makes it easier for html development.
-<br><br>
-**Visual Studio Code:**
-The freedom and flexibility of visual studio code allowed us to seamlessly transfer markdown, mermaid, html, css and javascript to our github seamlessly. And it’s plethora of plugins allows us to write certain codes easier.
-<br><br>
-**Microsoft Forms:**
-At the current stage where we do not have a server to collect and store data, microsoft forms was and is the best option for us to collect qualitative data from tenants. Whilst it is limited in its reach due to the manual labor it is still an effective method of collection.
+Digital- what has tech tools allowed us to do/ has allowed us to respond to the brief in a specific way 
 <br>
+
 
 - Allows *Homes to Newcastle* access to an uncharted territory of readily availlable, mass qualitative data stories.
 
@@ -505,7 +497,13 @@ Brown, M. (2023) *Writing Good Survey Questions: 10 Best Practices*. Available a
 Burgess, J. (2008) ‘Hearing ordinary voices: cultural studies, vernacular creativity and digital storytelling’, *Continuum: Journal of Media and Cultural Studies*, 20(2), pp.201-214. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1177/1461444808089413 
 <br>
 
+Citizens Advice (2024) *Preparing to rent from a private landlord*. Available at: https://www.citizensadvice.org.uk/housing/starting-to-rent-from-a-private-landlord/preparing-to-rent-from-a-private-landlord/ (Accessed: 28 April 2024).
+<br>
+
 Clark, E. (1995) 'The Rent Gap Re-examined', *Urban Studies*, 32(9), pp. 1489-1503. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1080/00420989550012366
+<br>
+
+Cromarty, H. (2024) *Renters' Reform Bill* (House of Commons Library briefing paper 10004). Available at: https://researchbriefings.files.parliament.uk/documents/CBP-10004/CBP-10004.pdf
 <br>
 
 Diappi, L. and Bolchi, P. 'Smith's rent gap theory and local real estate dynamics: A multi-agent model', *Computers, Environment and Urban Systems*, 32(1), pp. 6-18. Available at: https://www-sciencedirect-com.libproxy.ncl.ac.uk/science/article/pii/S0198971506001037?via%3Dihub (Accessed: 14 April 2024).
@@ -535,6 +533,9 @@ Lessig, L. (2004) *Free Culture: How Big Media Uses Technology and the Law to Lo
 Ley, D. (2003) 'Artists, Aestheticisation and the Field of Gentrification', *Urban Studies*, 40(12), pp. 2527-2544. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1080/0042098032000136192
 <br>
 
+Local Government Association (2024) *Renters' Reform Bill, Report Stage, House of Commons, 23 April 2024*. Available at: https://www.local.gov.uk/parliament/briefings-and-responses/renters-reform-bill-report-stage-house-commons-23-april-2024#:~:text=Procurement-,Renters'%20Reform%20Bill%2C%20Report%20Stage%2C%20House%20of%20Commons%2C,private%20rented%20sector%20(PRS) (Accessed: 28 April 2024).
+<br> 
+
 Lundby, K. (2008a) *Digital Storytelling, Mediatized Stories: Self-representations in New Media*. New York: Peter Lang.
 <br>
 
@@ -544,10 +545,28 @@ Lundby, K. (2008b) ‘Editorial: mediatized stories: mediation perspectives on d
 McKinlay, A. and Starkey, K. P. (1997) *Foucault, management and organization theory from panopticon to technologies of the self*. London: Sage Publications.
 <br>
 
+Newcastle City Council (2024) *Private Rented Service Newcastle*. Available at: https://www.newcastle.gov.uk/private-rented-service-newcastle (Accessed: 1 April 2024).
+<br>
+
+North East Law Centre (2024) *Home - North East Law Centre*. Available at: https://www.nelawcentre.co.uk/ (Accessed: 28 April 2024).
+<br>
+
+Parliament. House of Commons (2023) *Reforming the Private Sector: Government's response to the Committee's Fifth Report of Session 2022-23* (HC 1935) Available at: https://committees.parliament.uk/publications/41806/documents/207184/default/ (Accessed: 28 April 2024).
+<br>
+
+Private Renting Service Newcastle (2024a) *Home - Private Renting Service*. Available at: https://www.privaterentedservice.co.uk (Accessed: 28 April 2024).
+<br>
+
+Private Renting Service Newcastle (2024b) *Tenants*. Available at: https://www.privaterentedservice.co.uk/tenants/ (Accessed: 28 April 2024).
+<br>
+
 Rugg, J., Ford, J. and Burrows, R. (2006) 'Housing advantage? The role of student renting in the consitution of housing biographies in the United Kingdom', *Journal of Youth Studies*, 7(1), pp. 19-34. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1080/1367626042000209930
 <br>
 
 Shelter (2024) *Half of working renters only one paycheck away from losing their home*. Available at: https://england.shelter.org.uk/media/press_release/half_of_working_renters_only_one_pay_cheque_away_from_losing_their_home_#:~:text=22%20Aug%202023-,Half%20of%20working%20renters%20only%20one%20pay%20cheque%20away%20from,new%20research%20by%20Shelter%20reveals. (Accessed: 6 May 2024).
+<br>
+
+Shelter (2024) *Private renting*. Availablw at: https://england.shelter.org.uk/housing_advice/private_renting (Accessed: 28 April 2024).
 <br>
 
 Smed, J., Suovuo, T., Skult, N. and Skult, P. (2021) *Handbook on Interactive Storytelling*. West Sussex: Wiley.
@@ -559,6 +578,9 @@ Smith, N. (1979) 'Toward a Theory of Gentrifcation: A Back to the City Movement 
 Socialist Worker (2023) 'Renters are the real victims of housing crisis- not landlords', 27 August. Available at: https://socialistworker.co.uk/background-check/renters-are-the-real-victims-of-housing-crisis-not-landlords/ (Accessed: 6 May 2024).
 <br>
 
+UK Parliament (2024) *Reforming the Private Renting Sector Government’s response to the Committee’s Fifth Report of Session 2022-23*. Available at: https://publications.parliament.uk/pa/cm5803/cmselect/cmcomloc/1935/report.html (Accessed: 28 April 2024).
+<br>
+
 Weale, S. (2023) 'University Students in England 'have 50p a week to live on after rent', *The Guardian*, 26 October. Available at: https://www.theguardian.com/money/2023/oct/26/university-students-england-50p-a-week-after-rent (Accessed: 6 May 2024).
 <br>
 
@@ -567,7 +589,5 @@ Wilson, A. and Tewdwr-Jones, M. (2020) 'Lets draw and talk about urban change: D
 
 Wright, A. (2024) 'Student part-time work is on the rise. Here's what universities can do next', *Wonkhe*, 30 January. Available at: https://wonkhe.com/blogs/our-full-time-students-are-almost-full-time-workers-too/ (Accessed: 6 May 2024).
 <br>
-
-
 
 
