@@ -228,23 +228,125 @@ Once we had settled on a somewhat stable idea for our app, we began designing th
 <br>
 
 ### Second iteration: the Tenant Talk opening app page (Blythe)
-- non commercial agenda
+App loading page:
 <br>
 
-### Third iteration: improved ideas for the Tenant Talk opening app page (Blythe)
+<img width="785" alt="Screenshot 2024-05-10 at 15 17 30" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/206817aa-fd6b-4636-858e-d70339429686">
+<br>
 
-### Fourth (and final) iteration: the Tenant Talk opening app page (Soi)
-The final iteraction is based on the following mood board  below.
+- The blue colour scheme serves more of a purpose compared to the scrumpled paper as it conveys the app has a more formal agenda/ direction
+<br>
+
+<br>
+
+App log-in page:
+<br>
+
+<img width="791" alt="Screenshot 2024-05-10 at 15 18 36" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/d70f7863-4083-40c4-adeb-4e4e333ed497">
+<br>
+
+<br>
+
+App opening page:
+<br>
+
+<img width="769" alt="Screenshot 2024-05-10 at 15 21 22" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/e67258eb-6e90-494f-b380-b7f21d44adb1">
+<br>
+
+<br>
+
+Subsequent linking pages from the opening page:
+<br>
+
+<img width="311" alt="Screenshot 2024-05-10 at 15 25 13" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/2a2300cf-a046-43d6-a679-66dff68c7807">
+<br>
+
+<br>
+
+<img width="307" alt="Screenshot 2024-05-10 at 15 26 17" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/a78fbf7c-43d8-4e64-802c-53de501afe46">
+<br>
+
+(^ also, technically a **first iteration** of the Tenant Handbook/ where the idea was born)
+
+
+
+
+- non commercial agenda
+- This was us still figuring out what the options will be
+- Reduced to 3
+<br>
+
+### Third (and final) iteration: the Tenant Talk opening app page (Soi and Blythe)
+The final iteraction is based on the following mood board:
 <img width="533" alt="Screenshot 2024-05-10 at 14 48 06" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/0cfde864-0935-4213-84d1-6017dfc02347">
+<br>
+
+<br>
+
+<img width="512" alt="Screenshot 2024-05-10 at 15 41 57" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/b17f16e7-a262-4791-92ce-873f7e379655">
 
 
-### First iteration: the Tenant Handbook 
-- We thought the Handbook should carry over the digital zine aesthetic
+### Second iteration: the Tenant Tales Map 
+<img width="783" alt="Screenshot 2024-05-10 at 15 23 11" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/9bf242dd-2d0b-44cd-9c70-7c02c0e6cd0a">
+<br>
+
+- Conceptually, this is what the tenant submissions could be: a 'pop-up' book when clicked on (from on the Tenant Tales map)
+<br>
+
+### Third iteration: the Tenant Tales Map (https://www.figma.com/file/6Y7hizZOSErAj3zDalIT5Y/Figma-basics-(Ver.1)?type=design&node-id=1669%3A162202&mode=design&t=Sz3zlXzsMFR6kjmj-1) (Soi)
+![](https://github.com/soichiro331/soichiro331/blob/main/untitled%20folder%202/Screenshot%202024-05-09%20at%2019.51.04.png)
+<br>
+
+- The third iteration was also created in figma with the main focus of developing an actual layout for the digital zine itself.
+- One thing we kept from the early iterations of the Tenant Talk opening app page was the login system/ menu, as this was felt as necessary to for tenants to make submissions and creates a smooth process of us verifying the stories themselves (more on this in section 7).
+- For this iteration, I considered utilizing Marker Clusters to improve the visual simplicity when there are multiple points in the area. However this proved to be difficult for me to execute in javascript, and was therefore scrapped.
+<br>
+
+### Fourth iteration: the Tenant Tales Map (https://nu-digital-cultures.github.io/Trout/TenantTalkApp/Map%20HTML/index.html)
+![](https://github.com/soichiro331/soichiro331/blob/main/untitled%20folder%202/Screenshot%202024-05-07%20at%2011.27.02.png)
+- This is a visual product which focuses on the humanisation of storytelling beyond numerical rating systems. We aim to do this through personal stories and experiences of renting from students, collected through surveys or submission which they would be able to do on the app in future iterations (hypothetical).
+-  The main system revolves around the map as users who are planning to move close to the area, can look at certain points based on the experiences of other students, helping them to choose an area better suited for them.
+-  I used a GeoJSON data from https://martinjc.github.io/UK-GeoJSON/ and used the “Westminster parliamentary wards” for the area representation as it balanced the simplicity and complexity of the area borders whilst still being relatively accurate to area labels, on publicly available maps.
+<br>
+
+### Second iteration: the Tenant Handbook 
+- We thought the Handbook should carry over more of the digital zine/ cartoon-y aesthetic
 This is our mood board:
+<br>
+
 <img width="889" alt="Screenshot 2024-05-10 at 14 46 38" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/d05f1890-8765-4eeb-ae8e-a8b0d254e24c">
+We also considered zine designs of marginalised communities: https://eu.usatoday.com/picture-gallery/news/nation/2021/07/31/zines-have-long-history-communities-color/5387294001/) 
+<br>
+
+This led us to the idea of producing the Handbook in a magazine format. A short mock-up example is below.
+<br>
+📖
+First article: **Student Renters: Optimal Candidates for Exploitation at the hand of their Landlords**
+Students living away from home for the purposes of studying at university embody a “constrained pathway” when navigating economic and housing market constraints (Rugg, Ford and Burrows, 2006). For many of us, long-term employment isn’t an option and this means that rent is already hard to pay, notwithstanding if our landlord wrongfully dictates additional cost burdens to our wallet. For many, this can look like refusing to replace household items like a kettle or lightbulb or even bigger items such as a washing machine. By refusing to replace these objects students are forced to live without, or pay new items that they shouldn’t be paying for.  This also means that students could be living in poor conditions which could lead to health complications.
+<br>
+Second article: **Be aware of your (essential) Tenant Rights!**
+Third article: **The G-word: Gentrification. What is it?**
+In a nutshell, what this means for us students is that rent prices are driven up unproportionally... etc
+📘
+<br>
+
+- Simply put, this Tenant Handbook to be an almost tongue-and-cheek combination of a renting guide and a first-person narrative expression of student tenants' problems. The idea was for it to be in a magazine-like format, with a catchy, commercial title. This idea was liked given that it allowed us to mockingly subvert the purpose of a traditionally commercial magazine for a community-based, political cause. Also, the ability to use shared personal pronouns "us" would work towards our collective identity formation aim, and the idea that we are writing an article parallels the storytelling approach of the Tenant Tales, just now in written format.
+- Yet, this idea was reevaluated as it did not do much to avoid the 'information overload' problem we identified as troublesome in existing projects. All we had done by this approach was recreating the same information dump but through a more radical, advocacy lens.
+
+### Third (and final) iteration: the Tenant Handbook (https://www.figma.com/proto/2I2GfgxQAwwokmIrc1A0Ha/TenantHandbook-Prototype?type=design&node-id=730-1303&t=BJbMM0HyC95CwbkS-1&scaling=scale-down&page-id=1669%3A162202&starting-point-node-id=730%3A1162&mode=design)
+A new moodboard was proposed, as below. 
+
+<br>
+
+<br>
+
+This resulted in the final prototype: 
+<br>
+
+![](https://github.com/soichiro331/soichiro331/blob/main/untitled%20folder%202/Screenshot%202024-04-30%20at%2013.59.16.png)
 
 
-insert magazine format
+### First iteration: the Tenant Round-Up
 
 
 
@@ -253,6 +355,10 @@ insert magazine format
  This [flow map](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/TenantTalkApp/InteractiveMapIdeas.md) documents this process, capturing some of the design ideas we eventually went with and those we did not (upon reflection of the purpose of our main or due to technical difficulties/ limitations).
 - talk about how we felt digital storytelling needed to become more abstract, including audio and visual artworks/ zines
 - why the Tenant Handbook is so visual and cartoon-like- because normally heavy information dumps. Also what this digital framework allows us to do given it is digital
+<br>
+
+### Final iteration of all 3 app components (https://www.figma.com/file/UmZ6oeoMOkU6QbWeR6pZTP/Tenant-Talk-(Ver.2)?type=design&mode=design&t=Sz3zlXzsMFR6kjmj-1)
+![](https://github.com/soichiro331/soichiro331/blob/main/untitled%20folder%202/Screenshot%202024-05-09%20at%2019.50.23.png)
 <br>
 
 ### Tenant Handbook
@@ -282,9 +388,19 @@ Furthermore, the submission process requires a server to receive and manage the 
 # 7. Reflection on the hypothetical 'real-life' implication of TenantTalk
 <br>
 - The entire platform being based off of a non-profit organization advocating for tenants rights means that there is no direct source of income for the org to run the platform on the web, let alone an app. Whilst it is plausible to get funding through campaigns and fundraisers aimed specifically for this goal, in the long-term it is a unsustainable model, unless features such as in-app ads are implemented.
+
 ## Data Protection
 
+## Verification Process
+
 <br>
+
+## Terms of Service 
+A ToS agreement will be required for Tenant Talk. We did not have the time to write up a formal ToS, however discussed what it would be and look like below.
+<br>
+
+<img width="766" alt="Screenshot 2024-05-10 at 15 10 57" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/714578a5-e319-40e0-8b61-ebd14345fcd3">
+
 
 ## Sustainablity of Our Platform
 - If Tenant Talk were to be a long-term application for an under-resourced organisation, there would be limits on having real people validate data (time, logistics?)
@@ -292,9 +408,16 @@ Furthermore, the submission process requires a server to receive and manage the 
 
 <br>
 
+## Acessibillity of Our Platform
+Non-discrimination
+<br>
+
 # 8. Our Digital Approach
 Digital- what has tech tools allowed us to do/ has allowed us to respond to the brief in a specific way 
 <br>
+
+
+- Allows *Homes to Newcastle* access to an uncharted territory of readily availlable, mass qualitative data stories.
 
 # 9. Works Cited
 ## The full bibliographic list of works cited throughout Tenant Talk's design, framing, context discussions/ analysis, and research process- as well as those used within the app itself- can be found below.
