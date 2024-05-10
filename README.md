@@ -112,26 +112,6 @@ This research led us to the formation of our [problem statement](https://github.
 Tenant Talk is situated within contextual critical theories and concepts to do with student renting.
 <br>
 
-We undertook research on student renting, landlords in Newcastle, Gentrification in Newcastle, and scholarship that theorised gentrification so that we could best get to grips with our project's context. 
-
-<br>
-
-
--application of and developed an understanding of critical theories and concepts
-<br>
-
-We first undertook research on 
-
-
-
-
-## Student Renting and the Student Housing Crisis
-- student grassroot campaigns
-<br>
-
-Student maintenance loans are falling short of their function to support student living, with the loan being "almost entirely wiped out by rent alone" (Weale, 2023).
-<br>
-
 ## Gentrification
 ### What is Gentrification?
 To grasp the mechanisms behind gentrification, we looked at [scholarly theorisations of gentrifcation](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Gentrification/GentrificationTheories.md). We found the Rental Gap Theory (RGT) the most persuasive for how understanding how it impacts tenants' rents. We applied this concept into our app by thinking of how we could best represent this gentrification process and the consequences it has for tenants in the form of data. This was done in our [GentrificationAsData](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Direction/GentrificationAsData.md) file. 
@@ -144,20 +124,20 @@ We undertook narrower research to understand the unique consequences of [gentrif
 Moreover, we created some data visualisations in order to understand the data narratives gentrification in the wider North East region.
 <br>
 
-### This data visualisation showcases a complex view of rental price increases over time, in relation to monthly and annual price change rates
+**This data visualisation showcases a complex view of rental price increases over time, in relation to monthly and annual price change rates**
  - https://flo.uri.sh/visualisation/17544774/embed
  - General upward trend with regular peaks and troughs. However, there was more of a rapid rent increase trend from April 2022, reaching a peak in January 2023 (which is the most currrently available data)
  - This showcases the severity of rent increases in the North East for tenants
  - Again, highest annual change rate in rent increase in 2023 
 <br>
 
-### This data visualisation highlights differences in increased rental costs based on renting property type
+**This data visualisation highlights differences in increased rental costs based on renting property type**
 - https://flo.uri.sh/visualisation/17545301/embed
 - Relatively similar increases in one/ two/ three bed properties
 - Steeper increase in four (or more) properties- **students are more likely to house share** and therefore rent these properties
  <br>
 
-### This data visualisation demonstrates the average household expenditure in the UK by the end of 2022
+**This data visualisation demonstrates the average household expenditure in the UK by the end of 2022**
 - https://public.flourish.studio/visualisation/17729763/
 - Housing, fuel, and power is the highest expenditure category (87.7%) which explicitly points to Tenant Talk the severity of the housing crisis for tenants as it is on average the highest outgoing category for households
 <br>
@@ -168,7 +148,13 @@ Moreover, we created some data visualisations in order to understand the data na
 > The csv files of the first two visualisations were filtered to show specific data types and data for the **North East** region only.
 <br>
 
-## Student Renting
+## Student Renting and the Student Housing Crisis
+Our research on the overall student renting experience, current student grassroots campaigns, key debates in student renting, and some recent updates in the renting market and student housing crisis can be found [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/StudentTenants/StudentRenting.md).
+<br>
+
+These contextual considerations are applied to the Tenant Talk app as they provide the ground content for what our app should set out to achieve in best supporting contemporary student renting struggles. 
+
+<br>
 
 ## Our Research Method: Our Survey (Tenant Talk, 2024)
 Information regarding the process our survey (2024) can be found [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Research%20Methods/Survey.md).
