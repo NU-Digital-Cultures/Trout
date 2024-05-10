@@ -306,7 +306,7 @@ The final iteraction is based on the following mood board:
 <img width="512" alt="Screenshot 2024-05-10 at 15 41 57" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/b17f16e7-a262-4791-92ce-873f7e379655">
 <br>
 
-### Second iteration: the Tenant Tales Map 
+### Second iteration: the Tenant Tales Map (Blythe)
 <img width="783" alt="Screenshot 2024-05-10 at 15 23 11" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/9bf242dd-2d0b-44cd-9c70-7c02c0e6cd0a">
 <br>
 
@@ -326,6 +326,9 @@ The final iteraction is based on the following mood board:
 
 - For this iteration, I considered utilizing Marker Clusters to improve the visual simplicity when there are multiple points in the area. However this proved to be difficult for me to execute in javascript, and was therefore scrapped.
 - I used a GeoJSON data from https://martinjc.github.io/UK-GeoJSON/ and used the “Westminster parliamentary wards” for the area representation as it balanced the simplicity and complexity of the area borders whilst still being relatively accurate to area labels, on publicly available maps. I found that the use of electoral ward boundaries also visually works well, with the points clustering together and apart smoothly whilst zooming in/ out. 
+<br>
+
+Following discussion of this prototype, we changed the fact of attributing tenant submissions to a particular property, instead attributing them more generally to an area, for reasons stipulated in our [key project decisions](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/KeyProjectDecisions.md).
 <br>
 
 ### Fourth iteration: the Tenant Tales Map (https://nu-digital-cultures.github.io/Trout/TenantTalkApp/Map%20HTML/index.html)
@@ -409,13 +412,14 @@ TROY TO FILL THIS IN
 ### Final iteration of all 3 app components (https://www.figma.com/file/UmZ6oeoMOkU6QbWeR6pZTP/Tenant-Talk-(Ver.2)?type=design&mode=design&t=Sz3zlXzsMFR6kjmj-1) (Soi)
 ![](https://github.com/soichiro331/soichiro331/blob/main/untitled%20folder%202/Screenshot%202024-05-09%20at%2019.50.23.png)
 For this iteration, I made some small tweaks in the design of the app / zine to professionalize the looks. Such as adding gradients to the background. and icons to the menu buttons for easier understanding. I've also added a more final representation of what the map would look like, with poems, and artworks that groups together as a collage which users can scroll. This was then merged with the Tenant Handbook and Tenant Roundup and connected via the prototype feature to replicate the full function of the app / zine conceptually.
+<br>
+
+This is the [html](https://github.com/NU-Digital-Cultures/Trout/tree/tenant-talk/TenantTalkApp/Map%20HTML) for our **map**.
+<br>
 
 # 6. Challenges we Faced and how we attempted to Overcome them
 ## Ethical challenges
-We faced difficulties in terms of balancing privacy concerns with the import of having tenant submissions spatially located. We felt that the anonymity of the submissions, although sorted according to area, could constrain the overall utility of our map. However, we realised there would ultimately still be advantages to this approach as it nevertheless permits *Homes to Newcastle* access to nuanced, in-depth, and broad qualitative data that they would not otherwise would not have.
-<br>
-
-Moreover, having publicly available data for regions
+As our initial idea of having tenant submissions on the **Tenant Tales** map attached to specific properties was rejected for ethical reasons, and we had instead justified the approach of organising tenant submissions as per general area, this then (still) led us to face further ethical difficulties in terms of balancing privacy concerns with the import of having tenant submissions spatially located by area. We felt that the anonymity of the submissions, although sorted according to area, could constrain the overall utility of our map. However, we realised there would ultimately still be advantages to this approach as it nevertheless permits *Homes to Newcastle* access to nuanced, in-depth, and broad qualitative data that they would not otherwise would not have. Moreover, having publicly available data for regions is useful 
 <br>
 
 ## Technical challenges
