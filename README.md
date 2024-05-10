@@ -484,6 +484,9 @@ At the current stage where we do not have a server to collect and store data, mi
 ## The full bibliographic list of works cited throughout Tenant Talk's design, framing, context discussions/ analysis, and research process- as well as those used within the app itself- can be found below.
 <br>
 
+Atkinson, R. (2003) 'Special issue: The gentry in the city: upward neighbourhood trajectories and gentrification', Urban Studies, 40(12), pp. 2343-2350. Available at: https://openurl-ebsco-com.libproxy.ncl.ac.uk/linksvc/linking.aspx?sid=Primo&volume=40&date=20031101&spage=2343&issn=0042-0980&issue=12&genre=article&title=Urban+studies.&epage=2584 (Accessed: 31 March 2024).
+<br>
+
 Baldick, C. (2008) The Oxford Dictionary of Literary Terms. Available at: https://www.oxfordreference.com/display/10.1093/acref/9780199208272.001.0001/acref-9780199208272-e-1200 (Accessed: 3 May 2024).
 <br>
 
@@ -503,6 +506,12 @@ Brown, M. (2023) *Writing Good Survey Questions: 10 Best Practices*. Available a
 <br>
 
 Burgess, J. (2008) ‘Hearing ordinary voices: cultural studies, vernacular creativity and digital storytelling’, *Continuum: Journal of Media and Cultural Studies*, 20(2), pp.201-214. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1177/1461444808089413 
+<br>
+
+Cameron, S. (2003) 'Gentrification, Housing Redifferentiation and Urban Regeneration: 'Going for Growth' in Newcastle Upon Tyne', *Urban Studies*, 40(12), pp. 2367-2382. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1080/0042098032000136110
+<br>
+
+Cool Geography (2024) *Newcastle-upon-Tyne case study*. Available at: https://www.coolgeography.co.uk/A-level/AQA/Year%2013/World%20Cities/Newcastle/Newcastle.htm (Accessed: 31 March 2024).
 <br>
 
 Citizens Advice (2024) *Preparing to rent from a private landlord*. Available at: https://www.citizensadvice.org.uk/housing/starting-to-rent-from-a-private-landlord/preparing-to-rent-from-a-private-landlord/ (Accessed: 28 April 2024).
@@ -550,10 +559,16 @@ Lundby, K. (2008a) *Digital Storytelling, Mediatized Stories: Self-representatio
 Lundby, K. (2008b) ‘Editorial: mediatized stories: mediation perspectives on digital storytelling’, *New Media & Society*, 10(3), pp. 363-371. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1177/1461444808089413
 <br>
 
+Medium (2018) *Student Gentrification*. Available at: https://medium.com/@3pointohnine/student-gentrification-fc5e316e3280 (Accessed: 31 March 2024).
+<br>
+ 
 McKinlay, A. and Starkey, K. P. (1997) *Foucault, management and organization theory from panopticon to technologies of the self*. London: Sage Publications.
 <br>
 
 Newcastle City Council (2024) *Private Rented Service Newcastle*. Available at: https://www.newcastle.gov.uk/private-rented-service-newcastle (Accessed: 1 April 2024).
+<br>
+
+Newcastle: Ltd (2023) *The Gentrification And Urban Development Of Newcastle Upon Tyne*. Available at: https://newcastle.ltd/the-gentrification-and-urban-development-of-newcastle-upon-tyne/ (Accessed: 31 March 2024).
 <br>
 
 North East Law Centre (2024) *Home - North East Law Centre*. Available at: https://www.nelawcentre.co.uk/ (Accessed: 28 April 2024).
@@ -605,6 +620,9 @@ Students' Union Ucl (2022) *Student guide to tenant fees*. Available at: https:/
 <br>
 
 UK Parliament (2024) *Reforming the Private Renting Sector Government’s response to the Committee’s Fifth Report of Session 2022-23*. Available at: https://publications.parliament.uk/pa/cm5803/cmselect/cmcomloc/1935/report.html (Accessed: 28 April 2024).
+<br>
+
+Whiting, J. and Hannam, K. (2017) ''The secret garden': Artists, bohema and gentrifcation in the Ouseburn Valley, Newcastle upon Tyne, UK', *European Urban and Regional Studies*, 24(3), pp. 318-334. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1177/0969776416643750  
 <br>
 
 Weale, S. (2023) 'University Students in England 'have 50p a week to live on after rent', *The Guardian*, 26 October. Available at: https://www.theguardian.com/money/2023/oct/26/university-students-england-50p-a-week-after-rent (Accessed: 6 May 2024).
