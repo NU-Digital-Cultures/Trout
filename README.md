@@ -155,8 +155,8 @@ Below are some data visualisations we created in order to understand gentrificat
 
 ### What is Gentrification?
 To grasp the mechanisms behind gentrification, we looked at [scholarly theorisations of gentrifcation](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Gentrification/GentrificationTheories.md). We found the Rental Gap Theory (RGT) the most persuasive for how understanding how it impacts tenants' rents. We applied this concept into our app by thinking of how we could best represent this gentrification process and the consequences it has for tenants in the form of data. This was done in our [GentrificationAsData](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Direction/GentrificationAsData.md) file. 
-## Our Survey 
-(Tenant Talk, 2024)
+## Our Survey (Tenant Talk, 2024)
+
 <br>
 
 # 4. Tenant Talk's Framing Devices
@@ -191,10 +191,10 @@ In order to achieve *Homes to Newcastle*'s aims, we decided on two major critica
 
 # 5. Project Design Process and Reflections
 <br>
-Initial ideas that we had for our project were rather distant to the final prototype. Our first ideas centred around a creating a sort of informal 'complaints management' system. Our ideas are discussed throughout our group [meeting log](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/MeetingLog.md).
+Initial ideas that we had for our project were rather distant to the final prototype. Our first ideas centred around a creating a sort of informal 'complaints management' system or an Uber-like rating system of landlords. Ultimately we did not go with these ideas, however they discussed and debunked in our key [project decisions](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/KeyProjectDecisions.md).
 <br>
 
-All of our key project decisions that we made in relation to these meetings are documented [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/KeyProjectDecisions.md).
+These decions were made in relation to our discussions, which are captured on our [meeting log](https://github.com/NU-Digital-Cultures/Trout/blob/main/Project%20Management/MeetingLog.md).
 <br>
 
 Over time, we updated this [flow diagram](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Direction/ScopeOfProject.md) to capture the full scope of our project. 
