@@ -385,7 +385,7 @@ Furthermore, the submission process requires a server to receive and manage the 
 ## Design challenges
 <br>
 One of the challenges we faced at the start of our design process was being too restricted with the idea of a zine. Whilst we did propose a digital zine from the start, we wanted to convey the community based and hand-made aesthetic and the message that holds in to our final product. This led us to experiment with a couple of designs, such as trying to draw the cover page and the logo with paper and pencil, as well as trying out digital collages with hints of analogue tastes with pngs of ripped paper to layer. At the end, we resolved this issue by changing our perspective on zines, and trying to grasp the essence of its strengths conceptually rather than with just aesthetics. This was done through a more interactive and user based app structure, such as the addition of user-generated artworks.
-
+<br>
 Another challenge we faced was visually clutter. The second iteration of our app design as shown in AppDesignProcess.md initially captured the concept of Newcastle with its photorealistic elements. However, discussion led us to conclude that going for a more minimalistic design may suit the app at the end as it is easier to visually interpret, meaning it has a wider reach in audience. Overall this may have been a better design choice as the core of the issue; housing crisis for students and minorities, applies not only to Newcastle but the wider UK demographic. 
 
 
