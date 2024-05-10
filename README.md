@@ -365,7 +365,7 @@ For the final iteration, we undertook research into existing 'handbook-like' str
 <img width="1143" alt="Screenshot 2024-04-28 at 14 30 48" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/65e05a3f-b8d1-406d-9719-d3dcf730d506">
 <br>
 
-- When users click onto different visual aspects/ objects of the house, a pop up will appear informing them of their tenant responsibilities and rights related to that object
+- The idea was that, when users click onto different visual aspects/ objects of the house, a pop up will appear informing them of their tenant responsibilities and rights related to that object
 - We decided that this overcomes the difficulty that government websites implement, whereby they have loads of sections with information which feels like an overwhelming 'information dump'
 <br>
 
@@ -378,8 +378,9 @@ This resulted in the final prototype:
 The textual content of the Handbook can be found [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/TenantHandbookContent.md).
 <br>
 
-Overall, we felt that this final prototype provides the best way of achieving the empowerment of tenants with the tools and knowledge they need to navigate the renting market. It is basic, simple, and almost child-like, but is ultimately more effective. It is proven more effective here.
-
+- This final prototype aligned with our goal for the tenant handbook to be about tenancy rights and laws which the tenants could reference and learn from not just through words, but from a more interactive and intuitive presentation. It also met our aim to provide the most effective way of achieving the empowerment of tenants with the tools and knowledge that they need to navigate the renting market in that it is very basic and almost child-like, but is ultimately very easy for users to navigate and quickly find the information they need.
+- Inspired by the mock-up prototype that Blythe made, I created a visually eye-catching and friendly design of a typical housing in Adobe illustrator, which I took to figma to develop a prototype. Each room has specific items that correlate with the information that students from our survey felt was important, and tenants can use this information according to their own personal needs or concerns.
+<br>
 
 ### First iteration: the Tenant Round-Up
 
