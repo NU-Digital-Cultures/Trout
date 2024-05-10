@@ -90,8 +90,17 @@ Given the semantic terminology of the brief implies a necessity to "expose" and 
  The **Tenant Handbook** fundamentally empowers tenants with the knowledge, tools, and feeling of social capital (Bourdieu, 1984)/ power to navigate the renting market and their tenancies by being incredibly informative and advisory of the best approaches to navigating difficult renting situations or troublesome landlords. It empowers students to make well-founded demands for a safe, stable, and good quality housing by acting as a vital and easy to comprehend 'what to do' student digital pocket handbook for renting.
 <br>
  
-3. Our **Tenant Round-Up** (TROY FILL THIS IN)
+3. **The Tenant Round-up** operates as a centralised news hub within the application. Its purpose is to meet the users’ requirements for current and relevant news articles. This feature also promotes a community atmosphere by enabling discussions among users about the news stories, thereby keeping users informed about situations of interest.<br>
+
+The user interface of this feature is arranged in a series of tiles, with each tile representing a unique news story. Each tile displays an image that corresponds to the story’s content and is accompanied by the story’s title. This layout allows users to navigate through the news articles with ease and select the ones that capture their interest.
+When a user selects a tile, they are presented with a concise summary of the news report, providing a quick overview of the story. For users interested in more in-depth information, a link to the original source of the information is provided at the bottom of the screen. This ensures that users can access the full content if they wish to explore the story further.
+<br>
+
+The **Tenant Round-up** is an extension of the principles outlined when developing **Tenant Handbook**. It emphasizes the fundamental concept that knowledge equips individuals with the power to navigate housing matters effectively and to challenge substandard landlords. In addition, the implementation of the comment section serves to cultivate a sense of community among users. As Katt Deaven (2020) articulates, “News comment sections give readers opportunities to interact, to discuss stories, and to learn from each other.” This statement underscores the importance of interactive platforms in fostering community engagement and shared learning experiences.
+
    <br>
+
+
 
 <img width="726" alt="Screenshot 2024-05-08 at 16 19 06" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/7c0165d8-a354-4467-8089-74a89da815d3">
 
@@ -513,6 +522,8 @@ Clark, E. (1995) 'The Rent Gap Re-examined', *Urban Studies*, 32(9), pp. 1489-15
 
 Cromarty, H. (2024) *Renters' Reform Bill* (House of Commons Library briefing paper 10004). Available at: https://researchbriefings.files.parliament.uk/documents/CBP-10004/CBP-10004.pdf
 <br>
+
+Deaven, K. (2020) What comment sections mean to newsrooms, Center for Media Engagement. Available at: https://mediaengagement.org/blogs/what-comment-sections-mean-to-newsrooms/ (Accessed: 10 May 2024). 
 
 Diappi, L. and Bolchi, P. 'Smith's rent gap theory and local real estate dynamics: A multi-agent model', *Computers, Environment and Urban Systems*, 32(1), pp. 6-18. Available at: https://www-sciencedirect-com.libproxy.ncl.ac.uk/science/article/pii/S0198971506001037?via%3Dihub (Accessed: 14 April 2024).
 <br>
