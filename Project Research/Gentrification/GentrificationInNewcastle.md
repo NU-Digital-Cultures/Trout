@@ -1,5 +1,5 @@
  # Academic literature relating to Gentrification
- ## This content will be used and referenced to in the introductory pages of our app
+ ## This content will be used to situate our understanding of gentrification which will inform the production of our app
 <br>
 Blythe's section:
 <br>
