@@ -118,6 +118,12 @@ This debate in this website is based on a <b>rent dispute</b> between students a
 
 <br>
 
+### The Tab (2024) *Russel Group uni cities where student landlords are raking it in the most.* Available at: https://thetab.com/uk/2024/03/15/the-russell-group-uni-cities-where-student-landlords-are-raking-it-in-the-most-right-now-358015?callback=in&code=ODFJYMFKZTQTYJG5MC0ZYJM1LTHKOWQTN2QXMWQ5MZVJZTRI&state=58bc6a75f0cd42fba5b6933f696c84d0 (Accessed: 18 April 2024).
+- Students experience maintenance problems with the property itself ie. undone repairs, mould, pest, silverfish
+- Landlords making more money off the back of rent price increases which most heavily implicate students for who it is a necessity to rent in the area
+- Cheapest rent in the UK is Newcastle however this does not prevent landlords not solving maintenance issues
+<br>
+
 ## ↪️ From this debates research, these are the key problems students face when renting: 
 ⚠️⚠️⚠️
 - The renting market: high rents in student accomodation/ halls of resdience and private properties. This becomes a form of extortion in the sense that renting prices increase without student renters' financial means increasing simultaneously.
