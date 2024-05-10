@@ -201,10 +201,10 @@ In order to achieve *Homes to Newcastle*'s aims, we decided on two major critica
 Initial ideas that we had for our project were rather distant to the final prototype. Our first ideas centred around a creating a sort of informal 'complaints management' system or an Uber-like rating system of landlords. 
 <br>
 
-Ultimately, we did not go with these ideas in the end, however they discussed and debunked in our [key project decisions](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/KeyProjectDecisions.md) table which we used throughout the project to up-keep with out decision-making process.
+Ultimately, we did not go with these ideas in the end, however they are discussed and debunked in our [key project decisions](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/KeyProjectDecisions.md) table which we used throughout the project to up-keep with our decision-making process and design process.
 <br>
 
-These decions were made in relation to our group discussions which are captured on our [meeting log](https://github.com/NU-Digital-Cultures/Trout/blob/main/Project%20Management/MeetingLog.md).
+These decisions were made in relation to our group discussions which are captured on our [meeting log](https://github.com/NU-Digital-Cultures/Trout/blob/main/Project%20Management/MeetingLog.md).
 <br>
 
 Over time, we updated this [flow diagram](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Direction/ScopeOfProject.md) to capture the full scope of our project. 
@@ -214,6 +214,9 @@ Alongside discussions with eachother and the creation of offline and online ['to
 <br> 
 
 ## Tenant Talk's Design Process
+> **Note**: This section is presented with the iterations that we created in chronological order, however different iteration numbers are given to the **Tenant Tales** map, the Tenant Talk opening app page, the **Tenant Handbook**, and the **Tenant Round-Up**.
+<br>
+
 The project started with a very basic paper prototype when we were intially brainstorming ideas for our project.
 <br>
 
@@ -232,7 +235,7 @@ Once we had settled on a somewhat stable idea for our app, we began designing th
 ![](https://github.com/soichiro331/soichiro331/blob/main/untitled%20folder%202/Screenshot%202024-04-27%20at%2023.01.40.png)
 - The issue we had with this design was the inconsistency of the visual style. The team agreed that this aesthetic of the app was visually heavy, and so a more basic design was favoured to allow greater focus on the content of the app. 
 - This iteration of design has the general flow of the app, but is still linear in nature which conflicts with our focus on non-linear narrative (this is overcome in our second iteraction)
-- There are aesthetic choices such as the scrapped paper which may add on to the zine aesthetic, however the specific choice of this image feels very 2D for a digital zine and does not do much to convey our app's agenda.
+- There are aesthetic choices such as the scrapped paper which may add on to the zine aesthetic, however the specific choice of this image feels very 2D for a digital zine and does not do much to convey our app's agenda. Our visuals need to be more related to the brief's empowerment aims.
 <br>
 
 ### Second iteration: the Tenant Talk opening app page (Blythe)
@@ -274,9 +277,16 @@ Subsequent linking pages from the opening page:
 <img width="307" alt="Screenshot 2024-05-10 at 15 26 17" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/a78fbf7c-43d8-4e64-802c-53de501afe46">
 <br>
 
-(^ also, technically a **first iteration** of the Tenant Handbook/ where the idea was born)
+(^ also, this is technically a **first iteration** of the Tenant Handbook and where the idea was first born)
+<br>
+
+- We preferred this design over the first iteration, however it still
+- Moreover, another problem we found was that the four options on the app opening page were similar in function. 
 
 
+The map now includes points-based data on top of area data
+Geospatial data- the marker points not being in the right place which is why we used electoral ward boundaries
+Why the map is organised via electoral ward boundaries? How does this meaningfully organise space according to our projects objectives?
 
 
 - non commercial agenda
@@ -300,23 +310,29 @@ The final iteraction is based on the following mood board:
 <img width="783" alt="Screenshot 2024-05-10 at 15 23 11" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/9bf242dd-2d0b-44cd-9c70-7c02c0e6cd0a">
 <br>
 
-- Conceptually, this is what the tenant submissions could be: a 'pop-up' book when clicked on (from on the Tenant Tales map)
+- Conceptually, this is what we first envisioned the tenant submissions could be: a 'pop-up' book when clicked on (from on the Tenant Tales map)
 <br>
 
 ### Third iteration: the Tenant Tales Map (https://www.figma.com/file/6Y7hizZOSErAj3zDalIT5Y/Figma-basics-(Ver.1)?type=design&node-id=1669%3A162202&mode=design&t=Sz3zlXzsMFR6kjmj-1) (Soi)
 ![](https://github.com/soichiro331/soichiro331/blob/main/untitled%20folder%202/Screenshot%202024-05-09%20at%2019.51.04.png)
 <br>
 
-- The third iteration was also created in figma with the main focus of developing an actual layout for the digital zine itself.
+- The third iteration was also created in figma with the main focus of developing an actual layout for the digital zine
 - One thing we kept from the early iterations of the Tenant Talk opening app page was the login system/ menu, as this was felt as necessary to for tenants to make submissions and creates a smooth process of us verifying the stories themselves (more on this in section 7).
+-  At this point, our concern focussed on the technicalities of the map and how we could marry our coding capabilities with how we want to  organise space on the map. Fundamentally, we all agreed that the way we organise space should be a meaningful, or else there is no point in having a map.
+- This [flow map](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/TenantTalkApp/InteractiveMapIdeas.md) documents this process, capturing some of the design ideas we eventually went with and those we did not (upon reflection of the purpose of our main or due to technical difficulties/ limitations).
+- We floated ideas of a heat map, and even using our survey results (ie. what student tenants stipulated most as renting problems) as different filter options on our map. Again, the evaluation of these ideas were recorded on our [key project decisions](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/KeyProjectDecisions.md) file.
+<br>
+
 - For this iteration, I considered utilizing Marker Clusters to improve the visual simplicity when there are multiple points in the area. However this proved to be difficult for me to execute in javascript, and was therefore scrapped.
+- I used a GeoJSON data from https://martinjc.github.io/UK-GeoJSON/ and used the “Westminster parliamentary wards” for the area representation as it balanced the simplicity and complexity of the area borders whilst still being relatively accurate to area labels, on publicly available maps. I found that the use of electoral ward boundaries also visually works well, with the points clustering together and apart smoothly whilst zooming in/ out. 
 <br>
 
 ### Fourth iteration: the Tenant Tales Map (https://nu-digital-cultures.github.io/Trout/TenantTalkApp/Map%20HTML/index.html)
 ![](https://github.com/soichiro331/soichiro331/blob/main/untitled%20folder%202/Screenshot%202024-05-07%20at%2011.27.02.png)
-- This is a visual product which focuses on the humanisation of storytelling beyond numerical rating systems. We aim to do this through personal stories and experiences of renting from students, collected through surveys or submission which they would be able to do on the app in future iterations (hypothetical).
+- This is a visual product which now throughly focuses on the humanisation of storytelling beyond just numerical rating systems. We aimed to do this more so through personal stories and experiences of renting from students, collected through tenant submissions which they would be able to do on the app in future iterations (hypothetical).
 -  The main system revolves around the map as users who are planning to move close to the area, can look at certain points based on the experiences of other students, helping them to choose an area better suited for them.
--  I used a GeoJSON data from https://martinjc.github.io/UK-GeoJSON/ and used the “Westminster parliamentary wards” for the area representation as it balanced the simplicity and complexity of the area borders whilst still being relatively accurate to area labels, on publicly available maps.
+
 <br>
 
 ### Second iteration: the Tenant Handbook 
@@ -339,7 +355,7 @@ A short mock-up example is below.
 
 📖
 First article: **Student Renters: Optimal Candidates for Exploitation at the hand of their Landlords**
-"Students living away from home for the purposes of studying at university embody a “constrained pathway” when navigating economic and housing market constraints (Rugg, Ford and Burrows, 2006). For many of us, long-term employment isn’t an option and this means that rent is already hard to pay, notwithstanding if our landlord wrongfully dictates additional cost burdens to our wallet. For many, this can look like refusing to replace household items like a kettle or lightbulb or even bigger items such as a washing machine. By refusing to replace these objects students are forced to live without, or pay new items that they shouldn’t be paying for.  This also means that students could be living in poor conditions which could lead to health complications."
+"Students living away from home for the purposes of studying at university embody a “constrained pathway” when navigating economic and housing market constraints (Rugg, Ford and Burrows, 2006). For many of us, long-term employment isn’t an option and this means that rent is already hard to pay, notwithstanding if our landlord wrongfully dictates additional cost burdens to our wallet. For many, this can look like refusing to replace household items like a kettle or lightbulb or even bigger items such as a washing machine. By refusing to replace these objects students are forced to live without, or pay new items that they shouldn’t be paying for. This also means that students could be living in poor conditions which could lead to health complications."
 <br>
 
 Second article: **Be aware of your (essential) Tenant Rights!**
@@ -378,32 +394,22 @@ This resulted in the final prototype:
 The textual content of the Handbook can be found [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/TenantHandbookContent.md).
 <br>
 
-- This final prototype aligned with our goal for the tenant handbook to be about tenancy rights and laws which the tenants could reference and learn from not just through words, but from a more interactive and intuitive presentation. It also met our aim to provide the most effective way of achieving the empowerment of tenants with the tools and knowledge that they need to navigate the renting market in that it is very basic and almost child-like, but is ultimately very easy for users to navigate and quickly find the information they need.
+- This final prototype aligned with our goal for the tenant handbook to be about tenancy rights and laws which the tenants could reference and learn from not just through words, but through a digital, more interactive and intuitive presentation. It also met our aim to provide the most effective way of achieving the empowerment of tenants with the tools and knowledge that they need to navigate the renting market in that it is very basic and almost child-like, but is ultimately very easy for users to navigate and quickly find the information they need.
 - Inspired by the mock-up prototype that Blythe made, I created a visually eye-catching and friendly design of a typical housing in Adobe illustrator, which I took to figma to develop a prototype. Each room has specific items that correlate with the information that students from our survey felt was important, and tenants can use this information according to their own personal needs or concerns.
 <br>
 
-### First iteration: the Tenant Round-Up
-
-
-
- 
- At this point, our concern focussed on the technicalities of the map and how we could marry our coding capabilities with how we want to  organise space on the map. Fundamentally, we all agreed that the way we organise space should be a meaningful, or else there is no point in having a map. 
- This [flow map](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/TenantTalkApp/InteractiveMapIdeas.md) documents this process, capturing some of the design ideas we eventually went with and those we did not (upon reflection of the purpose of our main or due to technical difficulties/ limitations).
-- talk about how we felt digital storytelling needed to become more abstract, including audio and visual artworks/ zines
-- why the Tenant Handbook is so visual and cartoon-like- because normally heavy information dumps. Also what this digital framework allows us to do given it is digital
+### First iteration: the Tenant Round-Up (Troy and Ethan)
+TROY TO FILL THIS IN
 <br>
 
-### Final iteration of all 3 app components (https://www.figma.com/file/UmZ6oeoMOkU6QbWeR6pZTP/Tenant-Talk-(Ver.2)?type=design&mode=design&t=Sz3zlXzsMFR6kjmj-1)
+### Second iteration: the Tenant Round-Up (Troy and Ethan)
+TROY TO FILL THIS IN
+<br>
+
+### Final iteration of all 3 app components (https://www.figma.com/file/UmZ6oeoMOkU6QbWeR6pZTP/Tenant-Talk-(Ver.2)?type=design&mode=design&t=Sz3zlXzsMFR6kjmj-1) (Soi)
 ![](https://github.com/soichiro331/soichiro331/blob/main/untitled%20folder%202/Screenshot%202024-05-09%20at%2019.50.23.png)
-<br>
+For this iteration, I made some small tweaks in the design of the app / zine to professionalize the looks. Such as adding gradients to the background. and icons to the menu buttons for easier understanding. I've also added a more final representation of what the map would look like, with poems, and artworks that groups together as a collage which users can scroll. This was then merged with the Tenant Handbook and Tenant Roundup and connected via the prototype feature to replicate the full function of the app / zine conceptually.
 
-### Tenant Handbook
-
-We floated ideas of a heat map, and even using our survey results (ie. what student tenants stipulated most as renting problems) as different filter options on our map. Again, the evaluation of these ideas were recorded on our [key project decisions](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/KeyProjectDecisions.md) file.
-
-The map now includes points-based data on top of area data
-Geospatial data- the marker points not being in the right place which is why we used electoral ward boundaries
-Why the map is organised via electoral ward boundaries? How does this meaningfully organise space according to our projects objectives?
 # 6. Challenges we Faced and how we attempted to Overcome them
 ## Ethical challenges
 We faced difficulties in terms of balancing privacy concerns with the import of having tenant submissions spatially located. We felt that the anonymity of the submissions, although sorted according to area, could constrain the overall utility of our map. However, we realised there would ultimately still be advantages to this approach as it nevertheless permits *Homes to Newcastle* access to nuanced, in-depth, and broad qualitative data that they would not otherwise would not have.
