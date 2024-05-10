@@ -1,6 +1,6 @@
 # This file contains the written content that will be linked to from users' clicking of household items
 ## Handbook content:
-Note for Soi: Relate the elements of the house to outlining tenant and landlord rights/ responsibilities. 
+Note for **Soi**: Relate the elements of the house to outlining tenant and landlord rights/ responsibilities. 
 <br>
 
 Idea of an effective 'walkthrough of rights and responsibilities', done better than gov/ charity/ social organisation websites etc.
@@ -26,33 +26,6 @@ Idea of an effective 'walkthrough of rights and responsibilities', done better t
 <br>
 
 ## Research for the Handbook content:
-### https://www.savethestudent.org/accommodation/what-are-your-rights-as-a-tenant.html</h3>
-1. Be aware if the landlord owns an House in Multiple Occupation (HMO)
-<br> 
-
-2. Be aware that the landlord is required by law to install at least one smoke alarm and fire extinguisher on each floor, and a carbon monoxide detector where there is a combustion furnace
-<br>
-
-4. The landlord can only enter your property in the event of an emergency, e.g. fire, burglary, etc. Otherwise the landlord can only enter the property with 24 hours' notice.
-<br>
-
-6. Your landlord is responsible for most major repairs, including any faults with:
-- The structure of the property (the walls, roof, windows and doors)
-- Sinks, baths and toilets
-- Pipes and wiring
-- Heating and hot water (including the boiler)
-- The safety of gas and electrical appliances.
-<br>
-
-5. There are a number of reasons why a landlord could legally evict you, including the following:
-- Being at least two months late on rent payments
-- Being regularly late with your payments
-- Breaching any of the terms of your tenancy agreement
-- Letting the property fall into an unacceptable state
-- Subletting a room without permission
-- Causing serious nuisance to the neighbours
-- Using the property for illegal purposes, such as dealing drugs
-- Refusing to leave the property at the end of your contract.
 
 ### Private Rented Service Newcastle (2024) *Tenant's Responsibilities*. Available at: https://www.privaterentedservice.co.uk/tenants/tenants-library/tenants-handbook/tenants-responsibilities/ (Accessed: 29 April 2024).
 - Making rent payments on time
@@ -69,22 +42,49 @@ Idea of an effective 'walkthrough of rights and responsibilities', done better t
 
 - This site also provides letter templates:
 For when you have left the property but you have not received your deposit back from your landlord and it was a protected deposit:
+<br>
+
 ![image](https://github.com/NU-Digital-Cultures/Trout/assets/160641654/7d0ceac1-c40e-4689-8760-f001f6757c22)
 <br>
 
 For when you have left the property but you have not received your deposit back from your landlord and it was an unprotected deposit:
+<br>
+
 ![image](https://github.com/NU-Digital-Cultures/Trout/assets/160641654/5bb4a045-69b0-4202-bc32-c7fddd71ad41)
  <br>
  
 ![image](https://github.com/NU-Digital-Cultures/Trout/assets/160641654/5aa53850-b122-4b2e-a20e-1d6fc2d35380)
 
 - Also contains a guide to retaliatory eviction: https://www.privaterentedservice.co.uk/wp-content/uploads/2019/06/Guide-to-retalitory-eviction-001.pdf 
-
+<br>
 
 **Evaluation**: These could be useful to include, we just need to make sure they are related to common problems in renting rather than just stipulating 'facts' that are not necessarily points of contention ⚠️
+<br>
 
-### https://studentsunionucl.org/articles/student-guide-to-tenant-fees
-### https://england.shelter.org.uk/professional_resources/legal/costs_of_renting/rents_and_rent_increases/statutory_rules_for_rent_increases_for_assured_tenants
-### https://england.shelter.org.uk/housing_advice/private_renting/rent_increases
-### https://england.shelter.org.uk/housing_advice/repairs/how_long_should_a_private_landlord_take_to_do_repairs#:~:text=Your%20landlord%20should%20do%20repairs,living%20in%20the%20property%20are.
-### https://england.shelter.org.uk/housing_advice/repairs/electrical_safety_in_rented_homes
+### Williams, H. (2023) '10 tenancy rights every student should know', *Save the Student*, 14 November. Available at: https://www.savethestudent.org/accommodation/what-are-your-rights-as-a-tenant.html (Accessed: 20 May 2024).
+1. Be aware if the landlord owns an House in Multiple Occupation (HMO)
+2. Be aware that the landlord is required by law to install at least one smoke alarm and fire extinguisher on each floor, and a carbon monoxide detector where there is a combustion furnace
+4. The landlord can only enter your property in the event of an emergency, e.g. fire, burglary, etc. Otherwise the landlord can only enter the property with 24 hours' notice.
+5. There are a number of reasons why a landlord could legally evict you, including the following:
+- Being at least two months late on rent payments
+- Being regularly late with your payments
+- Breaching any of the terms of your tenancy agreement
+- Letting the property fall into an unacceptable state
+- Subletting a room without permission
+- Causing serious nuisance to the neighbours
+- Using the property for illegal purposes, such as dealing drugs
+- Refusing to leave the property at the end of your contract.
+6. Your landlord is responsible for most major repairs, including any faults with:
+- The structure of the property (the walls, roof, windows and doors)
+- Sinks, baths and toilets
+- Pipes and wiring
+- Heating and hot water (including the boiler)
+- The safety of gas and electrical appliances.
+<br>
+
+Further useful links...
+### Students' Union Ucl (2022) *Student guide to tenant fees*. Available at: https://studentsunionucl.org/articles/student-guide-to-tenant-fees (Accessed: 23 May 2024).
+### Shelter (2024) *Statutory rules for rent increases for assured tenanants*. Available at: https://england.shelter.org.uk/professional_resources/legal/costs_of_renting/rents_and_rent_increases/statutory_rules_for_rent_increases_for_assured_tenants (Accessed: 23 May 2024).
+### Shelter (2024) *Rent increases for private tenants*. Available at: https://england.shelter.org.uk/housing_advice/private_renting/rent_increases (Accessed: 23 May 2024).
+### Shelter (2024) *How long should a private landlord take to do repairs?*. Available at: https://england.shelter.org.uk/housing_advice/repairs/how_long_should_a_private_landlord_take_to_do_repairs#:~:text=Your%20landlord%20should%20do%20repairs,living%20in%20the%20property%20are (Accessed: 23 May 2024).
+### Shelter (2024) *Electrical safety in rented homes*. Available at: https://england.shelter.org.uk/housing_advice/repairs/electrical_safety_in_rented_homes (Accessed: 23 May 2024).
