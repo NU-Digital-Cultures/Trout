@@ -14,14 +14,18 @@ gantt
     Gentrification research: 2024-03-26, 14d
     Research on handling user data: 2024-04-14, 7d
     Update meeting log: 2024-04-23, 7d
-    Create content for the app pages: 2024-04-23, 7d
+    Research student renting: 2024-04-23, 7d
+    Research existing 'handbook-like' strategies: 2024-04-23, 7d
+    Create written content for the handbook: 2024-04-23, 7d
+    Work on first presentation: 2024-05-02, 4d
+    Create portfolio: 2024-05-07, 6d
 
     section Charlotte
     Create Microsoft Forms Survey:2024-03-26, 7d
     Survey analysis and Tenant Tales      : 24d
    Update meeting log: 2024-04-23, 7d
     Condense WhatsApp chat: 2024-04-30, 7d
-    Presentation: 2024-05-02, 4d
+    Work on first presentation: 2024-05-02, 4d
     section Soi
     Collect Critical literautre on digital story telling:2024-03-11, 1d
     Another task     :after a1  , 20d
