@@ -133,7 +133,17 @@ Student maintenance loans are falling short of their function to support student
 <br>
 
 ## Gentrification
-Below are some data visualisations we created in order to understand gentrification in the North East region specificaly
+### What is Gentrification?
+To grasp the mechanisms behind gentrification, we looked at [scholarly theorisations of gentrifcation](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Gentrification/GentrificationTheories.md). We found the Rental Gap Theory (RGT) the most persuasive for how understanding how it impacts tenants' rents. We applied this concept into our app by thinking of how we could best represent this gentrification process and the consequences it has for tenants in the form of data. This was done in our [GentrificationAsData](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Direction/GentrificationAsData.md) file. 
+<br>
+
+### Gentrification in Newcastle
+We undertook narrower research to understand the unique consequences of [gentrification in Newcastle](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Gentrification/GentrificationInNewcastle.md) specifically.
+<br>
+
+Moreover, we created some data visualisations in order to understand the data narratives gentrification in the wider North East region.
+<br>
+
 ### This data visualisation showcases a complex view of rental price increases over time, in relation to monthly and annual price change rates
  - https://flo.uri.sh/visualisation/17544774/embed
  - General upward trend with regular peaks and troughs. However, there was more of a rapid rent increase trend from April 2022, reaching a peak in January 2023 (which is the most currrently available data)
@@ -147,20 +157,31 @@ Below are some data visualisations we created in order to understand gentrificat
 - Steeper increase in four (or more) properties- **students are more likely to house share** and therefore rent these properties
  <br>
 
+### This data visualisation demonstrates the average household expenditure in the UK by the end of 2022
+- https://public.flourish.studio/visualisation/17729763/
+- Housing, fuel, and power is the highest expenditure category (87.7%) which explicitly points to Tenant Talk the severity of the housing crisis for tenants as it is on average the highest outgoing category for households
+<br>
+
 > All of this data is sourced from ONS: https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/priceindexofprivaterentsukmonthlypricestatistics 
 <br>
 
-> The csv files were filtered to show specific data types and data for the **North East** region only.
+> The csv files of the first two visualisations were filtered to show specific data types and data for the **North East** region only.
 <br>
 
-### What is Gentrification?
-To grasp the mechanisms behind gentrification, we looked at [scholarly theorisations of gentrifcation](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Gentrification/GentrificationTheories.md). We found the Rental Gap Theory (RGT) the most persuasive for how understanding how it impacts tenants' rents. We applied this concept into our app by thinking of how we could best represent this gentrification process and the consequences it has for tenants in the form of data. This was done in our [GentrificationAsData](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Direction/GentrificationAsData.md) file. 
-## Our Survey (Tenant Talk, 2024)
+## Student Renting
 
+## Our Research Method: Our Survey (Tenant Talk, 2024)
+Information regarding the process our survey,  (2024) can be found [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Research%20Methods/Survey.md).
+<br>
+
+The results of our survey were used to inform the production of our app, in that the responses we received were:
+1. Abstract, various, and (some were) emotionally charged. This told us that, and validated our idea of, including a wider variety of forms for the tenant submissions 
+2. Pointing to specific issues such as what they would have liked to know before they rented their property, repairs problems, challenging experiences with landlords, and the unaffordability of bills/ rent increases etc. This led us to the idea of creating the Tenant Handbook: an essential guide of for students' rights, responsibilities, and informing students on how to navigate unchartered territory in the renting/ housing markets.
+3. Used to create our [example tenant tales submissions](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Research%20Methods/TenantTales.md).
 <br>
 
 # 4. Tenant Talk's Framing Devices
-In order to achieve *Homes to Newcastle*'s aims, we decided on two major critical framing devices that would uniquely shape our project, which are briefly summarised below. These devices would eventually steer the creative direction of our **Tenant Tales** interactive map.
+In order to achieve *Homes to Newcastle*'s aims, we decided on two major critical framing devices that would uniquely shape our project, which are briefly summarised below. These devices steer the creative direction of our **Tenant Tales** interactive map.
 <br>
 
 ## 1. Digital Storytelling 
@@ -208,6 +229,8 @@ Alongside discussions with eachother and the creation of offline and online ['to
 
 ## Tenant Talk's Design Process
 The project started with a very basic paper prototype when we were intially brainstorming ideas for our project.
+<br>
+
 ### First iteration: A Paper Prototype of the Tenant Tales map (Soi)
 ![](https://github.com/soichiro331/soichiro331/blob/main/untitled%20folder%202/IMG_9597.JPG)
 - This is the rough paper prototype we created around our 4th week after we had interrogated existing projects.
@@ -223,7 +246,6 @@ Once we had settled on a somewhat stable idea for our app, we began designing th
 ![](https://github.com/soichiro331/soichiro331/blob/main/untitled%20folder%202/Screenshot%202024-04-27%20at%2023.01.40.png)
 - The issue we had with this design was the inconsistency of the visual style. The team agreed that this aesthetic of the app was visually heavy, and so a more basic design was favoured to allow greater focus on the content of the app. 
 - This iteration of design has the general flow of the app, but is still linear in nature which conflicts with our focus on non-linear narrative (this is overcome in our second iteraction)
-- 
 - There are aesthetic choices such as the scrapped paper which may add on to the zine aesthetic, however the specific choice of this image feels very 2D for a digital zine and does not do much to convey our app's agenda.
 <br>
 
@@ -278,13 +300,15 @@ Subsequent linking pages from the opening page:
 
 ### Third (and final) iteration: the Tenant Talk opening app page (Soi and Blythe)
 The final iteraction is based on the following mood board:
+<br>
+
 <img width="533" alt="Screenshot 2024-05-10 at 14 48 06" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/0cfde864-0935-4213-84d1-6017dfc02347">
 <br>
 
 <br>
 
 <img width="512" alt="Screenshot 2024-05-10 at 15 41 57" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/b17f16e7-a262-4791-92ce-873f7e379655">
-
+<br>
 
 ### Second iteration: the Tenant Tales Map 
 <img width="783" alt="Screenshot 2024-05-10 at 15 23 11" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/9bf242dd-2d0b-44cd-9c70-7c02c0e6cd0a">
@@ -315,36 +339,60 @@ This is our mood board:
 <br>
 
 <img width="889" alt="Screenshot 2024-05-10 at 14 46 38" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/d05f1890-8765-4eeb-ae8e-a8b0d254e24c">
+<br>
+
 We also considered zine designs of marginalised communities: https://eu.usatoday.com/picture-gallery/news/nation/2021/07/31/zines-have-long-history-communities-color/5387294001/) 
 <br>
 
-This led us to the idea of producing the Handbook in a magazine format. A short mock-up example is below.
+This led us to the idea of producing the Handbook in a magazine format. 
 <br>
+
+A short mock-up example is below.
+<br>
+
 📖
 First article: **Student Renters: Optimal Candidates for Exploitation at the hand of their Landlords**
-Students living away from home for the purposes of studying at university embody a “constrained pathway” when navigating economic and housing market constraints (Rugg, Ford and Burrows, 2006). For many of us, long-term employment isn’t an option and this means that rent is already hard to pay, notwithstanding if our landlord wrongfully dictates additional cost burdens to our wallet. For many, this can look like refusing to replace household items like a kettle or lightbulb or even bigger items such as a washing machine. By refusing to replace these objects students are forced to live without, or pay new items that they shouldn’t be paying for.  This also means that students could be living in poor conditions which could lead to health complications.
+"Students living away from home for the purposes of studying at university embody a “constrained pathway” when navigating economic and housing market constraints (Rugg, Ford and Burrows, 2006). For many of us, long-term employment isn’t an option and this means that rent is already hard to pay, notwithstanding if our landlord wrongfully dictates additional cost burdens to our wallet. For many, this can look like refusing to replace household items like a kettle or lightbulb or even bigger items such as a washing machine. By refusing to replace these objects students are forced to live without, or pay new items that they shouldn’t be paying for.  This also means that students could be living in poor conditions which could lead to health complications."
 <br>
+
 Second article: **Be aware of your (essential) Tenant Rights!**
+<br>
+
 Third article: **The G-word: Gentrification. What is it?**
-In a nutshell, what this means for us students is that rent prices are driven up unproportionally... etc
-📘
+"In a nutshell, what this means for us students is that rent prices are driven up unproportionally..." etc
+📖
+
 <br>
 
 - Simply put, this Tenant Handbook to be an almost tongue-and-cheek combination of a renting guide and a first-person narrative expression of student tenants' problems. The idea was for it to be in a magazine-like format, with a catchy, commercial title. This idea was liked given that it allowed us to mockingly subvert the purpose of a traditionally commercial magazine for a community-based, political cause. Also, the ability to use shared personal pronouns "us" would work towards our collective identity formation aim, and the idea that we are writing an article parallels the storytelling approach of the Tenant Tales, just now in written format.
 - Yet, this idea was reevaluated as it did not do much to avoid the 'information overload' problem we identified as troublesome in existing projects. All we had done by this approach was recreating the same information dump but through a more radical, advocacy lens.
-
-### Third (and final) iteration: the Tenant Handbook (https://www.figma.com/proto/2I2GfgxQAwwokmIrc1A0Ha/TenantHandbook-Prototype?type=design&node-id=730-1303&t=BJbMM0HyC95CwbkS-1&scaling=scale-down&page-id=1669%3A162202&starting-point-node-id=730%3A1162&mode=design)
-A new moodboard was proposed, as below. 
-
 <br>
 
+### Third (and final) iteration: the Tenant Handbook (https://www.figma.com/proto/2I2GfgxQAwwokmIrc1A0Ha/TenantHandbook-Prototype?type=design&node-id=730-1303&t=BJbMM0HyC95CwbkS-1&scaling=scale-down&page-id=1669%3A162202&starting-point-node-id=730%3A1162&mode=design)
+For the final iteration, we undertook research into existing 'handbook-like' strategies and evaluated them. This research can be found [here], and based on our findings, we created a mock-up protoype showcasing how our Handbook might look and function:
+<br>
+
+<img width="1141" alt="Screenshot 2024-04-28 at 14 30 06" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/ca0376f2-ea68-4fd0-90a5-dfb22b930cc9">
+<br>
+
+<img width="1143" alt="Screenshot 2024-04-28 at 14 30 48" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/65e05a3f-b8d1-406d-9719-d3dcf730d506">
+<br>
+
+- When users click onto different visual aspects/ objects of the house, a pop up will appear informing them of their tenant responsibilities and rights related to that object
+- We decided that this overcomes the difficulty that government websites implement, whereby they have loads of sections with information which feels like an overwhelming 'information dump'
+- This is a way of achieving the empowerment of tenants with the tools and knowledge of navigating their renting process that is basic and more effective
+<br>
 <br>
 
 This resulted in the final prototype: 
 <br>
 
 ![](https://github.com/soichiro331/soichiro331/blob/main/untitled%20folder%202/Screenshot%202024-04-30%20at%2013.59.16.png)
+<br>
 
+<br>
+
+The textual content of the Handbook can be found here.
 
 ### First iteration: the Tenant Round-Up
 
@@ -442,6 +490,9 @@ Bourassa, S. C. (1993) 'The Rent Gap Debunked', *Urban Studies*, 30(10), pp. 173
 Brown, A., Hurley, M., Perry, S., and Roche, J. (2021) 'Zines as Reflective Evaluation Within Interdisciplinary Learning Programmes', Curriculum, *Instruction, and Pedagogy*, 6, pp. 1-10. Available at: https://doi.org/10.3389/feduc.2021.675329 
 <br>
 
+Brown, M. (2023) *Writing Good Survey Questions: 10 Best Practices*. Available at: https://www.nngroup.com/articles/survey-best-practices/ (Accessed: 8 April 2024).
+<br>
+
 Burgess, J. (2008) ‘Hearing ordinary voices: cultural studies, vernacular creativity and digital storytelling’, *Continuum: Journal of Media and Cultural Studies*, 20(2), pp.201-214. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1177/1461444808089413 
 <br>
 
@@ -461,6 +512,9 @@ Heins, C. (2022) 'Generation Zine: Why the Revival of Zine Culture Is Crucial To
 <br>
 
 Hull, G. A. and Nelson, M. E. (2005) ‘Locating the Semiotic Power of Multimodality’, *Written Communication*, 22(2), pp. 224-261. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1177/0741088304274170 
+<br>
+
+Kohler, T. (2023) *10 Survey Challenges and How to Avoid them*. Available at: https://www.nngroup.com/articles/10-survey-challenges/ (Accessed: 8 April 2024).
 <br>
 
 Lambert, J. (2009) *Digital Storytelling: Capturing Lives, Creating Community*. 3rd edn. Berkeley, CA: Digital Dinner Press.
