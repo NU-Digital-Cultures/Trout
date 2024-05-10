@@ -31,7 +31,7 @@
 - When first asked to rate their general experience with their landlord the mean average was 3.5; with two 5s, one 4, two 3s, and one 1. Then they were asked again later on in the survey once they had shared more of their experience and thought more about it and the results were different. The average changed to 3.17; one 5, two 4s, one 3, one 2 and one 1. This shows us the more thought about response.
 - 2 respondents did not receive their deposit back without issue.
 - We asked our respondents what they would have preferred to know about either their landlord, renting, or their flat before they rented. The responses included: reviews from other tenants, how clean is the room, location, security, regulations, how expensive the bills were in the previous year, what their landlord considers 'clean' when moving out, and what they are required to replace/repair.
-- 
+
 
 ## Discussion of results
 -  We had six respondents to our survey on landlord/rental experience. We decided to conduct a survey to collect real stories and data from real students, this will help us in the creation of the zine as we can tailor our zine to these students. Every participants was asked if we could use their data for our project and they all agreed.​
