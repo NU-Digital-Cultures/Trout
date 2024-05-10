@@ -190,11 +190,14 @@ In order to achieve *Homes to Newcastle*'s aims, we decided on two major critica
 <br>
 
 # 5. Project Design Process and Reflections
-<br>
-Initial ideas that we had for our project were rather distant to the final prototype. Our first ideas centred around a creating a sort of informal 'complaints management' system or an Uber-like rating system of landlords. Ultimately we did not go with these ideas, however they discussed and debunked in our key [project decisions](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/KeyProjectDecisions.md).
+## Development of Ideas and Our Collaborative Process
+Initial ideas that we had for our project were rather distant to the final prototype. Our first ideas centred around a creating a sort of informal 'complaints management' system or an Uber-like rating system of landlords. 
 <br>
 
-These decions were made in relation to our discussions, which are captured on our [meeting log](https://github.com/NU-Digital-Cultures/Trout/blob/main/Project%20Management/MeetingLog.md).
+Ultimately, we did not go with these ideas in the end, however they discussed and debunked in our [key project decisions](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/KeyProjectDecisions.md) table which we used throughout the project to up-keep with out decision-making process.
+<br>
+
+These decions were made in relation to our group discussions which are captured on our [meeting log](https://github.com/NU-Digital-Cultures/Trout/blob/main/Project%20Management/MeetingLog.md).
 <br>
 
 Over time, we updated this [flow diagram](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Direction/ScopeOfProject.md) to capture the full scope of our project. 
@@ -203,13 +206,62 @@ Over time, we updated this [flow diagram](https://github.com/NU-Digital-Cultures
 Alongside discussions with eachother and the creation of offline and online ['to-do' lists](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/Updated%20to%20do%20list.md), we more formally documented our individual taks using a Gantt chart as a [project timeline](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/ProjectTimeline.md). 
 <br> 
 
-Our individual reflections on/ about our project are [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/IndividualReflections.md). 
+## Tenant Talk's Design Process
+The project started with a very basic paper prototype when we were intially brainstorming ideas for our project.
+### First iteration: A Paper Prototype of the Tenant Tales map (Soi)
+![](https://github.com/soichiro331/soichiro331/blob/main/untitled%20folder%202/IMG_9597.JPG)
+- This is the rough paper prototype we created around our 4th week after we had interrogated existing projects.
+- The main idea we gathered from this stage was the importance of non-linear storytelling, which we specifically thought we should capture within an interactive map which would include markers, with stories attached to each marker point.
+- At this stage, the idea of a 'Tenant Round-Up' had not come about, and therefore we conceptualised the map as being just full of qualitative data including submissions and news updates/ stories on renting. This idea was eventually discarded we realised there was no real benefit to having news stories organised by location and overcrowded the map visually/ the map felt like it had lost its sense of purpose.
+- This prototype also showcases our humanization aim of our design process (compared to pre-existing products which are more like manuals).
+<br>
+
+Once we had settled on a somewhat stable idea for our app, we began designing the first opening app page: its visuals, aesthetics, and technical use functions.
+ <br>
+
+### First iteration: the Tenant Talk opening app page (Troy and Ethan)
+![](https://github.com/soichiro331/soichiro331/blob/main/untitled%20folder%202/Screenshot%202024-04-27%20at%2023.01.40.png)
+- The issue we had with this design was the inconsistency of the visual style. The team agreed that this aesthetic of the app was visually heavy, and so a more basic design was favoured to allow greater focus on the content of the app. 
+- This iteration of design has the general flow of the app, but is still linear in nature which conflicts with our focus on non-linear narrative (this is overcome in our second iteraction)
+- 
+- There are aesthetic choices such as the scrapped paper which may add on to the zine aesthetic, however the specific choice of this image feels very 2D for a digital zine and does not do much to convey our app's agenda.
+<br>
+
+### Second iteration: the Tenant Talk opening app page (Blythe)
+- non commercial agenda
+<br>
+
+### Third iteration: improved ideas for the Tenant Talk opening app page (Blythe)
+
+### Fourth (and final) iteration: the Tenant Talk opening app page (Soi)
+The final iteraction is based on the following mood board  below.
+<img width="533" alt="Screenshot 2024-05-10 at 14 48 06" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/0cfde864-0935-4213-84d1-6017dfc02347">
+
+
+### First iteration: the Tenant Handbook 
+- We thought the Handbook should carry over the digital zine aesthetic
+This is our mood board:
+<img width="889" alt="Screenshot 2024-05-10 at 14 46 38" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/d05f1890-8765-4eeb-ae8e-a8b0d254e24c">
+
+
+insert magazine format
+
+
+
+ 
+ At this point, our concern focussed on the technicalities of the map and how we could marry our coding capabilities with how we want to  organise space on the map. Fundamentally, we all agreed that the way we organise space should be a meaningful, or else there is no point in having a map. 
+ This [flow map](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/TenantTalkApp/InteractiveMapIdeas.md) documents this process, capturing some of the design ideas we eventually went with and those we did not (upon reflection of the purpose of our main or due to technical difficulties/ limitations).
 - talk about how we felt digital storytelling needed to become more abstract, including audio and visual artworks/ zines
 - why the Tenant Handbook is so visual and cartoon-like- because normally heavy information dumps. Also what this digital framework allows us to do given it is digital
 <br>
 
-SOI: Why the map is organised via electoral ward boundaries? How does this meaningfully organise space according to our projects objectives?
+### Tenant Handbook
 
+We floated ideas of a heat map, and even using our survey results (ie. what student tenants stipulated most as renting problems) as different filter options on our map. Again, the evaluation of these ideas were recorded on our [key project decisions](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/KeyProjectDecisions.md) file.
+
+The map now includes points-based data on top of area data
+Geospatial data- the marker points not being in the right place which is why we used electoral ward boundaries
+Why the map is organised via electoral ward boundaries? How does this meaningfully organise space according to our projects objectives?
 # 6. Challenges we Faced and how we attempted to Overcome them
 ## Ethical challenges
 We faced difficulties in terms of balancing privacy concerns with the import of having tenant submissions spatially located. We felt that the anonymity of the submissions, although sorted according to area, could constrain the overall utility of our map. However, we realised there would ultimately still be advantages to this approach as it nevertheless permits *Homes to Newcastle* access to nuanced, in-depth, and broad qualitative data that they would not otherwise would not have.
