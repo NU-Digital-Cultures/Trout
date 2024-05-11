@@ -31,9 +31,19 @@ gantt
     Technology Reflection:2024-04-30, 14d
     Upload CIC Research on GitHub:2024-04-30, 14d
     Edit GitHub branches:2024-05-07, 6d
+
     section Soi
-    Collect Critical literautre on digital story telling:2024-03-11, 1d
-    Another task     :after a1  , 20d
+    Collect Critical literature on digital storytelling:2024-03-02, 7d
+    Collecting online tutorials on leafletjs:2024-03-17, 4d
+    Started to code leafletjs:2024-03-19, 3d
+    Reviewed direction of Figma design by troy and Ethan:2024-03-28, 1d
+    Created some code for the map, but abandoned: 2024-04-02, 3d
+    Created Figma Design prototype for the map :2024-04-19, 3d
+    Critiqued direction of Figma design by troy and Ethan:2024-04-20, 1d
+    Started creating my final design for Figma (Main Menu and Tenant Talk):2024-04-22, 13d
+    Started creating TenantHanbook:2024-04-29, 5d
+    Updated READ.me :2024-05-09, 3d
+
     section Ethan
     Possible platforms for Zine:2024-03-05, 5d
     Gentrification research: 2024-03-26, 14d
