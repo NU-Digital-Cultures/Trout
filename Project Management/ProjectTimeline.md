@@ -21,17 +21,25 @@ gantt
     Create portfolio: 2024-05-07, 6d
 
     section Charlotte
+    Write meeting logs:2024-02-20, 60d 
+    Drawing logo design:2024-03-01, 7d
     Create Microsoft Forms Survey:2024-03-26, 7d
-    Survey analysis and Tenant Tales      : 24d
+    Survey analysis and Tenant Tales:2024-04-02, 24d
    Update meeting log: 2024-04-23, 7d
     Condense WhatsApp chat: 2024-04-30, 7d
     Work on first presentation: 2024-05-02, 4d
+    Technology Reflection:2024-04-30, 14d
+    Upload CIC Research on GitHub:2024-04-30, 14d
     section Soi
     Collect Critical literautre on digital story telling:2024-03-11, 1d
     Another task     :after a1  , 20d
     section Ethan
+    Possible platforms for Zine:2024-03-05, 5d
     Gentrification research: 2024-03-26, 14d
+    Research on student grassroot campaigns and debates:2024-04-15, 14d
+    Research on the UI/UX of the app:2024-04-30, 7d
     another task      : 24d
     section Troy
     Researched other apps for inspiration    :2024-03-12  , 12d
     Started version 1 of the tenant talk app      : 24d
+    Tenant Roundup:2024-04-21, 14d
