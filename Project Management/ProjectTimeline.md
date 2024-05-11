@@ -34,6 +34,7 @@ gantt
 
     section Soi
     Collect Critical literature on digital storytelling:2024-03-02, 7d
+    Collected quantitative data on housing prices and other possibly useful resources:2024-03-09, 4d
     Collecting online tutorials on leafletjs:2024-03-17, 4d
     Started to code leafletjs:2024-03-19, 3d
     Reviewed direction of Figma design by troy and Ethan:2024-03-28, 1d
