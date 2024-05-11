@@ -117,8 +117,10 @@ One of the first steps in our project process was outlining what projects alread
 This research led us to the formation of our [problem statement](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Direction/OurProblemStatement.md). However, by this point, we had also considered various framing devices that we wanted to adopt (see section 3).
 <br>
 
+Ultimately, we wanted to build upon what the Anti-Eviction Mapping Project achieves in their 'Tenants Rise Up!' section, which is using a combinaton approach of qualitative data to supplement qualitative, in order to fully capture the tenant experience. We felt that the use of qualitative data provided an essential 'community spirit' dimension to the project, which aligned succinctly with the consideration that this is a campaign project, which, fundamentally, although Tenant Talk is a city-based campaign, is still optimally encapsulated by the "individual-level networks that traverse them" (Breen and Eilstrup-Sangiovanni, 2023). This approach also bolstered our framing device of a digital zine, as zines have been historically created by "socially-outcasted" marginalised communities as a creative outlet for the expression of community issues and as a means for manufacturing an unique community identity (Heins, 2022, para.2-3). Section 4 provides more detail on this.
+
 # 3. Critical Reflection on the Context of Our Project
-Tenant Talk is situated within contextual critical theories and concepts to do with student renting.
+Tenant Talk is situated within contextual critical theories, concepts, and knowledge to do with student renting.
 <br>
 
 ## Gentrification
@@ -161,7 +163,7 @@ Moreover, we created some data visualisations in order to understand the data na
 Our research on the overall student renting experience, current student grassroots campaigns, key debates in student renting, and some recent updates in the renting market and student housing crisis can be found [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/StudentTenants/StudentRenting.md).
 <br>
 
-These contextual considerations are applied to the Tenant Talk app as they provide the ground content for what our app should set out to achieve in best supporting contemporary student renting struggles. 
+These contextual considerations are applied to the Tenant Talk app as they provide the ground content for facilitating our understanding of the struggles student tenans face. This understanding informed us of what our app should set out to achieve and it can best support contemporary student tenants in the renting market.
 
 <br>
 
@@ -181,7 +183,7 @@ In order to achieve *Homes to Newcastle*'s aims, we decided on two major critica
 
 ## 1. Digital Storytelling 
 - We considered a digital storytelling approach through the lens of academic research, which is presented in our [mermaid map](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Digital%20Storytelling/DigitalStorytellingResearch.md).
-- We found that digital storytelling provided a unique way of aligning with Foucault's 'technologies of the self' (Landby, 2008b), that is, the materialist view that through users' interaction with and consequent self-regulation through digital technologies, modern subjects and groups can become to define themselves and their identities through such technologies (Foucault, 1988). Therefore, through digital storytelling, we can facilitate on our platform a space whereby tenant subjects can somewhat free themselves from their current renting situations or constraints by redefining and subverting their reality on their own terms on our app. Our initial take and readings on identity, community, and vernacular formation is [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/TenantTalkIdentity.md). Our aim was to create a collective tenant identity on our platform which intersects in tandem with our contemporary media-saturated society.
+- We chose digital storytelling as we found that it provided a unique way into aligning with Foucault's 'technologies of the self' (Landby, 2008b), that is, the materialist view that through users' interaction with and consequent self-regulation through digital technologies, modern subjects and groups can become to define themselves and their identities through such technologies (Foucault, 1988). Therefore, through digital storytelling, we can facilitate through our platform a space whereby tenant subjects can somewhat free themselves from the current harsh realities  of their renting situations or constraints experienced in the renting market, by permitting tenants to redefine and subverte their current situations onto their own terms on our app. Our initial take and readings on identity, community, and vernacular formation is [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/TenantTalkIdentity.md). Our aim was to create a collective tenant identity on our platform which intersects in tandem with our contemporary media-saturated society.
 <br>
 
 ## 1. (Non-Linear & Interactive) Digital Storytelling 
