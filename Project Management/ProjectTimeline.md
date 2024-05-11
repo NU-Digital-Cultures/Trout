@@ -30,6 +30,7 @@ gantt
     Work on first presentation: 2024-05-02, 4d
     Technology Reflection:2024-04-30, 14d
     Upload CIC Research on GitHub:2024-04-30, 14d
+    Edit GitHub branches:2024-05-07, 6d
     section Soi
     Collect Critical literautre on digital story telling:2024-03-11, 1d
     Another task     :after a1  , 20d
