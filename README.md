@@ -160,11 +160,13 @@ Moreover, we created some data visualisations in order to understand the data na
 <br>
 
 ## Student Renting and the Student Housing Crisis
-Our research on the overall student renting experience, current student grassroots campaigns, key debates in student renting, and some recent updates in the renting market and student housing crisis can be found [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/StudentTenants/StudentRenting.md).
+Our broad research on the overall student renting experience, current student grassroots campaigns, key debates in student renting, and some recent updates in the renting market and student housing crisis can be found [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/StudentTenants/StudentRenting.md).
 <br>
 
 These contextual considerations are applied to the Tenant Talk app as they provide the ground content for facilitating our understanding of the struggles student tenans face. This understanding informed us of what our app should set out to achieve and it can best support contemporary student tenants in the renting market.
+<br>
 
+The student renting experience is considered and theorisded more deeply in relation to our framing devices (in section 4).
 <br>
 
 ## Our Research Method: Our Survey (Tenant Talk, 2024)
@@ -203,10 +205,10 @@ In order to achieve *Homes to Newcastle*'s aims, we decided on two major critica
 🟰
 
 ## Pulling these framing devices together and considering them relational to student renting/ housing conversations :warning:
-- Applying Foucault's 'technologies of the self' more broadly, 
-- How where a student lives shapes their life/ identity and our tool gives students a way to change the power dynamics at play there
-- And how the information asymmetry of landlords-tenants is not just about finding the best price for accomodation, but a deeper set of relationships that the combination of our three approaches can change
-- What is special about the case of student tenants- landlord structures and how our tool works in that context
+- Ultimately, there are a deeper set of stuctural and interpersonal relationships at play in the student renting market. 
+- Applying Foucault's 'technologies of the self' more broadly, student tenants not only shape their identities through self-disciplining technologies, but through this practice, can be empowered to actively participate in shaping their living environment (and renting realities). In this way, our first digital tool (**Tenant Tales**) offers students a way to change the power dynamics at play in their own unique living spaces. The fact that tenant submissions are uploaded and organised by area further promotes this agenda for student tenants. Our second tool (the **Tenant Handbook**) address the information asymmetry between of landlord-tenants, whereby landlords are empowered with knowledge where students may be new to the renting market and possess naive perspectives (ADD THE REFERENCE TO THIS). Therefore, our **Handbook** offers an alternative approach to finding the best price for accomodation on our **Tenant Tales** map. The Handbook approach can change this inequal set of power relationships (FINISH THIS)
+- The **Tenant Round-Up** tool (FINISH THIS)
+- - What is special about the case of student tenants- landlord structures and how our tool works in that context
 <br>
 
 # 5. Project Design Process and Reflections
