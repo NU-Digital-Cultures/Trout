@@ -185,8 +185,6 @@ In order to achieve *Homes to Newcastle*'s aims, we decided on two major critica
 - We considered a digital storytelling approach through the lens of academic research, which is presented in our [mermaid map](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Digital%20Storytelling/DigitalStorytellingResearch.md).
 - We chose digital storytelling as we found that it provided a unique way into aligning with Foucault's 'technologies of the self' (Landby, 2008b), that is, the materialist view that through users' interaction with and consequent self-regulation through digital technologies, modern subjects and groups can become to define themselves and their identities through such technologies (Foucault, 1988). Therefore, through digital storytelling, we can facilitate through our platform a space whereby tenant subjects can somewhat free themselves from the current harsh realities  of their renting situations or constraints experienced in the renting market, by permitting tenants to redefine and subverte their current situations onto their own terms on our app. Our initial take and readings on identity, community, and vernacular formation is [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/TenantTalkIdentity.md). Our aim was to create a collective tenant identity on our platform which intersects in tandem with our contemporary media-saturated society.
 - However, one of the main ethical issues we felt we would have to contend with is the "danger of appropriating someone else's story if they are not given control at all moments" (Dush, 2012, p.631). This entails that, as our platform is acting as a sponsor for tenants' personal stories, the platform which we created for story submissions will ultimately dictate the form, content, and parameters of the stories. This idea also encapsulates McLuhan's cornerstone claim that the 'medium is the message' (McLuhan, 2001)​, that is, the way in which we present the stories will determine and potentially restricg how they are conveyed to other users. To somehwhat overcome this ethical and technical dilemma, we decided to adopt zines as a second framing device (see '2. Zine Culture').
-
-​
 <br>
 
 ## 1 continued. (Non-Linear & Interactive) Digital Storytelling 
@@ -198,14 +196,14 @@ In order to achieve *Homes to Newcastle*'s aims, we decided on two major critica
 
 ## 2. Zine Culture
 - We first interrogated the idea of incorporating zine principles and aesthetics, but in a digital format, in this [mermaid map](https://github.com/NU-Digital-Cultures/Trout/blob/main/Project%20Research/ZineCulture.md).
-- 
-
+- For us, the meaning of incorporating zine ideas was to ensure that our tenant submissions were not confined or shaped by our app in any way. Zine entries are in flexible formats and we wanted our submissions to be self-published, self-determined, reflective, and critical narratives.
+- Our zine approach is justified in that it has been argued that the cultural impact of zines would be greater now than in our modern technological age (Heins, 2022). The fact that we are using a digital tool to convey a zine permits it greater reach and levels of interactivity with users. This will provide Tenant Talk with more effective and/ or novel ways of capturing tenant experiences- also capturing them more widely- and producing identity. 
 <br>
 
 🟰
 
 ## Pulling these framing devices together and considering them relational to student renting/ housing conversations :warning:
-- Applying Foucault's 'technologies of the self' more broadly,
+- Applying Foucault's 'technologies of the self' more broadly, 
 - How where a student lives shapes their life/ identity and our tool gives students a way to change the power dynamics at play there
 - And how the information asymmetry of landlords-tenants is not just about finding the best price for accomodation, but a deeper set of relationships that the combination of our three approaches can change
 - What is special about the case of student tenants- landlord structures and how our tool works in that context
