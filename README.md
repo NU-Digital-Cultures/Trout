@@ -87,10 +87,10 @@ Given the semantic terminology of the brief implies a necessity to "expose" and 
 - No-fault evictions
  <br>
 
- The **Tenant Handbook** fundamentally empowers tenants with the knowledge, tools, and feeling of social capital (Bourdieu, 1984)/ power to navigate the renting market and their tenancies by being incredibly informative and advisory of the best approaches to navigating difficult renting situations or troublesome landlords. It empowers students to make well-founded demands for a safe, stable, and good quality housing by acting as a vital and easy to comprehend 'what to do' student digital pocket handbook for renting.
+The **Tenant Handbook** fundamentally empowers tenants with the knowledge, tools, and feeling of social capital (Bourdieu, 1984)/ power to navigate the renting market and their tenancies by being incredibly informative and advisory of the best approaches to navigating difficult renting situations or troublesome landlords. It empowers students to make well-founded demands for a safe, stable, and good quality housing by acting as a vital and easy to comprehend 'what to do' student digital pocket handbook for renting.
 <br>
  
-3. **The Tenant Round-up** operates as a centralised news hub within the application. Its purpose is to meet the users’ requirements for current and relevant news articles. This feature also promotes a community atmosphere by enabling discussions among users about the news stories, thereby keeping users informed about situations of interest.<br>
+ 3. **The Tenant Round-up** operates as a centralised news hub within the application. Its purpose is to meet the users’ requirements for current and relevant news articles. This feature also promotes a community atmosphere by enabling discussions among users about the news stories, thereby keeping users informed about situations of interest.<br>
 
 The user interface of this feature is arranged in a series of tiles, with each tile representing a unique news story. Each tile displays an image that corresponds to the story’s content and is accompanied by the story’s title. This layout allows users to navigate through the news articles with ease and select the ones that capture their interest.
 When a user selects a tile, they are presented with a concise summary of the news report, providing a quick overview of the story. For users interested in more in-depth information, a link to the original source of the information is provided at the bottom of the screen. This ensures that users can access the full content if they wish to explore the story further.
@@ -98,7 +98,7 @@ When a user selects a tile, they are presented with a concise summary of the new
 
 The **Tenant Round-up** is an extension of the principles outlined when developing **Tenant Handbook**. It emphasizes the fundamental concept that knowledge equips individuals with the power to navigate housing matters effectively and to challenge substandard landlords. In addition, the implementation of the comment section serves to cultivate a sense of community among users. As Katt Deaven (2020) articulates, “News comment sections give readers opportunities to interact, to discuss stories, and to learn from each other.” This statement underscores the importance of interactive platforms in fostering community engagement and shared learning experiences.
 
-   <br>
+<br>
 
 
 
@@ -184,9 +184,12 @@ In order to achieve *Homes to Newcastle*'s aims, we decided on two major critica
 ## 1. Digital Storytelling 
 - We considered a digital storytelling approach through the lens of academic research, which is presented in our [mermaid map](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Digital%20Storytelling/DigitalStorytellingResearch.md).
 - We chose digital storytelling as we found that it provided a unique way into aligning with Foucault's 'technologies of the self' (Landby, 2008b), that is, the materialist view that through users' interaction with and consequent self-regulation through digital technologies, modern subjects and groups can become to define themselves and their identities through such technologies (Foucault, 1988). Therefore, through digital storytelling, we can facilitate through our platform a space whereby tenant subjects can somewhat free themselves from the current harsh realities  of their renting situations or constraints experienced in the renting market, by permitting tenants to redefine and subverte their current situations onto their own terms on our app. Our initial take and readings on identity, community, and vernacular formation is [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/TenantTalkIdentity.md). Our aim was to create a collective tenant identity on our platform which intersects in tandem with our contemporary media-saturated society.
+- However, one of the main ethical issues we felt we would have to contend with is the "danger of appropriating someone else's story if they are not given control at all moments" (Dush, 2012, p.631). This entails that, as our platform is acting as a sponsor for tenants' personal stories, the platform which we created for story submissions will ultimately dictate the form, content, and parameters of the stories. This idea also encapsulates McLuhan's cornerstone claim that the 'medium is the message' (McLuhan, 2001)​, that is, the way in which we present the stories will determine and potentially restricg how they are conveyed to other users. To somehwhat overcome this ethical and technical dilemma, we decided to adopt zines as a second framing device (see '2. Zine Culture').
+
+​
 <br>
 
-## 1. (Non-Linear & Interactive) Digital Storytelling 
+## 1 continued. (Non-Linear & Interactive) Digital Storytelling 
 - We also conducted further research into [non-linear and interactive storytelling](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Digital%20Storytelling/InteractiveNonLinearStorytelling.md). This consisted of researching storytelling approaches that we could take inspiration from, from which would develop our own digital storytelling approach. Here we also interrogated the potential ethical, political, and social implications of interactive storytelling.
 - Here is our [non-linear storytelling visual](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Digital%20Storytelling/NonLinearStorytellingVisual.md), the non-linear torytelling theory that we used to underpin our **Tenant Tales** interactive map.
 <br>
@@ -194,6 +197,7 @@ In order to achieve *Homes to Newcastle*'s aims, we decided on two major critica
 ➕
 
 ## 2. Zine Culture
+- We first interrogated the idea of incorporating zine principles and aesthetics, but in a digital format, in this [mermaid map](https://github.com/NU-Digital-Cultures/Trout/blob/main/Project%20Research/ZineCulture.md).
 - 
 
 <br>
@@ -567,6 +571,9 @@ Lundby, K. (2008a) *Digital Storytelling, Mediatized Stories: Self-representatio
 <br>
 
 Lundby, K. (2008b) ‘Editorial: mediatized stories: mediation perspectives on digital storytelling’, *New Media & Society*, 10(3), pp. 363-371. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1177/1461444808089413
+<br>
+
+McLuhan, M. (2001) Understanding Media. London: Taylor & Francis Group.
 <br>
 
 Medium (2018) *Student Gentrification*. Available at: https://medium.com/@3pointohnine/student-gentrification-fc5e316e3280 (Accessed: 31 March 2024).
