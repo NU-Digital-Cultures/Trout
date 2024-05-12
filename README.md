@@ -419,7 +419,7 @@ Inspired by the mock-up prototype that Blythe made, I created a visually eye-cat
 ### First iteration: the Tenant Round-Up (Troy and Ethan)
 As the **Tenant Round-up** was the final part of the app to be designed, many of the previously mentioned challenges in terms of design were already identified and addressed. This facilitated a swift development of the User Interface (UI), particularly in relation to the colour scheme and the placement of buttons, necessitating only a single interaction.
 Gordon and Gibbons (2022) stated that “A design will look unprofessional and lack polish when visual elements are used inconsistently or sporadically.” In alignment with their observations, the UI of the **Tenant Round-up** adhered to the same thematic consistency as the rest of the application. This ensured a uniform and professional appearance throughout the application.
-<br?
+<br>
 
 The only minor addition that we added to this first prototype was the tenant commentary section, as we felt the news stories idea fell flat stood on its own; it needed some kind of tenant participation to bring it into the fold of our digital storytelling agenda.
 
@@ -456,7 +456,16 @@ Another challenge we faced was visual clutter. The second iteration of our app d
 
 # 7. Reflection on the hypothetical 'real-life' implications of TenantTalk
 ## Verification Process
-ETHAN to fill this in
+All submissions to the app will come directly to us first and undergo checks before uploaded onto the app. This users creating an account and signing to a Term of Services agreement (see below) which prohibits the submission of fake stories or claims. 
+<br>
+
+And for us, we need to check for inappropriate words and phrases, images, voice notes, and artwork details promptly.
+<br>
+
+Equally follow to the GDPR (General Data Protection Regulations) standards, the "identificable details"  shoould not be disclosed.
+<br>
+
+Rather than putting a rejection system entirely, we prefer to make necessary edits to submission to make them acceptable to submit.
 <br>
 
 ## Sustainability of Our Platform
