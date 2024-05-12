@@ -195,6 +195,7 @@ In order to achieve *Homes to Newcastle*'s aims, we decided on two major critica
 <br>
 
 ➕
+<br>
 
 ## 2. Zine Culture
 - We first interrogated the idea of incorporating zine principles and aesthetics, but in a digital format, in this [mermaid map](https://github.com/NU-Digital-Cultures/Trout/blob/main/Project%20Research/ZineCulture.md).
@@ -203,12 +204,16 @@ In order to achieve *Homes to Newcastle*'s aims, we decided on two major critica
 <br>
 
 🟰
+<br>
 
 ## Pulling these framing devices together and considering them relational to student renting/ housing conversations :warning:
-- Ultimately, there are a deeper set of stuctural and interpersonal relationships at play in the student renting market. It is not just the fact of landlords neglecting their economic and/ or legal commitments at properties, or acting unreasonably/ illegitmately towards the student tenants in their properties, but that there are stark power imbalances under-wiring such landlord- student tenant relations. 
-- Applying Foucault's 'technologies of the self' more broadly, student tenants not only shape their identities through self-disciplining technologies, but through this practice, can be empowered to actively participate in shaping their living environment (and renting realities). In this way, our first digital tool (**Tenant Tales**) offers students a way to change the power dynamics at play in their own unique living spaces. The fact that tenant submissions are uploaded and organised by area further promotes this agenda for student tenants. Our second tool (the **Tenant Handbook**) address the information asymmetry between of landlord-tenants, whereby landlords are empowered with knowledge where students may be new to the renting market and possess naive perspectives (ADD THE REFERENCE TO THIS). Therefore, our **Handbook** offers an alternative approach to finding the best price for accomodation on our **Tenant Tales** map. The Handbook approach can change this inequal set of power relationships (FINISH THIS)
-- The **Tenant Round-Up** tool (FINISH THIS)
-- - What is special about the case of student tenants- landlord structures and how our tool works in that context
+Ultimately, there are a deeper set of stuctural and interpersonal relationships at play in the student renting market. It is not just the fact of landlords neglecting their economic and/ or legal commitments at properties, or acting unreasonably/ illegitmately towards the student tenants in their properties, but that there are stark power imbalances under-wiring such landlord- student tenant relations. Landlords hold the largest portions of power due to their "class-monopoly" over rent, which is bolstered by both the tenancy agreement itself and the fact that class possession over an "urban resource" (like housing) sets the tone for the outcome of any "conflict with a class of consumers of that resource" (Harvey, 1979, p.239). In essence, 'class-monopoly rent' entails that landlords possess the ultimate leveraging and 'bargaining powers' in landlord-student tenant relations due to their ownership of the properties, deciding of rent prices, and control over their property's living conditions. This leaves tenants often in weaker power positions, as they must negotiate their terms within the constraints of the landlord's fundamental hegemony over (essentially) the entirety of so-called 'mutual' contractual renting agreement/ situation. Moreover, power distributions can then further sway heavier on part of the landlord due to "multiplier effects internal" to the class-monopoly rent, occurring for example when demand increases in city areas for housing lead to subsequent increases in rent (opposed to landlords independently setting rent increases or acting for their own economic agendas simultaneously with this development), causing what are initially "community conflicts" to become fundamental class struggles (Harvey, 1979, p.239). This showcases that a deeper set of power relationships manifest in the renting/ housing market compared to other markets which are inbuilt more of an equal footing amongst all recipients involved in contractual agreements. The structural socio-economic mechanics of the renting market intrinsically and asymmetrically favour landlords, forcing and/ or keeping student tenants in marginalised social and economic class positions.
+<br>
+
+Additionally, it follows that landlords can begin to play pivotal roles in shaping student tenants' daily lives and housing experiences (Li, 2023). Given that landlords in the majority of cases possess powers to no-fault evict tenants and terminate their tenancies- which, the Renters Reform Bill 2022-23 recently failed to abolish (ref- Cromarty?)- landlords dictate for tenants a lack of a physically (and feeling of a) 'secure occupancy' (Byrne and McArdle, 2020). Moreover, tenants' lifestyle choices such as visitors, pet-keeping, property decoration/ interior design decisions are all monitored and decided by the landlord (Bryne and McArdle, 2020; Power, 2017). Tenants' financial statuses (as per consequence of landlords setting rent costs unregulatedly so), (potentially poor) living conditions, maintenance of the property, and repair of the property/ most items within the property are also consequential of the landlord's ruling (Kloos, et al., 2002; Chisholm et al., 2017). This abundantly articlates that student tenants' daily life experiences and living conditions are moulded by the **unconstrained will** of their landlord, which can further lead to alienating feelings of de-territorialisation in what is meant to be their 'home spaces' and mental health struggles such as anxiety, depression, and stress for tenants (Soaita and McKee, 2019). Therefore, by applying Foucault's 'technologies of the self' more broadly, student tenants can not only shape their identities through a self-disciplining technology such as our app, but through this practice, can then be empowered to more actively and powerfully participate in shaping their living environments (and renting realities) on their own terms and in new ways. In this vein, our first digital tool (the **Tenant Tales**) offers student tenants a platform to change the power dynamics at play in their own unique living spaces. As Soita and McKee point, what is essential in overcoming tenants' struggles is the "emergence of a tenants' 'collective body'" as well as "casting tenants' housing ill-being as a matter of public concern" (2019, page). By tenants submitting and presenting their own personal stories and perspectives on Tenant Talk, they are successfully "appropriating some of the dissipated agency of the [home] assemblage" (Soita and McKee, 2019, page), effectively adopting a new form of a shared tenant digital identity and agency, and casting socio-economical and structural crisises rooted within the tenant identity onto a public platform and as a matter of crucial concern. The fact that tenant submissions are uploaded and organised by area further promotes this agenda for student tenants as it creates a mental associative link between the formulated tenant story and the lived reality of the experience in a particular location. Notwithstanding, our rent price data analysis displayed by location on the **Tenant Tales** map offers an alternative approach to supporting students by not only presenting existing tenant stories which may inform where they might want to rent themselves, but also by helping them find the best price for accomodation in Newcastle.
+<br>
+
+Our second tool (the **Tenant Handbook**) addresses the information asymmetry between of landlord-tenants, whereby landlords are already empowered with renting market knowledge which students may be new and potentially naive to. The **Handbook** does not provide a re-dictation of experience like the **Tales** map as such, but offers an alternative approach of re-dictating the reality where student tenants are less informed on their rights and responsibilities than their landlord (Asquith, 2016; Tenant Talk, 2024). Our third tool (the **Tenant Round-Up**) similarly overcomes the working context of unequal student tenant-landlord relations whereby landlords have been conventionally more favoured in the renting market (as discussed in the prior paragraph) and in terms of the content of tenancy agreements, despite Ombudsmans' conclusions that the court will not favour landlords or tenants in any court rulings (UK Government, 2023). Yet, as the renting law is empowering both tenants and landlords equally to start with, promises of equal favourings in the court decision-making and resolution provides no consolation. Equally, the Renters Reform Bill 2022-23 that would have provided more leveraging rights for tenants, will no longer be passed in October/ November of 2024 as planned, leaving tenants susceptible to the same renting laws that have kept them historically marginalised. The **Round-Up** therefore, at its more minimum capacity, offers tenants up-to-date, reliable, and news-based content to do with changes in their renting rights and statuses.
 <br>
 
 # 5. Project Design Process and Reflections
@@ -514,6 +519,10 @@ Brown, A., Hurley, M., Perry, S., and Roche, J. (2021) 'Zines as Reflective Eval
 Brown, M. (2023) *Writing Good Survey Questions: 10 Best Practices*. Available at: https://www.nngroup.com/articles/survey-best-practices/ (Accessed: 8 April 2024).
 <br>
 
+Byrne, M. and McArdle, R. (2022) 'Secure occupancy, power and the landlord-tenant relation: a quaalitative exploration of the Irsih private rental sector, *Housing Studies*, 37(1), pp. 124-142. Available at:
+<br>https://doi.org/10.1080/02673037.2020.1803801
+<br>
+
 Burgess, J. (2008) ‘Hearing ordinary voices: cultural studies, vernacular creativity and digital storytelling’, *Continuum: Journal of Media and Cultural Studies*, 20(2), pp.201-214. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1177/1461444808089413 
 <br>
 
@@ -546,6 +555,9 @@ Foucault, M (1988) 'Technologies of the self', in L. H. Martin, H. Gutman and P.
 Gordon, K. and Gibbons, S. (2022) Why does a design look good?, Nielsen Norman Group. Available at: https://www.nngroup.com/articles/why-does-design-look-good/ (Accessed: 10 May 2024). 
 <br>
 
+Harvey, D. (1974) 'Class-monopoly rent, finance capital and the urban revolution', *Regional Studies*, 8(3–4), pp. 239–255. Available at: https://doi.org/10.1080/09595237400185251
+<br>
+
 Heins, C. (2022) 'Generation Zine: Why the Revival of Zine Culture Is Crucial Today', *New University*, 8 January. Available at: https://newuniversity.org/2022/01/08/generation-zine-why-the-revival-of-zine-culture-is-crucial-today/ (Accessed 18 March 2024).
 <br>
 
@@ -562,6 +574,9 @@ Lessig, L. (2004) *Free Culture: How Big Media Uses Technology and the Law to Lo
 <br>
 
 Ley, D. (2003) 'Artists, Aestheticisation and the Field of Gentrification', *Urban Studies*, 40(12), pp. 2527-2544. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1080/0042098032000136192
+<br>
+
+Li, B. (2023) 'The realization of class-monopoly rents: Landlords' class power and impact on tenants' housing experiences', *Journal of Urban Management*, 12(4), pp. 360-364. Available at: https://doi.org/10.1016/j.jum.2023.08.002
 <br>
 
 Local Government Association (2024) *Renters' Reform Bill, Report Stage, House of Commons, 23 April 2024*. Available at: https://www.local.gov.uk/parliament/briefings-and-responses/renters-reform-bill-report-stage-house-commons-23-april-2024#:~:text=Procurement-,Renters'%20Reform%20Bill%2C%20Report%20Stage%2C%20House%20of%20Commons%2C,private%20rented%20sector%20(PRS) (Accessed: 28 April 2024).
