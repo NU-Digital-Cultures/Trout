@@ -437,29 +437,29 @@ This is the [html](https://github.com/NU-Digital-Cultures/Trout/tree/tenant-talk
 
 # 6. Challenges we Faced and how we attempted to Overcome them
 ## Ethical challenges
-As our initial idea of having tenant submissions on the **Tenant Tales** map attached to specific properties was rejected for ethical reasons, and we had instead justified the approach of organising tenant submissions as per general area, this then (still) led us to face further ethical difficulties in terms of balancing privacy concerns with the import of having tenant submissions spatially located by area. We felt that the anonymity of the submissions, although sorted according to area, could constrain the overall utility of our map. However, we realised there would ultimately still be advantages to this approach as it nevertheless permits *Homes to Newcastle* access to nuanced, in-depth, and broad qualitative data that they would not otherwise would not have. 
+As our initial idea of having tenant submissions on the **Tenant Tales** map attached to specific properties was rejected for ethical reasons, and we had instead justified the approach of organising tenant submissions as per general area, this then (still) led us to face further ethical difficulties in terms of balancing privacy concerns with the import of having tenant submissions spatially located by area. We felt that the anonymity of the submissions, although sorted according to area, could constrain the overall utility of our map as it would be harder to verify the accurary and credibility of the information provided and there is no individual accountability of the submissions, meaning they could be false or misleading. However, we realised there there are ultimately still advantages to this approach as an anonymous map nevertheless permits *Homes to Newcastle* access to nuanced, in-depth, and broad qualitative data that they would not otherwise would not be privy to. Even if some submissions are inaccurate portrayals of events, they nevertheless conveys what student tenants' perspectives actually are and having this data available for specific regions allows *Homes to Newcastle*, and indeed our supporting project, to make more informed decisions on their approach to support student tenants in Newcastle.
 <br>
 
-Moreover, having publicly available data for regions
-
 ## Technical challenges
-We found that geospatial data can be rather limited in terms of accuracy of area boundaries, however we felt this was not a point of contention given the similarly broad and loose nature of our app submissions process; submissions just needed to be roughly organised per area for the purposes of clear visual understanding.
+We found that geospatial data can be rather limited in terms of accuracy of area boundaries. However, we felt this was not a point of contention given the similarly broad and loose nature of our app submissions process; submissions just needed to be roughly organised per area for the purposes of clear visual understanding.
+<br>
 
-Furthermore, the submission process requires a server to receive and manage the data within the app which is hard to achieve and replicate with the knowledge in coding we have right now. Realistically this would be done through a combination of javascript and php, and hosted on a website which mobile users can either visit via their search engine so updates can be done easily. However, at this current stage the best option without developing a php page will be to manually collect survey data with word of mouth and manual update.
+Furthermore, the submission process requires a server to receive and manage the data within the app which is hard to achieve and replicate with the knowledge in coding we have right now. Realistically this would be done through a combination of javascript and php, and hosted on a website which mobile users can either visit via their search engine so updates can be done easily. However, at this current stage, the best option without developing a php page will be to manually collect submissions data via word of mouth and manual update.
 <br>
 
 ## Design challenges
+The most prominant challenge we faced at the start and also throughout our design process was the design/ format of the app being too restricted when we wanted it to be more like a digital zine. We proposed a digital zine from the start and throughout the project it became a constant point of discussion: that is how we can best convey our community-based cause and our self-dictated, 'hand-made' aesthetic. This led us to experiment with a couple of designs, such as trying to draw the cover page and the logo with paper and pencil, as well as trying out digital collages with hints of analogue tastes with pngs of ripped paper to layer. All of these designs felt too forced and unnatural to us, and the end, we resolved this issue by changing our perspective on zines, and trying to grasp the essence of its strengths conceptually rather than with just purely aesthetics. This was done through a more interactive and user-based app structure, such as the addition of user-generated artworks in the **Tenant Tales** and comment sections in the **Tenant Round-Up**.
 <br>
-One of the challenges we faced at the start of our design process was being too restricted with the idea of a zine. Whilst we did propose a digital zine from the start, we wanted to convey the community based and hand-made aesthetic and the message that holds in to our final product. This led us to experiment with a couple of designs, such as trying to draw the cover page and the logo with paper and pencil, as well as trying out digital collages with hints of analogue tastes with pngs of ripped paper to layer. At the end, we resolved this issue by changing our perspective on zines, and trying to grasp the essence of its strengths conceptually rather than with just aesthetics. This was done through a more interactive and user based app structure, such as the addition of user-generated artworks.
-<br>
-Another challenge we faced was visually clutter. The second iteration of our app design as shown in AppDesignProcess.md initially captured the concept of Newcastle with its photorealistic elements. However, discussion led us to conclude that going for a more minimalistic design may suit the app at the end as it is easier to visually interpret, meaning it has a wider reach in audience. Overall this may have been a better design choice as the core of the issue; housing crisis for students and minorities, applies not only to Newcastle but the wider UK demographic. 
+
+Another challenge we faced was visual clutter. The second iteration of our app design initially captured the concept of **Homes to Newcastle** being made for the Newcastle area, by incorporating its photorealistic elements. However, group discussion led us to conclude that going for a more minimalistic design may suit the app in the end as it is easier to visually interpret and simple usability makes it more easily accessible for a wider audience. Overall, this may have been a better design choice also as the core of our issue, the housing crisis for students, applies not only to Newcastle but the wider UK demographic. 
 
 
 # 7. Reflection on the hypothetical 'real-life' implication of TenantTalk
-<br>
 - The entire platform being based off of a non-profit organization advocating for tenants rights means that there is no direct source of income for the org to run the platform on the web, let alone an app. Whilst it is plausible to get funding through campaigns and fundraisers aimed specifically for this goal, in the long-term it is a unsustainable model, unless features such as in-app ads are implemented.
 
-## Data Protection
+## Data Protection and the Acessibillity of Our Platform
+Non-discrimination
+<br>
 
 ## Verification Process
 
@@ -478,9 +478,7 @@ A ToS agreement will be required for Tenant Talk. We did not have the time to wr
 
 <br>
 
-## Acessibillity of Our Platform
-Non-discrimination
-<br>
+
 
 # 8. Our Digital Approach
 **Figma:**
