@@ -106,3 +106,11 @@ Blythe, Charlotte, Ethan and Soi
 - We decided to go with our abstract storytelling approach, allowing submissions to be artwork/ poems/ images etc
 - We reduced the number of figma pages by combining the interactive map with the stories
 <br>
+
+## Meeting 12 - 6/05/24 @ 11am in Costa on St Mary's Place
+- Consolodated last presentation details
+- Discussed what we were going to talk about in the presentation
+- Outlined outstanding tasks for the portfolio
+- Finished Tenant Roundup and added tenant contributions to Tenant Talk figma interactive map
+<br>
+
