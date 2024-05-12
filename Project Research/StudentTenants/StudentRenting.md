@@ -158,8 +158,11 @@ This debate in this website is based on a <b>rent dispute</b> between students a
 - Explains the House of Commons paper above 
 <br>
 
+The next two readings contain the stipulations and intentions of the new Renters Reform bill 2022-23...
 ### Local Government Association (2024) *Renters' Reform Bill, Report Stage, House of Commons, 23 April 2024*. Available at: https://www.local.gov.uk/parliament/briefings-and-responses/renters-reform-bill-report-stage-house-commons-23-april-2024#:~:text=Procurement-,Renters'%20Reform%20Bill%2C%20Report%20Stage%2C%20House%20of%20Commons%2C,private%20rented%20sector%20(PRS).
-- This explains the Renters' Reform Bill intentions
+<br>
+
+### UK Government (2023) *Guide to the Renters (Reform) Bill*. Available at: https://www.gov.uk/guidance/guide-to-the-renters-reform-bill (Accessed: 28 April 2024).
 <br>
 
 ### Cromarty, H. (2024) *Renters' Reform Bill* (House of Commons Library briefing paper 10004). Available at: https://researchbriefings.files.parliament.uk/documents/CBP-10004/CBP-10004.pdf
