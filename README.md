@@ -163,10 +163,10 @@ Moreover, we created some data visualisations in order to understand the data na
 Our broad research on the overall student renting experience, current student grassroots campaigns, key debates in student renting, and some recent updates in the renting market and student housing crisis can be found [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/StudentTenants/StudentRenting.md).
 <br>
 
-These contextual considerations are applied to the Tenant Talk app as they provide the ground content for facilitating our understanding of the struggles student tenans face. This understanding informed us of what our app should set out to achieve and it can best support contemporary student tenants in the renting market.
+These contextual considerations are applied to the Tenant Talk app as they provide the ground content for facilitating our understanding of the struggles student tenans face. This understanding informed us of what our app should set out to achieve and how it can best support student tenants in the contemporary, ever-changing renting market.
 <br>
 
-The student renting experience is considered and theorisded more deeply in relation to our framing devices (in section 4).
+The student renting experience is considered and theorised more deeply in section 4 (and in relation to our project's framing devices).
 <br>
 
 ## Our Research Method: Our Survey (Tenant Talk, 2024)
@@ -180,7 +180,7 @@ The results of our survey were used to inform the production of our app, in that
 <br>
 
 # 4. Tenant Talk's Framing Devices
-In order to achieve *Homes to Newcastle*'s aims, we decided on two major critical framing devices that would uniquely shape our project, which are briefly summarised below. These devices steer the creative direction of our **Tenant Tales** interactive map.
+In order to achieve *Homes to Newcastle*'s aims, we decided on two major critical framing devices that would uniquely shape our project, which are briefly summarised below. These devices mostly steer the creative direction of our **Tenant Tales** interactive map, however, the principles underpinning them are carried over to all three of our app sections.
 <br>
 
 ## 1. Digital Storytelling 
