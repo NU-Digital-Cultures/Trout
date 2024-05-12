@@ -461,13 +461,14 @@ ETHAN to fill this in
 
 ## Sustainability of Our Platform
 As our entire platform is based off and funded by a non-profit organization advocating for tenants rights, there is no direct source of income for *Homes to Newcastle* to run the platform. Whilst it is plausible to get funding through campaigns and fundraisers aimed specifically for this goal, or perhaps relying on volunteers to donate their verify our tenant submissions, our app could long-term be an unsustainable model, unless features such as in-app ads are implemented. However, this directly conflicts with **Tenant Talk**'s non-commercial agenda and if we were to pay individuals to verify submissions the app would need to be well funded in order to avoid enforcing low paid micro-task related jobs like Mechanical Turk. It could be the case that we could acquire funding from Newcastle City Council on the basis that our project aims to work towards formulating an "inclusive economy", 
-"helping individuals to regain confidence", "connect to their communities", and that the beneficiaries are Newcastle tenant residents (Newcastle City Council, 2024).
+"helping individuals to regain confidence", "connect to their communities", and that the beneficiaries are Newcastle tenant residents (Newcastle City Council, 2024b).
 <br>
 
 However, if funding resource issues were to be overcome, **Tenant Talk** could become a very sustainable platform as it allows *Homes to Newcastle* access to an uncharted territory of readily availlable, mass qualitative digital data stories opposed to the organisation going door-to-door to talk to students. The meaningful qualitative data can be used as informative evidence for the organisation in how they can best support student tenants, but also as evidence to provoke improvements in the housing and renting market/ push through rental reforms in the wider UK.
 <br>
 
 ## Data Protection and the Acessibillity of Our Platform
+Our break down of the data protection regulations we would need to comply with is [here](https://github.com/NU-Digital-Cultures/Trout/blob/main/'Real-life'%20Implications/HandlingUserData.md). However, in summation:
 ETHAN TO FILL THIS IN FROM ETHANS PRESENTATION SLIDES
 <br>
 
@@ -616,8 +617,10 @@ Malone, M. (2023) 'Existential housing crisis at UK universities leaves students
 National Union of Students (2024) *Housing Policy*. Available at: https://www.nus.org.uk/housing#:~:text=Many%20students%20find%20themselves%20in,prioritise%20employment%20over%20their%20degrees. (Accessed: 22 April 2024).
 <br>
 
-Newcastle City Council (2024) *Private Rented Service Newcastle*. Available at: https://www.newcastle.gov.uk/private-rented-service-newcastle (Accessed: 1 April 2024).
+Newcastle City Council (2024a) *Private Rented Service Newcastle*. Available at: https://www.newcastle.gov.uk/private-rented-service-newcastle (Accessed: 1 April 2024).
 <br>
+
+Newcastle City Council (2024b) *Newcastle Fund*. Available at: https://new.newcastle.gov.uk/communities/grants-funding/funding-voluntary-community-organisations/newcastle-fund/what-newcastle-fund-funds#:~:text=We%20can%20fund%20costs%20for,involved%20in%20running%20that%20project. (Accessed: 9 May 2024).
 
 Newcastle: Ltd (2023) *The Gentrification And Urban Development Of Newcastle Upon Tyne*. Available at: https://newcastle.ltd/the-gentrification-and-urban-development-of-newcastle-upon-tyne/ (Accessed: 31 March 2024).
 <br>
