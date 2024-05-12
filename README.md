@@ -464,7 +464,7 @@ As our entire platform is based off and funded by a non-profit organization advo
 "helping individuals to regain confidence", "connect to their communities", and that the beneficiaries are Newcastle tenant residents (Newcastle City Council, 2024).
 <br>
 
-However, if funding resource issues were to be overcome, **Tenant Talk** could become a very sustainable platform as it allows *Homes to Newcastle* access to an uncharted territory of readily availlable, mass qualitative digital data stories opposed to the organisation going door-to-door to talk to students. The meaningful qualitative data can be used as evidence to improve the housing market/ push through rental reforms in the wider UK.
+However, if funding resource issues were to be overcome, **Tenant Talk** could become a very sustainable platform as it allows *Homes to Newcastle* access to an uncharted territory of readily availlable, mass qualitative digital data stories opposed to the organisation going door-to-door to talk to students. The meaningful qualitative data can be used as informative evidence for the organisation in how they can best support student tenants, but also as evidence to provoke improvements in the housing and renting market/ push through rental reforms in the wider UK.
 <br>
 
 ## Data Protection and the Acessibillity of Our Platform
