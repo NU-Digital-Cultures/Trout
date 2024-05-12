@@ -16,6 +16,6 @@ Reasons why we made the decisions we did surrounding our digital platform and te
 <br>
 
 ### References
-'Figma' (2024) Wikipedia. Available at: https://en.wikipedia.org/wiki/Figma (Accessed: 2 May 2024)
-Juliver, J. (2024) 'What is GitHub? (And What Is It Used For?)', Hubspot, 1st April. Available at: https://blog.hubspot.com/website/what-is-github-used-for#:~:text=GitHub%20is%20an%20online%20software,developers%20on%20open%2Dsource%20projects. (Accessed: 2 May 2024).
+- 'Figma' (2024) Wikipedia. Available at: https://en.wikipedia.org/wiki/Figma (Accessed: 2 May 2024)
+- Juliver, J. (2024) 'What is GitHub? (And What Is It Used For?)', Hubspot, 1st April. Available at: https://blog.hubspot.com/website/what-is-github-used-for#:~:text=GitHub%20is%20an%20online%20software,developers%20on%20open%2Dsource%20projects. (Accessed: 2 May 2024).
 <br>
