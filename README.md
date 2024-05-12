@@ -451,18 +451,24 @@ Furthermore, the submission process requires a server to receive and manage the 
 The most prominant challenge we faced at the start and also throughout our design process was the design/ format of the app being too restricted when we wanted it to be more like a digital zine. We proposed a digital zine from the start and throughout the project it became a constant point of discussion: that is how we can best convey our community-based cause and our self-dictated, 'hand-made' aesthetic. This led us to experiment with a couple of designs, such as trying to draw the cover page and the logo with paper and pencil, as well as trying out digital collages with hints of analogue tastes with pngs of ripped paper to layer. All of these designs felt too forced and unnatural to us, and the end, we resolved this issue by changing our perspective on zines, and trying to grasp the essence of its strengths conceptually rather than with just purely aesthetics. This was done through a more interactive and user-based app structure, such as the addition of user-generated artworks in the **Tenant Tales** and comment sections in the **Tenant Round-Up**.
 <br>
 
-Another challenge we faced was visual clutter. The second iteration of our app design initially captured the concept of **Homes to Newcastle** being made for the Newcastle area, by incorporating its photorealistic elements. However, group discussion led us to conclude that going for a more minimalistic design may suit the app in the end as it is easier to visually interpret and simple usability makes it more easily accessible for a wider audience. Overall, this may have been a better design choice also as the core of our issue, the housing crisis for students, applies not only to Newcastle but the wider UK demographic. 
+Another challenge we faced was visual clutter. The second iteration of our app design initially captured the concept of *Homes to Newcastle* being made for the Newcastle area, by incorporating its photorealistic elements. However, group discussion led us to conclude that going for a more minimalistic design may suit the app in the end as it is easier to visually interpret and simple usability makes it more easily accessible for a wider audience. Overall, this may have been a better design choice also as the core of our issue, the housing crisis for students, applies not only to Newcastle but the wider UK demographic. 
 
 
-# 7. Reflection on the hypothetical 'real-life' implication of TenantTalk
-- The entire platform being based off of a non-profit organization advocating for tenants rights means that there is no direct source of income for the org to run the platform on the web, let alone an app. Whilst it is plausible to get funding through campaigns and fundraisers aimed specifically for this goal, in the long-term it is a unsustainable model, unless features such as in-app ads are implemented.
-
-## Data Protection and the Acessibillity of Our Platform
-Non-discrimination
+# 7. Reflection on the hypothetical 'real-life' implications of TenantTalk
+## Verification Process
+ETHAN to fill this in
 <br>
 
-## Verification Process
+## Sustainability of Our Platform
+As our entire platform is based off and funded by a non-profit organization advocating for tenants rights, there is no direct source of income for *Homes to Newcastle* to run the platform. Whilst it is plausible to get funding through campaigns and fundraisers aimed specifically for this goal, or perhaps relying on volunteers to donate their verify our tenant submissions, our app could long-term be an unsustainable model, unless features such as in-app ads are implemented. However, this directly conflicts with **Tenant Talk**'s non-commercial agenda and if we were to pay individuals to verify submissions the app would need to be well funded in order to avoid enforcing low paid micro-task related jobs like Mechanical Turk. It could be the case that we could acquire funding from Newcastle City Council on the basis that our project aims to work towards formulating an "inclusive economy", 
+"helping individuals to regain confidence", "connect to their communities", and that the beneficiaries are Newcastle tenant residents (Newcastle City Council, 2024).
+<br>
 
+However, if funding resource issues were to be overcome, **Tenant Talk** could become a very sustainable platform as it allows *Homes to Newcastle* access to an uncharted territory of readily availlable, mass qualitative digital data stories opposed to the organisation going door-to-door to talk to students. The meaningful qualitative data can be used as evidence to improve the housing market/ push through rental reforms in the wider UK.
+<br>
+
+## Data Protection and the Acessibillity of Our Platform
+ETHAN TO FILL THIS IN FROM ETHANS PRESENTATION SLIDES
 <br>
 
 ## Terms of Service 
@@ -470,30 +476,24 @@ A ToS agreement will be required for Tenant Talk. We did not have the time to wr
 <br>
 
 <img width="766" alt="Screenshot 2024-05-10 at 15 10 57" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/714578a5-e319-40e0-8b61-ebd14345fcd3">
-
-
-## Sustainablity of Our Platform
-- If Tenant Talk were to be a long-term application for an under-resourced organisation, there would be limits on having real people validate data (time, logistics?)
-- Allows close inspection of qualitative entries is a meaninful use of their time rather than engaging in door-to-door talking to students.
-
 <br>
-
-
 
 # 8. Our Digital Approach
 **Figma:**
 Figma allowed us to create a prototype for the app with a function similar to that of the final product. Its versatility from being able to present the prototype via link, to allowing live collaboration also made it an excellent choice for refining the work we created over time.
-<br><br>
+<br>
+
 **Adobe Illustrator:**
 The programme is an industry standard for creating assets to use in animation and digital designs. Using this programme to create objects such as the house interior and exterior allows us to export the created file, as a vector or svg file. This ensures that the visual end product retains its quality no matter the screen display, and also makes it easier for html development.
-<br><br>
+<br>
+
 **Visual Studio Code:**
 The freedom and flexibility of visual studio code allowed us to seamlessly transfer markdown, mermaid, html, css and javascript to our github seamlessly. And it’s plethora of plugins allows us to write certain codes easier.
-<br><br>
-**Microsoft Forms:**
-At the current stage where we do not have a server to collect and store data, microsoft forms was and is the best option for us to collect qualitative data from tenants. Whilst it is limited in its reach due to the manual labor it is still an effective method of collection.
+<br>
 
-- Allows *Homes to Newcastle* access to an uncharted territory of readily availlable, mass qualitative data stories.
+**Microsoft Forms:**
+At the current stage where we do not have a server to collect and store data, microsoft forms was and is the best option for us to collect qualitative data from tenants. Whilst it is limited in its reach due to the manual labor it is still an effective method of collection. 
+<BR>
 
 # 9. Works Cited
 ## The full bibliographic list of works cited throughout Tenant Talk's design, framing, context discussions/ analysis, and research process- as well as those used within the app itself- can be found below.
