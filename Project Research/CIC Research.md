@@ -10,9 +10,12 @@
 A CIC is usually a non-profit organisation and is focused on the goals of its target community. This means it could not become a limited company and work for profit, but it could become a charity if desired. They work with volunteers, local people who want to help their community so give their time to help. They usually aren't huge organisations as they don't work for profit. That means we are working with a group of people who all care very much about the cause (Homes for Newcastle), and have knowledge in the problem that their target community is facing. 
 <br>
 
-## Their Campaigns
+## Our project
+- "Political parties and political campaigning organisations, or any companies that they own or control, are not permitted to become CICs"
+- This means that for our project we need to remain non-political. We need to discuss gentrification, landlords, and student renting, without discussing politics.
+- We believe we have stuck to this and still included lots of information for our students whilst abiding by the CIC guidelines.
 
-
+  
 ### References
 
 - SumUp (no date) Community Interest Company (CIC) - What is a CIC?. Available at: https://www.sumup.com/en-gb/invoices/dictionary/community-interest-company/. Accessed on: 4 May 2024.
