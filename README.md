@@ -303,7 +303,7 @@ Subsequent linking pages from the opening page:
 <br>
 
 ### Third (and final) iteration: the Tenant Talk opening app page (Soi and Blythe)
-The final iteraction is based on the following mood board:
+The final iteration is based on the following mood board:
 <br>
 
 <img width="533" alt="Screenshot 2024-05-10 at 14 48 06" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/0cfde864-0935-4213-84d1-6017dfc02347">
@@ -359,7 +359,7 @@ This is the mood board we created:
 <img width="889" alt="Screenshot 2024-05-10 at 14 46 38" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/d05f1890-8765-4eeb-ae8e-a8b0d254e24c">
 <br>
 
-We also considered zine designs of marginalised communities: https://eu.usatoday.com/picture-gallery/news/nation/2021/07/31/zines-have-long-history-communities-color/5387294001/) 
+We also considered [zine designs of marginalised communities](https://eu.usatoday.com/picture-gallery/news/nation/2021/07/31/zines-have-long-history-communities-color/5387294001/).
 <br>
 
 This led us to the idea of producing the Handbook in a magazine format. 
