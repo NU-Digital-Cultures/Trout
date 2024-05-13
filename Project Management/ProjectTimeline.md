@@ -54,5 +54,6 @@ gantt
 
     section Troy
     Researched other apps for inspiration    :2024-03-12  , 12d
+    Zine culture research:2024-03-05, 14d
     Started version 1 of the tenant talk app      : 24d
     Tenant Roundup:2024-04-21, 14d
