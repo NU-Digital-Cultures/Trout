@@ -176,6 +176,9 @@ The results of our survey were used to inform the production of our app, in that
 3. Used to create our [example tenant tales submissions](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Research%20Methods/TenantTales.md).
 <br>
 
+## *Homes to Newcastle* as a CIC
+As our digital tool is to be created for a Company Interest Company (CIC), we undertook some inital [prelimary research](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/CIC%20Research.md) on what this might mean for our project.
+
 # 4. Tenant Talk's Framing Devices
 In order to achieve *Homes to Newcastle*'s aims, we decided on two major critical framing devices that would uniquely shape our project, which are briefly summarised below. These devices mostly steer the creative direction of our **Tenant Tales** interactive map, however, the principles underpinning them are carried over to all three of our app sections.
 <br>
@@ -494,6 +497,12 @@ Finally, the [file](https://github.com/NU-Digital-Cultures/Trout/blob/main/'Real
 <br>
 
 # 8. Our Digital Approach
+Initial research on the what digital tools we would used is considered [here](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Direction/TechnologyReflections.md).
+<br>
+
+However, in summation:
+<br>
+
 **Figma:**
 Figma allowed us to create a prototype for the app with a function similar to that of the final product. Its versatility from being able to present the prototype via link, to allowing live collaboration also made it an excellent choice for refining the work we created over time.
 <br>
@@ -512,6 +521,9 @@ At the current stage where we do not have a server to collect and store data, mi
 
 # 9. Works Cited
 ## The full bibliographic list of works cited throughout Tenant Talk's design, framing, context discussions/ analysis, and research process- as well as those used within the app itself- can be found below.
+<br>
+
+Aitken, M (2024) 'Community Interest Companies - Everything You Need to know', *1st formations*. Available at: https://www.1stformations.co.uk/blog/community-interest-companies (Accessed: 12 May 2024).
 <br>
 
 Asquith, S. (2016) 'Students: 10 things to consider before renting for the first time, *The Guardian*, 30 August. Available at: https://www.theguardian.com/education/2016/aug/30/10-things-to-consider-before-renting-for-the-first-time (Accessed: 1 May 2024).
@@ -590,6 +602,9 @@ Heins, C. (2022) 'Generation Zine: Why the Revival of Zine Culture Is Crucial To
 <br>
 
 Hull, G. A. and Nelson, M. E. (2005) ‘Locating the Semiotic Power of Multimodality’, *Written Communication*, 22(2), pp. 224-261. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1177/0741088304274170 
+<br>
+
+Juliver, J. (2024) 'What is GitHub? (And What Is It Used For?)', Hubspot, 1st April. Available at: https://blog.hubspot.com/website/what-is-github-used-for#:~:text=GitHub%20is%20an%20online%20software,developers%20on%20open%2Dsource%20projects (Accessed: 2 May 2024).
 <br>
 
 Kloos, B., Zimmerman, S.O., Scrimenti, K. and Crusto, C. (2002) 'Landlords as partners for promoting success in supported housing: "It takes more than a lease and a key."', *Psychiatric Rehabilitation Journal*, 25(3), pp. 235-244. Available at: https://psycnet.apa.org/doi/10.1037/h0095019
@@ -713,10 +728,16 @@ Stephen, P. (2022) 'Residents continue their campaign against student housing on
 Students' Union Ucl (2022) *Student guide to tenant fees*. Available at: https://studentsunionucl.org/articles/student-guide-to-tenant-fees (Accessed: 23 May 2024).
 <br>
 
+SumUp (2024) *Community Interest Company (CIC) - What is a CIC?*. Available at: https://www.sumup.com/en-gb/invoices/dictionary/community-interest-company/ (Accessed: 4 May 2024).
+<br>
+
 Tenant Talk (2024) 'Tenant Talk Survey: An Investigation into student tenant renting experiences'. Unpublished.
 <br>
 
 UK Government (2023) *Guide to the Renters (Reform) Bill*. Available at: https://www.gov.uk/guidance/guide-to-the-renters-reform-bill (Accessed: 28 April 2024).
+<br>
+
+UK Government (2024) *Setting up a social enterprise*. Available at: https://www.gov.uk/set-up-a-social-enterprise (Accessed: 3 May 2024).
 <br>
 
 UK Parliament (2024) *Reforming the Private Renting Sector Government’s response to the Committee’s Fifth Report of Session 2022-23*. Available at: https://publications.parliament.uk/pa/cm5803/cmselect/cmcomloc/1935/report.html (Accessed: 28 April 2024).
