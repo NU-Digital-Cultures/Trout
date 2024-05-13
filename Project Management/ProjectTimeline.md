@@ -31,6 +31,7 @@ gantt
     Technology Reflection:2024-04-30, 14d
     Upload CIC Research on GitHub:2024-04-30, 14d
     Edit GitHub branches:2024-05-07, 6d
+    Make sure everything from main branch is on new branch:2024-05-07, 7d
 
     section Soi
     Collect Critical literature on digital storytelling:2024-03-02, 7d
@@ -50,7 +51,7 @@ gantt
     Gentrification research: 2024-03-26, 14d
     Research on student grassroot campaigns and debates:2024-04-15, 14d
     Research on the UI/UX of the app:2024-04-30, 7d
-    another task      : 24d
+
     section Troy
     Researched other apps for inspiration    :2024-03-12  , 12d
     Started version 1 of the tenant talk app      : 24d
