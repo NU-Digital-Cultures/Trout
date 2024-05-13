@@ -456,16 +456,16 @@ Another challenge we faced was visual clutter. The second iteration of our app d
 
 # 7. Reflection on the hypothetical 'real-life' implications of TenantTalk
 ## Verification Process
-All submissions to the app will come directly to us first and undergo checks before uploaded onto the app. This users creating an account and signing to a Term of Services agreement (see below) which prohibits the submission of fake stories or claims. 
+All submissions to the app will come directly to us first and undergo checks before being uploaded to the app. This requires users to create an account and sign a Terms of Service agreement, which prohibits the submission of fake stories or claims.
 <br>
 
-And for us, we need to check for inappropriate words and phrases, images, voice notes, and artwork details promptly.
+We need to check for inappropriate words and phrases, images, voice notes, and artwork details promptly.
 <br>
 
-Equally follow to the GDPR (General Data Protection Regulations) standards, the "identificable details"  shoould not be disclosed.
+We must also adhere to the GDPR (General Data Protection Regulations) standards, which dictate that "identifiable details" should not be disclosed.
 <br>
 
-Rather than putting a rejection system entirely, we prefer to make necessary edits to submission to make them acceptable to submit.
+Rather than implementing a complete rejection system, we prefer to make necessary edits to submissions to ensure they are acceptable for submission.
 <br>
 
 ## Sustainability of Our Platform
