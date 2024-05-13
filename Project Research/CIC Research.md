@@ -1,4 +1,4 @@
-# Community Interest Companies
+# This file is us figuring our what a Community Interest Company is and how this might shape our project
 
 ## What are they?
 
@@ -18,7 +18,7 @@ A CIC is usually a non-profit organisation and is focused on the goals of its ta
   
 ### References
 
-- Aitken, M (no date) Community Interest Companies - Everything You Need to know. *1st Formations*. Available at: https://www.1stformations.co.uk/blog/community-interest-companies. Accessed on: 12 May 2024.
-- SumUp (no date) Community Interest Company (CIC) - What is a CIC?. Available at: https://www.sumup.com/en-gb/invoices/dictionary/community-interest-company/. Accessed on: 4 May 2024.
-- UK Government (no date) Setting up a social enterprise. Gov.uk. Available at: https://www.gov.uk/set-up-a-social-enterprise. Accessed on: 3 May 2024.
+- Aitken, M (2024) 'Community Interest Companies - Everything You Need to know', *1st formations*. Available at: https://www.1stformations.co.uk/blog/community-interest-companies (Accessed: 12 May 2024).
+- SumUp (2024) *Community Interest Company (CIC) - What is a CIC?*. Available at: https://www.sumup.com/en-gb/invoices/dictionary/community-interest-company/ (Accessed: 4 May 2024).
+- UK Government (2024) *Setting up a social enterprise*. Available at: https://www.gov.uk/set-up-a-social-enterprise (Accessed: 3 May 2024).
 <br>
