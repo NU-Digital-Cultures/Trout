@@ -455,17 +455,21 @@ Another challenge we faced was visual clutter. The second iteration of our app d
 
 
 # 7. Reflection on the hypothetical 'real-life' implications of TenantTalk
-## Verification Process
-All submissions to the app will come directly to us first and undergo checks before being uploaded to the app. This requires users to create an account and sign a Terms of Service agreement, which prohibits the submission of fake stories or claims.
+## Our idea for a Verification Process
+All submissions made to our app will come directly to us first, undergoing data checks before being uploaded to the app. With wider funding, this could be achieved by a server. Checks would include inspection for inappropriate words and phrases, images, voice notes, and artwork details. It will also filter out 'jargon' submissions, ie. submissions that are entirely irrelevant to the overall content theme of our app. This would need to be implemented at an efficient technical level, so to avoid the ethical dilemma of potentially filtering out submissions that are very abstract but nevertheless relevant to our app. As stated later in our tenant contributions section, there could be certain 'tick boxes' or prompts for tenants when making their submissions so that they stay on track with Tenant Talk's agenda.
 <br>
 
-We need to check for inappropriate words and phrases, images, voice notes, and artwork details promptly.
+Users are also required to create an account and sign a Terms of Service agreement, which prohibits the submission of fake stories or claims. We did not have the time to write up a formal ToS, however discussed what it would be and look like below.
 <br>
 
-We must also adhere to the GDPR (General Data Protection Regulations) standards, which dictate that "identifiable details" should not be disclosed.
+<img width="766" alt="Screenshot 2024-05-10 at 15 10 57" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/714578a5-e319-40e0-8b61-ebd14345fcd3">
 <br>
 
-Rather than implementing a complete rejection system, we prefer to make necessary edits to submissions to ensure they are acceptable for submission.
+Rather than implementing a complete rejection system of submissions, we would prefer the approach of makeing necessary edits to submissions to ensure they are acceptable for submission. This includes where users publish "identifiable details" of themselves, which would conflict the GDPR data protection regulations we would need to comply with (which is discussed later).
+<br>
+
+## Tenant Contributions
+We have considered the logistics of and explained how tenants will contribute to our app via uploading their submissions [here](https://github.com/NU-Digital-Cultures/Trout/blob/main/Project%20Direction/TenantContributions.md).
 <br>
 
 ## Sustainability of Our Platform
@@ -487,16 +491,6 @@ The second regulation is the UK Data Protection Act (2018). This act overlaps co
 <br>
 
 Finally, the [file](https://github.com/NU-Digital-Cultures/Trout/blob/main/'Real-life'%20Implications/HandlingUserData.md) also considers the significance of enforcing non-discrimination in digital tools.
-
-## Tenant Contributions
-We have considered the logistics of and explained how tenants will contribute to our app via uploading their submissions [here](https://github.com/NU-Digital-Cultures/Trout/blob/main/Project%20Direction/TenantContributions.md).
-<br>
-
-## Terms of Service 
-A ToS agreement will be required for Tenant Talk. We did not have the time to write up a formal ToS, however discussed what it would be and look like below.
-<br>
-
-<img width="766" alt="Screenshot 2024-05-10 at 15 10 57" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/714578a5-e319-40e0-8b61-ebd14345fcd3">
 <br>
 
 # 8. Our Digital Approach
