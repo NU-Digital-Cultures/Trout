@@ -480,7 +480,7 @@ As our entire platform is based off and funded by a non-profit organization advo
 However, if funding resource issues were to be overcome, **Tenant Talk** could become a very sustainable platform as it allows *Homes to Newcastle* access to an uncharted territory of readily available, mass qualitative digital data stories opposed to the organisation going door-to-door to talk to students. The meaningful qualitative data can be used as informative evidence for the organisation in how they can best support student tenants, but also as evidence to provoke improvements in the housing and renting market/ push through rental reforms in the wider UK.
 <br>
 
-## Data Protection and the Acessibility of Our Platform
+## Data Protection and the Accessibility of Our Platform
 Our break down of how we would need to comply with data protection regulations is [here](https://github.com/NU-Digital-Cultures/Trout/blob/main/'Real-life'%20Implications/HandlingUserData.md). 
 <br>
 
