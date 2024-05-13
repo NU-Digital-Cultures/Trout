@@ -227,7 +227,7 @@ These decisions were made in relation to our group discussions which are capture
 Over time, we updated this [flow diagram](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Direction/ScopeOfProject.md) to capture the full scope of our project. 
 <br>
 
-Alongside discussions with eachother and the creation of offline and online ['to-do' lists](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/Updated%20to%20do%20list.md), we more formally documented our individual taks using a Gantt chart as a [project timeline](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/ProjectTimeline.md). 
+Alongside discussions with each other and the creation of offline and online ['to-do' lists](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/Updated%20to%20do%20list.md), we more formally documented our individual tasks using a Gantt chart as a [project timeline](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Management/ProjectTimeline.md). 
 <br> 
 
 ## Tenant Talk's Design Process
