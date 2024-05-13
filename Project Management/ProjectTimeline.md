@@ -51,9 +51,11 @@ gantt
     Gentrification research: 2024-03-26, 14d
     Research on student grassroot campaigns and debates:2024-04-15, 14d
     Research on the UI/UX of the app:2024-04-30, 7d
+    Presentation:2024-05-02, 7d
 
     section Troy
     Researched other apps for inspiration    :2024-03-12  , 12d
     Zine culture research:2024-03-05, 14d
     Started version 1 of the tenant talk app      : 24d
     Tenant Roundup:2024-04-21, 14d
+    Presentation:2024-05-02, 7d
