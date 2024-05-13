@@ -477,11 +477,20 @@ However, if funding resource issues were to be overcome, **Tenant Talk** could b
 <br>
 
 ## Data Protection and the Acessibillity of Our Platform
-Our break down of the data protection regulations we would need to comply with is [here](https://github.com/NU-Digital-Cultures/Trout/blob/main/'Real-life'%20Implications/HandlingUserData.md). However, in summation:
-There are two data protection regulations in total. The first one is the GDPR, also known as the General Data Protection Regulation, which is enforced by the EU Parliament and Council. It is legally binding across the EU and fully implementable in EU countries. Although Great Britain is no longer a part of the EU, it still applies to the UK, and it would be good practice to continue abiding by such laws. For example, we have designed our personal data processing in compliance with the GDPR to ensure it is humane. Additionally, submissions by users will be anonymized with pseudonyms, and data input on our app will be held with the highest confidentiality. In other words, submissions to the app will have to be read and checked by us but not discussed further. Moreover, a confidentiality agreement will be signed, and data will be stored exclusively and securely on our system. Thirdly, we will not be processing much data, and certainly not for economic purposes. However, in the consent form, we will state transparently how user data will be collected, stored, and used on and by our app.
+Our break down of how we would need to comply with data protection regulations is [here](https://github.com/NU-Digital-Cultures/Trout/blob/main/'Real-life'%20Implications/HandlingUserData.md). 
 <br>
 
-The second regulation is the Data Protection Act (2018). Likewise, the protection of personal data is clear; this is similar to GDPR. It stipulates the requirement that "personal data need to be processed lawfully and fairly," based on the data subject's consent. This Data Protection Act states that inaccurate personal data must be rectified. For example, some key data types such as names, numbers, and location data are covered. Moreover, the processing of personal data that is necessary for the performance of a task carried out in the public interest or in the exercise of the controller's official authority includes processing necessary for: 'the administration of justice' or 'the exercise of a function conferred on a person by enactment or rule of law". 
+This includes the General Data Protection Regulation (GDPR) (2016) which is enforced by the EU Parliament and Council. It is legally binding across the EU and fully implementable in EU countries. Although Great Britain is no longer a part of the EU, it still applies to the UK, and it would be good practice for Tenant Talk to continue abiding by such laws. The file crucially considers what laws our digital tool (as created for a CIC, and uses data for a specific cause) would have to be shaped by.
+<br>
+
+The second regulation is the UK Data Protection Act (2018). This act overlaps considerably with GDPR standards.
+<br>
+
+Finally, the [file](https://github.com/NU-Digital-Cultures/Trout/blob/main/'Real-life'%20Implications/HandlingUserData.md) also considers the significance of enforcing non-discrimination in digital tools.
+
+## Tenant Contributions
+We have considered the logistics of and explained how tenants will contribute to our app via uploading their submissions [here](https://github.com/NU-Digital-Cultures/Trout/blob/main/Project%20Direction/TenantContributions.md).
+<br>
 
 ## Terms of Service 
 A ToS agreement will be required for Tenant Talk. We did not have the time to write up a formal ToS, however discussed what it would be and look like below.
