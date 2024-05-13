@@ -188,7 +188,7 @@ In order to achieve *Homes to Newcastle*'s aims, we decided on two major critica
 
 ## 1 continued. (Non-Linear & Interactive) Digital Storytelling 
 - We also conducted further research into [non-linear and interactive storytelling](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Digital%20Storytelling/InteractiveNonLinearStorytelling.md). This consisted of researching storytelling approaches that we could take inspiration from, from which would develop our own digital storytelling approach. Here we also interrogated the potential ethical, political, and social implications of interactive storytelling.
-- Here is our [non-linear storytelling visual](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Digital%20Storytelling/NonLinearStorytellingVisual.md), the non-linear torytelling theory that we used to underpin our **Tenant Tales** interactive map.
+- Here is our [non-linear storytelling visual](https://github.com/NU-Digital-Cultures/Trout/blob/tenant-talk/Project%20Research/Digital%20Storytelling/NonLinearStorytellingVisual.md), the non-linear storytelling theory that we used to underpin our **Tenant Tales** interactive map.
 <br>
 
 ➕
