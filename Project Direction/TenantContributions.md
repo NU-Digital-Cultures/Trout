@@ -1,18 +1,21 @@
-  # How we envision tenants contributing to TenantTalk 
+  # How we envision tenants contributing to TenantTalk ✍️
 
  **What contribution will tenants make?**
- - Tenants will upload personal submissions to TenantTalk via our app
- - Submissions can include written extracts, images, videos, artwork, poetry etc. As - points, within digital storytelling
- - For photos/ artwork, our app will allow users to upload photos from their camera roll/ take pictures of their artwork
- - Almost like a 'visual diary' can be uploaded
+Tenants will voluntarily upload their own personal stories to the **Tenant Tales** map. This will be achieved by clicking the 'Add your story!' button at the bottom of the map. 
+If we had time, we would have created a prototype for this and it coded into our final prototype. However, at a basic level, we envision that it would carry over the visual aesthetics of the opening app page, which include creating something that feels non-commercial and community produced. We would follow the existing style of not having buttons to click on as such, but that any linking elements will be embedded interactively into the visuals of the app. It could be that it would look something like an artist's painting palette, and where the colours of the paint are, there would be the type of submission form choices displayed. This is a very basic prototype but captures the general idea:
+<br>
 
-**How will tenants submissions be represented?**
-  - As our app provides the platform function for storytelling to occur, the way in which we require users to utilise our app will consequently dictate the means, content, and types of tenant stories told. As Dush highlights, being a 'sponsor' to the storytelling of someone else's experience can lead to "appropriating someone else's story if they are not given creative control at all moments." Dush, 2012, p.631
-  - Therefore, TenantTalk allows for tenants to represent their submissions in various flexible ways/ utilise different mediums of conveying their personal realities, which permits ownership and self-dictation over how their stories are told 
-  - We will also think critically and evaluate throughout the process our role as storyteller facilitators 
+<img width="1440" alt="Screenshot 2024-05-13 at 09 38 53" src="https://github.com/NU-Digital-Cultures/Trout/assets/160641654/a95c04a1-66ac-474e-b66f-cac885a4a464">
+<br>
+
+ - For photos/ artwork, our app will allow users to upload photos from their camera roll/ upload pictures or files of their artwork
+ - For audio content, they can record a voice note, like how Apple allows you to do so on iMessage
+ - The idea is that almost like a 'visual diary' can be uploaded
+<br>
+
+We will continue to think critically and evaluate throughout our project process our role as student tenant storyteller facilitators.
 
 **Criteria of tenants' submissions**
-- As priorly stated, submissions to the app will be considered flexibly, however submissions also need to be somehwhat constrained by certain criteria to make sure they are relevant to the content of our app
-- This could be achieved by our app providing prompts/ tick box options that users could expand upon. These would be based off the responses received from the Survey
-- We would need some kind of check on responses and perhaps a verification process
+- Submissions could also need to be somehwhat constrained by certain criteria to make sure they are relevant to the content of our app
+- This could be achieved by our app providing prompts/ tick box options that users could expand upon. These could be based off the responses received from our survey
 
