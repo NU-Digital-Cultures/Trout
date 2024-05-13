@@ -20,7 +20,7 @@
 <br>
 
 ## Student Tenant Grassroot Campaigns:
-<h2>https://theedinburghreporter.co.uk/2022/08/residents-continue-their-campaign-against-student-housing-on-eyre-place-lane/</h2>
+### Stephen, P. (2022) 'Residents continue their campaign against student housing on Eyre Place Lane', *The Edinburgh Reporter*, 19 August. Available at: https://theedinburghreporter.co.uk/2022/08/residents-continue-their-campaign-against-student-housing-on-eyre-place-lane/ (Accessed: 17 April).
 <h3>This is a grassroot campaign of the local residents against the property developers</h3>
 This report describes how even though some local residents objected to the property developer： Eyre Place Lane building a student accommodation block on the site, the developer went ahead with plans to build student accommodation.
 <br>
@@ -28,7 +28,7 @@ This report describes how even though some local residents objected to the prope
 Residents were concerned that the scale of the student accommodation was inappropriate for the site, that it would block sunlight and cast shadows on the community garden, and that student parties and terraces would have a negative impact on the neighbourhood. In addition, they questioned whether the developer had exceeded the boundaries of their proposed land ownership. As a result, they coordinated their opposition through the formation of a special interest group and the site. The result was criticism from local officials that it was not in the best interests of the community or the students. However, the end result was that the developers decided to go ahead with their plans for purpose-built student accommodation.
 <br>
 
-<h2>https://www.nusconnect.org.uk/campaigns/liber8-education/affordable-housing-for-all</h2>
+### National Union of Students Charity (2024) *Affordable housing for all*. Available at: https://www.nusconnect.org.uk/campaigns/liber8-education/affordable-housing-for-all (Accessed: 17 April).
 <h3>This is a grassroot campaign hold by the national union of students</h3>
 The problem is this: in the face of rising student accommodation costs without any increase in their own financial means, the proportion of private halls of residence has increased so that students are living in poorer quality but costly halls of residence. 
 <br>
@@ -39,7 +39,7 @@ They are working with Acorn and Generation to create a UK-wide tenants' union to
 They called on activists to be able to think about and consider linking up with other local housing campaigns to hold unscrupulous landlords and extortion agents accountable. Start by setting up a rental network to organise affordable halls of residence on campus.
 <br>
 
-<h2>https://www.cardiffstudents.com/activities/studentled/housingaction/</h2>
+#### Cardiff Students' Union (2024) *Housing Action*. Available at: https://www.cardiffstudents.com/activities/studentled/housingaction/ (Accessed: 17 April).
 <h3>This is a grassroot campaign held by Cardiff's Students Union</h3>
 This grassroots movement is concerned about the crisis caused by the student housing shortage and wants to make a difference.
 <br>
@@ -51,12 +51,12 @@ They are now gathering information on the housing experiences of Cardiff Univers
 Their long term plan is to make the Housing Action group an effective long term group at Cardiff and are looking for first and second year students to take over the committee next year.
 <br>
 
-<h2>https://www.nus.org.uk/cost-of-living</h2>
+### National Union of Students (2024) *Cost of Living Campaign*. Available at: https://www.nus.org.uk/cost-of-living (Accessed: 17 April).
 <h3>This is a grassroot campaign hold by National Union of Students</h3>
 The National Union of Students is calling on the next government to end the student cost of living crisis within the first 100 days. This is because they are now living on the UK minimum wage after paying their rent.
 <br>
 
-<h2>https://www.theguardian.com/money/2023/nov/18/rent-rebels-the-tenants-who-fought-for-their-rights-and-won</h2>
+### Marsh, S. (2023) 'Rent rebels: the tenants who fought for their rights and won, *The Guardian*, 18 November. Available at: https://www.theguardian.com/money/2023/nov/18/rent-rebels-the-tenants-who-fought-for-their-rights-and-won (Accessed: 17 April).
 <h3>This is a grassroot campaign by tenants in London</h3>
 1.	During the COVID-9 period, some tenants working on a freelance basis asked their landlords to be able to reduce their rents by 20 per cent because they could not afford to pay them, but this was considered to be unreasonable behaviour by the housing agency called Tower Quay, and they refused to negotiate with the tenancy associations. The landlord (housing agency) said that it was not impossible to offer all the concessions that the tenants had, but the government did not provide any support to the landlord.
 <br>
@@ -64,7 +64,7 @@ The National Union of Students is calling on the next government to end the stud
 2.	The dispute didn't stop there. Two tenants, facing eviction for not renewing their tenancies on time, took their landlord: Simpson House 3 Ltd, to court. They argued that the landlord had failed to obtain a house of multiple occupancy (HMO) licence. The result? The landlord settled out of court, acknowledging the tenants' rights. As a result, the tenants were compensated with 70% of their rent and were allowed to continue living in their flats.
 <br>
 
-<h2>https://www.timeshighereducation.com/student/blogs/why-uk-students-are-protesting-against-private-accommodation-providers</h2>
+### O'Brien, A. (2016) 'Why UK students are protesting against private accomodation providers', *Times Higher Education*, 28 October. Availa ble at: https://www.timeshighereducation.com/student/blogs/why-uk-students-are-protesting-against-private-accommodation-providers (Accessed: 17 April).
 <br>
 
 This report focuses on student protests against private accommodation providers in the UK, and the reasons for them
@@ -77,7 +77,7 @@ This report focuses on student protests against private accommodation providers 
 <br>
 
 ## Key debates surrounding student renting:
-<h2>https://news.sky.com/story/student-rent-strike-campaigns-gathering-pace-against-exploitation-10581250</h2>
+### Marx, W. (2016) 'Student rent strike campaigns gathering pace against 'exploitation'', *Sky News*, 17 September. Available at: https://news.sky.com/story/student-rent-strike-campaigns-gathering-pace-against-exploitation-10581250 (Accessed: 17 April).
 <br> 
 
 This debate in this website is based on a <b>rent dispute</b> between students at Goldsmiths University of London and the company Campus Living Villages (CLV)
