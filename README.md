@@ -551,6 +551,9 @@ Burgess, J. (2008) ‘Hearing ordinary voices: cultural studies, vernacular crea
 Cameron, S. (2003) 'Gentrification, Housing Redifferentiation and Urban Regeneration: 'Going for Growth' in Newcastle Upon Tyne', *Urban Studies*, 40(12), pp. 2367-2382. Available at: https://doi-org.libproxy.ncl.ac.uk/10.1080/0042098032000136110
 <br>
 
+Cardiff Students' Union (2024) *Housing Action*. Available at: https://www.cardiffstudents.com/activities/studentled/housingaction/ (Accessed: 17 April).
+<br>
+
 Chisholm, E., Howden-Chapman, P. and Fougere, G. (2017) 'Renting in New Zealand: perspectives from tenant advocates', *Kotuitui: New Zealand Journal of Social Sciences Online*, 12(1), pp. 95-110. Available at: https://doi.org/10.1080/1177083X.2016.1272471
 <br>
 
@@ -628,8 +631,19 @@ McKinlay, A. and Starkey, K. P. (1997) *Foucault, management and organization th
 Malone, M. (2023) 'Existential housing crisis at UK universities leaves students struggling, says NUS', *Sky News*, 23 December. Available at: https://news.sky.com/story/existential-housing-crisis-at-uk-universities-leaving-students-struggling-13035841 (Accessed: 22 April 2024).
 <br>
 
-National Union of Students (2024) *Housing Policy*. Available at: https://www.nus.org.uk/housing#:~:text=Many%20students%20find%20themselves%20in,prioritise%20employment%20over%20their%20degrees. (Accessed: 22 April 2024).
+Marsh, S. (2023) 'Rent rebels: the tenants who fought for their rights and won, *The Guardian*, 18 November. Available at: https://www.theguardian.com/money/2023/nov/18/rent-rebels-the-tenants-who-fought-for-their-rights-and-won (Accessed: 17 April).
 <br>
+
+Marx, W. (2016) 'Student rent strike campaigns gathering pace against 'exploitation'', *Sky News*, 17 September. Available at: https://news.sky.com/story/student-rent-strike-campaigns-gathering-pace-against-exploitation-10581250 (Accessed: 17 April).
+<br>
+
+National Union of Students Charity (2024) *Affordable housing for all*. Available at: https://www.nusconnect.org.uk/campaigns/liber8-education/affordable-housing-for-all (Accessed: 17 April).
+<br> 
+
+National Union of Students (2024a) *Housing Policy*. Available at: https://www.nus.org.uk/housing#:~:text=Many%20students%20find%20themselves%20in,prioritise%20employment%20over%20their%20degrees. (Accessed: 22 April 2024).
+<br>
+
+National Union of Students (2024b) *Cost of Living Campaign*. Available at: https://www.nus.org.uk/cost-of-living (Accessed: 17 April).
 
 Newcastle City Council (2024a) *Private Rented Service Newcastle*. Available at: https://www.newcastle.gov.uk/private-rented-service-newcastle (Accessed: 1 April 2024).
 <br>
@@ -640,6 +654,9 @@ Newcastle: Ltd (2023) *The Gentrification And Urban Development Of Newcastle Upo
 <br>
 
 North East Law Centre (2024) *Home - North East Law Centre*. Available at: https://www.nelawcentre.co.uk/ (Accessed: 28 April 2024).
+<br>
+
+O'Brien, A. (2016) 'Why UK students are protesting against private accomodation providers', *Times Higher Education*, 28 October. Availa ble at: https://www.timeshighereducation.com/student/blogs/why-uk-students-are-protesting-against-private-accommodation-providers (Accessed: 17 April).
 <br>
 
 Parliament. House of Commons (2023) *Reforming the Private Sector: Government's response to the Committee's Fifth Report of Session 2022-23* (HC 1935) Available at: https://committees.parliament.uk/publications/41806/documents/207184/default/ (Accessed: 28 April 2024).
@@ -690,7 +707,13 @@ Soiata, A. M. and McKee, K. (2019) 'Assembling a 'kind of' home in the UK privat
 Shelter (2024) *Rent increases for private tenants*. Available at: https://england.shelter.org.uk/housing_advice/private_renting/rent_increases (Accessed: 23 May 2024).
 <br>
 
+Stephen, P. (2022) 'Residents continue their campaign against student housing on Eyre Place Lane', *The Edinburgh Reporter*, 19 August. Available at: https://theedinburghreporter.co.uk/2022/08/residents-continue-their-campaign-against-student-housing-on-eyre-place-lane/ (Accessed: 17 April).
+<br>
+
 Students' Union Ucl (2022) *Student guide to tenant fees*. Available at: https://studentsunionucl.org/articles/student-guide-to-tenant-fees (Accessed: 23 May 2024).
+<br>
+
+Tenant Talk (2024) 'Tenant Talk Survey: An Investigation into student tenant renting experiences'. Unpublished.
 <br>
 
 UK Government (2023) *Guide to the Renters (Reform) Bill*. Available at: https://www.gov.uk/guidance/guide-to-the-renters-reform-bill (Accessed: 28 April 2024).
